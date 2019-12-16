@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="2099" fecha="2017-05-10T01:17:36" sello="EB0gqf/0mwSfl6iQK6G04snfnSy5+wuCxk5bNTAlZD7emosoHm9ZN4AduIKcKIBa2hkxn1xYr7vF2QYKeU6iRLRE533acUZv6BRQdWaPh/IOx2MwPaijj/hxOsC9f7dlyLqa6RSqsT0uu98lQD/YJ6873c4yb4pMssmKTus0XNw=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="1011.21" TipoCambio="1.00" Moneda="MXN" total="1173.00" metodoDePago="99" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Personas Físicas con Actividades Empresariales y Profesionales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XAXX010101000" nombre="MARTHA ELENA ROSAS ROSAS">
+		<cfdi:Domicilio calle="PRESA DE LA BOCA" noExterior="3840" colonia="NUEVA MODELO" municipio="MONTERREY" estado="NUEVO LEON" pais="MEXICO" codigoPostal="64160"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40918" descripcion="TINTE CHROMA SILK 10.1" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40925" descripcion="TINTE CHROMA SILK 9.13" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40966" descripcion="TINTE CHROMA SILK 9.04" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40896" descripcion="DECOLORANTE PURE LIGHT 680G" valorUnitario="369.8276" importe="369.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43093" descripcion="PEROXIDO CHROMA SILK 20 VOL. 1L" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="161.79">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="161.79"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="K7T2Mis0h6RtRFQt/Fm5PoNXQER84/7ineyQDAzutwnXzUypXM9/r6QtRqI7LC7rMSQPCfRFUT5lEwbgf9eQpjnToKy/LeU5gOvBzPMfw88XAPjNDJYJHL+X+OWcum7AMTTAx2TTf8BD0WjJXMFwOR4hxYDwnSAzOwIVtrU6hiOivTvjzvCG0bgB9gEDLQxnqN63zsE4kc3jbsBuky8p7XK/q/sLpq8bEJIAtOGaMXdi7pM6PUYi+jU3qgMb6oLUjutjJOVxjYuZ4uBlhmXqClgzHqFrP3NvvF5oGwg+532SbRvlBysHEgkCeMX1vjIoD86+dBFTHRDdnUAsIIZP3g==" noCertificadoSAT="00001000000401041203" selloCFD="EB0gqf/0mwSfl6iQK6G04snfnSy5+wuCxk5bNTAlZD7emosoHm9ZN4AduIKcKIBa2hkxn1xYr7vF2QYKeU6iRLRE533acUZv6BRQdWaPh/IOx2MwPaijj/hxOsC9f7dlyLqa6RSqsT0uu98lQD/YJ6873c4yb4pMssmKTus0XNw=" FechaTimbrado="2017-05-10T01:31:26" UUID="078FA2F9-90E9-6D40-A5DF-ADEB95B473F9" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

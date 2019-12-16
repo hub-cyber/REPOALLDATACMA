@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="2145" fecha="2017-05-20T00:08:38" sello="Hb8hXIkuE1E9lr28sjzjK7iaAJkce1MjwnhC7Py5IA209QqCvHOtDJiaDgxi6XUSx5b18/yYM3vvY4U1971LB3B7X9UKGn1NhPcaPksUjqGpRS8C8bDRlQc8A8Iq1wFccndWXY6SkQ7BHf5+KINod9idQQczV0ErxLES+7xDacs=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="4697.41" TipoCambio="1.00" Moneda="MXN" total="5449.00" metodoDePago="99" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Personas Físicas con Actividades Empresariales y Profesionales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XAXX010101000" nombre="IVONNE ZORAIDA GARCIA VAZQUEZ">
+		<cfdi:Domicilio calle="AV SAN JOSE " noExterior="5115" noInterior="A" colonia="VALLE VERDE 3 SECTOR" localidad="MONTERREY" municipio="MONTERREY" estado="NUEVO LEON" pais="MEXICO" codigoPostal="64339"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40900" descripcion="SILKDEGREES SHINE SERUM 150ML " valorUnitario="141.3794" importe="141.38">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4" unidad="PIEZA" noIdentificacion="40899" descripcion="SILKDEGREES SHINE SERUM 60ML" valorUnitario="77.587" importe="310.35">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4" unidad="PIEZA" noIdentificacion="44223" descripcion="NEVO 60DEEP TREATMENT 250G" valorUnitario="223.2759" importe="893.10">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43890" descripcion="NEVO HYDRA PEARLS 120ML" valorUnitario="266.3794" importe="266.38">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="44747" descripcion="THE PERFECT BLONDE MASQUE 150ML " valorUnitario="177.5862" importe="355.17">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43092" descripcion="PEROXIDO CHROMA SILK 10 VOL. 1L" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43093" descripcion="PEROXIDO CHROMA SILK 20 VOL. 1L" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43094" descripcion="PEROXIDO CHROMA SILK 30 VOL. 1L" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43095" descripcion="PEROXIDO CHROMA SILK 40 VOL. 1L" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="40426" descripcion="SINTESIS HAIR COLOR REMOVER 150ML" valorUnitario="36.2069" importe="108.62">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="43641" descripcion="VIVIDS COLOR PROTECT SHAMPOO 300ML" valorUnitario="143.1035" importe="429.31">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="43642" descripcion="VIVIDS COLOR PROTECT CONDITIONER 300ML" valorUnitario="143.1035" importe="429.31">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43640" descripcion="VIVIDS COLOR PROTECT SHINE SPRAY 110ML" valorUnitario="150.00" importe="150.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44741" descripcion="THE PERFECT BLONDE SHAMPOO 300ML " valorUnitario="146.5517" importe="146.55">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44744" descripcion="THE PERFECT BLONDE CONDITIONER 300ML " valorUnitario="146.5517" importe="146.55">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="41878" descripcion="VOLUMIZING SHAMPOO 300ML" valorUnitario="125.8621" importe="125.86">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="41882" descripcion="VOLUMIZING CONDITIONER 300ML" valorUnitario="125.8621" importe="125.86">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4" unidad="PIEZA" noIdentificacion="40909" descripcion="TINTE CHROMA SILK 6" valorUnitario="106.8966" importe="427.59">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="751.59">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="751.59"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="g1JbyqGWDHzweSLhyhc2+nujEyVie3kVKUHEJ5GJF7512hJ9cKChHQZvJ9DbbqU6tQclSFYnb1jy8lneVm3YdXXISFlwrk5TEG45qE1qgNrJAqz3ShwbrwJoCRoDsA/z8Cbtel/c0BcUIzop4o569b2t2XXq1P7UUpXp/rGKg+lpE0ALL1TgdaxZZeUc7j8hlOzHv8XnW2VNzJLGBdZyX+7IeY+O3IUzI0Yx8gENZcseFVuvfHOzc/WAkTPgHC4eMOLU329yUi2iuALOTMZ13An5jJxzCkhWM/uPBLL3eIyeWjScELfPXQgdbamfmppMccKaS/8t7B8dODrEOfiRXw==" noCertificadoSAT="00001000000401041203" selloCFD="Hb8hXIkuE1E9lr28sjzjK7iaAJkce1MjwnhC7Py5IA209QqCvHOtDJiaDgxi6XUSx5b18/yYM3vvY4U1971LB3B7X9UKGn1NhPcaPksUjqGpRS8C8bDRlQc8A8Iq1wFccndWXY6SkQ7BHf5+KINod9idQQczV0ErxLES+7xDacs=" FechaTimbrado="2017-05-20T00:09:24" UUID="42F37D53-AB62-534C-B2C4-5E9E30297D2C" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

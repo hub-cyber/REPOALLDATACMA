@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="2058" fecha="2017-04-28T02:09:17" sello="B6L7HbWdUbw46ef0wOPZaK2Vhc8MjgSX+7l6oMdIL3K0Nw8H52+stQdzYwwslRkagYaj9Zw3HI4qMtvKQiE1AyvZweCgZUxyB2leW4SbX7+7XY4JwXuUceDUFWmeiMGDJtdEMJaI7rkyN3EnHtw/02KreKApxFcp5ivxxX/Z11o=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="855.18" TipoCambio="1.00" Moneda="MXN" total="992.01" metodoDePago="99" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Personas Físicas con Actividades Empresariales y Profesionales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="GAGV760401668" nombre="MARIA VIRGINIA GARZA GARZA">
+		<cfdi:Domicilio calle="SIERRA TARAHUMARA" noExterior="9499" colonia="LAS PUENTES 10MO SECTOR" municipio="SAN NICOLAS DE LOS GARZA" estado="NUEVO LEON" pais="MEXICO" codigoPostal="66460"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43096" descripcion="PEROXIDO ZERO LIFT COLOR ACTIVATOR 1L" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43093" descripcion="PEROXIDO CHROMA SILK 20 VOL. 1L" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43094" descripcion="PEROXIDO CHROMA SILK 30 VOL. 1L" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40995" descripcion="TINTE CHROMA SILK VIVIDS PINK" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40996" descripcion="TINTE CHROMA SILK VIVIDS MAGENT" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44324" descripcion="TINTE CHROMA SILK LOCKED-IN TEAL" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44325" descripcion="TINTE CHROMA SILK LOCKED-IN YELLOW" valorUnitario="106.894" importe="106.89">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43949" descripcion="TINTE CHROMA SILK NEONS GREEN" valorUnitario="106.894" importe="106.89">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="136.83">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="136.83"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="yRXI17cZat90WbTt6yEveDxGr9sDBooKOZa+p2y/+lnGZHI+FuOkebNr5DkVkYOQkVNj1J234XwlDFL7iWLFRj7gG7e1msSr35idltE5cWHb4wuItbIXiFiP72ukazIfgp1F9QTt9oSDCxpUuc9b/+pgwkFY795qVr+w1hOKhmvfxtzBhVMx9SvIIrELVdT8vuaqYpHdSczV5hkIfhPlZnmdVnWAVDMS+AgXtuHz+RtKMbW9nuM0AE90rwh39puOcCIZz4U7rodqekQA21+Y2xujdFtbZu0K5ycqluQl1naoLgOodHhxiKK1PHFY7z3LONAwDGiKHAEk21BFENBywA==" noCertificadoSAT="00001000000401041203" selloCFD="B6L7HbWdUbw46ef0wOPZaK2Vhc8MjgSX+7l6oMdIL3K0Nw8H52+stQdzYwwslRkagYaj9Zw3HI4qMtvKQiE1AyvZweCgZUxyB2leW4SbX7+7XY4JwXuUceDUFWmeiMGDJtdEMJaI7rkyN3EnHtw/02KreKApxFcp5ivxxX/Z11o=" FechaTimbrado="2017-04-28T02:12:35" UUID="5D28440F-02B3-CF4C-94E1-1E6CA665B272" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

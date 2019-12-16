@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="2284" fecha="2017-06-29T23:10:42" sello="GZxfU6LrbzYbZjwgBZpqx+ImIoe6EHi+4E94kB+PfiCIKbgOlspqJfeV8018vN9cwtxmXKVl4j53wMMYsD3tM0TSH6VY9N11cQeAkvz9ycLGs183n0E1ZL6TK1x6Q1agsjHPv22lfeQKk5FFjOzWVIsduSbBz9JNQMPTJFoA23k=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="10689.66" TipoCambio="1.00" Moneda="MXN" total="12400.01" metodoDePago="99" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Personas Físicas con Actividades Empresariales y Profesionales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XAXX010101000" nombre="MARTHA ELENA ROSAS ROSAS">
+		<cfdi:Domicilio calle="PRESA DE LA BOCA" noExterior="3840" colonia="NUEVA MODELO" municipio="MONTERREY" estado="NUEVO LEON" pais="MEXICO" codigoPostal="64160"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="40905" descripcion="TINTE CHROMA SILK 1" valorUnitario="106.8966" importe="320.69">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="40907" descripcion="TINTE CHROMA SILK 4" valorUnitario="106.8966" importe="320.69">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4" unidad="PIEZA" noIdentificacion="40908" descripcion="TINTE CHROMA SILK 5" valorUnitario="106.8966" importe="427.59">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="7" unidad="PIEZA" noIdentificacion="40909" descripcion="TINTE CHROMA SILK 6" valorUnitario="106.8966" importe="748.28">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="8" unidad="PIEZA" noIdentificacion="40910" descripcion="TINTE CHROMA SILK 7" valorUnitario="106.8966" importe="855.17">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="8" unidad="PIEZA" noIdentificacion="40911" descripcion="TINTE CHROMA SILK 8" valorUnitario="106.8966" importe="855.17">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="40912" descripcion="TINTE CHROMA SILK 9" valorUnitario="106.8966" importe="320.69">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40913" descripcion="TINTE CHROMA SILK 10" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40916" descripcion="TINTE CHROMA SILK 8.1" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="41000" descripcion="TINTE CHROMA SILK 10.02" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40914" descripcion="TINTE CHROMA SILK 6.1" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40937" descripcion="TINTE CHROMA SILK 4.20" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40938" descripcion="TINTE CHROMA SILK 4.52" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40939" descripcion="TINTE CHROMA SILK 4.56" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="40940" descripcion="TINTE CHROMA SILK 5.5" valorUnitario="106.8966" importe="320.69">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="7" unidad="PIEZA" noIdentificacion="40942" descripcion="TINTE CHROMA SILK 6.5" valorUnitario="106.8966" importe="748.28">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40943" descripcion="TINTE CHROMA SILK 7.5" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40945" descripcion="TINTE CHROMA SILK 7.52" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="41003" descripcion="TINTE CHROMA SILK 10.07" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="44060" descripcion="TINTE CHROMA SILK LOWLIGTH 6.3L (6GL) " valorUnitario="106.8966" importe="320.69">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="44059" descripcion="TINTE CHROMA SILK LOWLIGTH 6NtL " valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="44061" descripcion="TINTE CHROMA SILK LOWLIGTH 6.4L (6CL)" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="44063" descripcion="TINTE CHROMA SILK LOWLIGTH 8.3L (8GL)" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="44062" descripcion="TINTE CHROMA SILK LOWLIGTH 8NtL" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="44064" descripcion="TINTE CHROMA SILK LOWLIGTH 8.4L (8CL)" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40918" descripcion="TINTE CHROMA SILK 10.1" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40947" descripcion="TINTE CHROMA SILK 5.3" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40948" descripcion="TINTE CHROMA SILK 6.3" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5" unidad="PIEZA" noIdentificacion="40949" descripcion="TINTE CHROMA SILK 7.3" valorUnitario="106.8966" importe="534.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43500" descripcion="TINTE CHROMA SILK 4.37 (4GV)" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43501" descripcion="TINTE CHROMA SILK 5.37 (5GV) " valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43502" descripcion="TINTE CHROMA SILK 6.37 (6GV) " valorUnitario="106.898" importe="213.80">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43503" descripcion="TINTE CHROMA SILK 8.37 (8GV) " valorUnitario="106.898" importe="213.80">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="40953" descripcion="TINTE CHROMA SILK 4.45" valorUnitario="106.898" importe="320.69">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40954" descripcion="TINTE CHROMA SILK 5.45" valorUnitario="106.898" importe="213.80">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40956" descripcion="TINTE CHROMA SILK 6.45" valorUnitario="106.898" importe="213.80">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40964" descripcion="TINTE CHROMA SILK 7.45" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40959" descripcion="TINTE CHROMA SILK 8.45" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40958" descripcion="TINTE CHROMA SILK 8.42" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40963" descripcion="TINTE CHROMA SILK 7.43" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40960" descripcion="TINTE CHROMA SILK 4.4" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="41002" descripcion="TINTE CHROMA SILK 10.04" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40970" descripcion="TINTE CHROMA SILK 5.6" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40971" descripcion="TINTE CHROMA SILK 5.62" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4" unidad="PIEZA" noIdentificacion="40955" descripcion="TINTE CHROMA SILK 6.34" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40972" descripcion="TINTE CHROMA SILK 5.66" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40974" descripcion="TINTE CHROMA SILK 6.66" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="40975" descripcion="TINTE CHROMA SILK 7.62" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40976" descripcion="TINTE CHROMA SILK 7.64" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40977" descripcion="TINTE CHROMA SILK 7.66" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44728" descripcion="TINTE CHROMA SILK ULTRA HI-LIFTS NATURA" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44731" descripcion="TINTE CHROMA SILK ULTRA HI-LIFTS ASH" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44729" descripcion="TINTE CHROMA SILK ULTRA HI-LIFTS BEIGE" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44732" descripcion="TINTE CHROMA SILK ULTRA HI-LIFTS GOLD" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="44730" descripcion="TINTE CHROMA SILK ULTRA HI-LIFTS COPPER" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44733" descripcion="TINTE CHROMA SILK ULTRA HI-LIFTS VIOLET" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40925" descripcion="TINTE CHROMA SILK 9.13" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40987" descripcion="TINTE CHROMA SILK CORRECTORS ASH BLUE" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40989" descripcion="TINTE CHROMA SILK CORRECTORS RED" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40990" descripcion="TINTE CHROMA SILK CORRECTORS YELLOW" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40946" descripcion="TINTE CHROMA SILK 4.3" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="1710.35">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="1710.35"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="Gy65Elj3r/SFtaht+7qTiI9JmrkOUJ0fChcLXE+/sm0H8jqTDRGIn/H/CmqePmmvB/wepLhe9qwYSjbEbUL5J+xSozj5Yr7MfAp9cwuGjrXvFU+pBQQS0eIFN5whM91IfLN63GWZuvQh3QtECfdDHM7OXbJaVTu4cQLk0y8PoszmeG+pr24UEikBG5PXY8cQMvJ2Q+CJcygtjGfc6PnVQlCC51Jljqxvn2T9lksS3mccDqjx69Rhi3653GDatckvIxbmqhieJUf/bmJoQqIHVDkDES+lUmcJGm2BQ5yeIRo1BkTMU5VEoxFf7Ajjpl+jk3JlJK+5q9wdj7Vmo2Nq1Q==" noCertificadoSAT="00001000000401041203" selloCFD="GZxfU6LrbzYbZjwgBZpqx+ImIoe6EHi+4E94kB+PfiCIKbgOlspqJfeV8018vN9cwtxmXKVl4j53wMMYsD3tM0TSH6VY9N11cQeAkvz9ycLGs183n0E1ZL6TK1x6Q1agsjHPv22lfeQKk5FFjOzWVIsduSbBz9JNQMPTJFoA23k=" FechaTimbrado="2017-06-29T23:11:09" UUID="0D0179FA-C3FE-8F4C-9DAD-EE307FEC2B4A" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

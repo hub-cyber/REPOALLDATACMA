@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="1133" fecha="2016-09-13T02:55:48" sello="WFWToioFJ/0IwZCCoa/o9M6fQuktrZlEAGDONcraYQARoLucENVG5i80+uDnMY5wrrQsyyzqRSpnmi038W5KFF5tSkmof9Sy6tnFh4kV0/ymCQK1yRD28+MCRGVT7mGzJgrA+WY+C+mZRzA3yISt/Df2bawQ0w+lWWcLiN2DZUI=" formaDePago="Pago en parcialidades" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="1495.68" TipoCambio="1.00" Moneda="MXN" total="1734.99" metodoDePago="99 - Otros" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Régimen personas físicas actividad empresarial y profesional"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XXX010101000" nombre="ANA MEDINA PEÑA">
+		<cfdi:Domicilio calle="BALCONES DE SAN MIGUEL" noExterior="424" colonia="BALCONES DE SAN MIGUEL" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67114"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44223" descripcion="NEVO 60DEEP TREATMENT 250G" valorUnitario="188.79" importe="188.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43155" descripcion="NEVO REPARATIVE SHAMPOO 300ML" valorUnitario="126.72" importe="126.72">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43159" descripcion="NEVO REPARATIVE CONDITIONER 300ML" valorUnitario="116.38" importe="116.38">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43890" descripcion="NEVO HYDRA PEARLS 120ML" valorUnitario="256.90" importe="256.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43670" descripcion="NEVO INTENSE THERAPY LEAVE-IN TREATMENT 300ML" valorUnitario="188.79" importe="188.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="42148" descripcion="BIOJEN 9 SH INVIGORATING CLEAN 300ML" valorUnitario="146.55" importe="146.55">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="42150" descripcion="BIOJEN 9 CONDITIONER DAILY THERAPY 300ML" valorUnitario="129.31" importe="129.31">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="42153" descripcion="BIOJEN 9 HAIR &amp; SCALP REJUVENATOR 150ML" valorUnitario="126.72" importe="126.72">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="42154" descripcion="BIOJEN 9 SCALP ENERGIZER 110ML" valorUnitario="215.52" importe="215.52">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="239.31">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="239.31"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="fV/DkFlc7JqwPtS6XH8VST5cH3pbl2qNeI0xDKpJcT5QD8+WrMoYyNIlONtgxj8IOZF7XfJ1T+gS11CaCQK67k81mLL6w8EIbFxkGFCuMZC4lMUP9HshQMDXjodxts9nnl2MOm7BR80deDIwmBxZkx/aunbFyBagjVI5rK73IHdfLC5Y+ahtfY0fmc5bf+wX6e1VWY7ktdchBokZCxCjg8qKyQN0broHIQK2PudP8Sj2/9g8nVbAspKzm7Tp/OphcpX1Rg4oG3bpIySlalcSR7aA3aJJ5cDgi8WlfKcyIZZ48w1NKFfQyQE6wmizC71BY+WTPJxuOCaZ665frwBBPw==" noCertificadoSAT="00001000000401041203" selloCFD="WFWToioFJ/0IwZCCoa/o9M6fQuktrZlEAGDONcraYQARoLucENVG5i80+uDnMY5wrrQsyyzqRSpnmi038W5KFF5tSkmof9Sy6tnFh4kV0/ymCQK1yRD28+MCRGVT7mGzJgrA+WY+C+mZRzA3yISt/Df2bawQ0w+lWWcLiN2DZUI=" FechaTimbrado="2016-09-13T02:59:41" UUID="A8D4EFAA-81C1-EC4C-B2D6-C316F8E2EE36" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

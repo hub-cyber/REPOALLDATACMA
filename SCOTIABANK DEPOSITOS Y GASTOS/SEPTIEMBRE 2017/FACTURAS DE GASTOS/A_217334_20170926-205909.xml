@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante NumCtaPago="No aplica" LugarExpedicion="ZAPOPAN Jalisco" metodoDePago="03" tipoDeComprobante="ingreso" total="16530.00" Moneda="MXN" descuento="14250.00" subTotal="28500.00" condicionesDePago="PAGO ANTICIPADO" certificado="MIIEhTCCA22gAwIBAgIUMDAwMDEwMDAwMDAzMDU3NTc2MDYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDEyMjYyMjU3NDFaFw0xODEyMjYyMjU3NDFaMIHRMSYwJAYDVQQDEx1OQVRUVVJBIExBQk9SQVRPUklPUyBTQSBERSBDVjEmMCQGA1UEKRMdTkFUVFVSQSBMQUJPUkFUT1JJT1MgU0EgREUgQ1YxJjAkBgNVBAoTHU5BVFRVUkEgTEFCT1JBVE9SSU9TIFNBIERFIENWMSUwIwYDVQQtExxOTEE4MjA3MjNGTDQgLyBTQVJMNDUwNjA3MzEwMR4wHAYDVQQFExUgLyBTQVJMNDUwNjA3SFpTQ1FTMDgxEDAOBgNVBAsTB1pBUE9QQU4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ4B/AnWuJKpvfolvtxXVLyYcJ3SI56PSYffAi+KxIsXWtawPdT7vIz/tMQOkW5zpvbazlpLmi2ZQ++7t0b4TTPZhQTYF5MwOlRftRDwl5ZEFB44SH++jTjB1XUWVIcpVrJu4q9C4KeNcpNNaYkJV9yIUM1HrxLe1/t64D3OZwSvAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQB9d5lN3IzTT983yTR31exgbhlqSqtypbYWaW+GFU/1MFZMX8DsJdSlCzIaT4eeboByw84QuwA5GSgDzbskim6OXvQMb59bKD2uVT440lEcaPdzpyH/PTyd1JU+r09v6NCL1brBaELkNapU2hIteOKF/czQXtyxfXiFJ1efAGiFIQSGrJnUgdf7qHZeO7f27z/pRdpIynmKHmc2x3Lj4/LVJQzH0/qTEdeOFhjKxE/1xhAJL91l/2f4iN+EBmDQtdr+mC34nBWiNEsChSW3eBInNzohrTiAPZ0IXHmhBOYBY/0v1/NBeDsd9q7eJT8qOPycqT1zRqBXw0GU7BM6VADu" noCertificado="00001000000305757606" formaDePago="Pago en una sola exhibición" sello="V8uDyfuFMhVSM/5uyp/d2NZfR1RkZcrgiOXVDe1N+aT+SUA8DHl/K/xINn9JOHKw/VS/aO+E+bF00HAuLVwG+J5UTKfY6XMAwyOOqpz/blBBh7tcgWg7U+PlQylcewFcsyWpUInXDALpaE2fvsU/R3QG3pjPYDwJs1S/PzjEoAA=" fecha="2017-09-26T21:10:55" folio="00217334" serie="A" version="3.2" xsi:schemaLocation="http://www.buzonfiscal.com/ns/addenda/bf/2 http://www.buzonfiscal.com/schema/xsd/Addenda_BF_v20.xsd http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " xmlns:bfa2="http://www.buzonfiscal.com/ns/addenda/bf/2" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <cfdi:Emisor nombre="NATTURA LABORATORIOS, SA DE CV" rfc="NLA820723FL4">
+        <cfdi:DomicilioFiscal codigoPostal="45145" pais="México" estado="Jalisco" municipio="ZAPOPAN" noExterior="746" calle="PEDRO MARTINEZ RIVAS"/>
+        <cfdi:RegimenFiscal Regimen="Intermedio"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="JOSE ARNOLDO MEDINA HERNANDEZ" rfc="MEHA850206NI7">
+        <cfdi:Domicilio codigoPostal="67176" pais="México" estado="Nuevo León" municipio="GUADALUPE" colonia="BOSQUES DEL COUNTRY" calle="MAPLE NO. 2215"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="6840.00" valorUnitario="95.00" descripcion="Chroma Creme Developer 20Vol 1L Nacional" noIdentificacion="000000000000045171" unidad="PZ" cantidad="72.00"/>
+        <cfdi:Concepto importe="1140.00" valorUnitario="95.00" descripcion="Chroma Creme Developer 30Vol 1L Nacional" noIdentificacion="000000000000045172" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="2280.00" valorUnitario="95.00" descripcion="Zero Lift Color Activador Lt Nacional" noIdentificacion="000000000000045174" unidad="PZ" cantidad="24.00"/>
+        <cfdi:Concepto importe="12600.00" valorUnitario="350.00" descripcion="Pure Light Power Lightener 680g Nacional" noIdentificacion="000000000000045044" unidad="PZ" cantidad="36.00"/>
+        <cfdi:Concepto importe="4920.00" valorUnitario="205.00" descripcion="The Perfect Blonde Seal&amp;Protec 300ml Nac" noIdentificacion="000000000000045261" unidad="PZ" cantidad="24.00"/>
+        <cfdi:Concepto importe="720.00" valorUnitario="30.00" descripcion="Sintesi Color Remover 150 ml" noIdentificacion="000000000000040426" unidad="PZ" cantidad="24.00"/>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="2280.00">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="2280.00" tasa="16.00" impuesto="IVA"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd"  selloSAT="sx4nn1u8siYnmMgIkKc6ltQ3yqsFVMpAI5zeUzG1ATk7t+xSplJe7VAntTt2+gaPbi6mc2sk0EHuwl+zyGfqWS+1ndqAeEIBQU/lLRqfGbRn+7UNB+M5nMtV6UVr6JlezDv3zWBpy7MZQr1ZRSma/eADd3vy8BccHonfBA4DqpTzDJY3e7FgwNWDZucCDddmCs/foBodq01jEN38D33kRWTszeyqAcPAGQXbo1yVHg0bb8gyVHTw2NS0hBcM1chngWo/O26RosBlN9U0+qjCjITQ4PptRD41QIUlZgi9aZvu/59nucWWWe4TeD+Qj/F/Pywfh/vom2sQhPY+uBWrlA==" noCertificadoSAT="00001000000404614920" selloCFD="V8uDyfuFMhVSM/5uyp/d2NZfR1RkZcrgiOXVDe1N+aT+SUA8DHl/K/xINn9JOHKw/VS/aO+E+bF00HAuLVwG+J5UTKfY6XMAwyOOqpz/blBBh7tcgWg7U+PlQylcewFcsyWpUInXDALpaE2fvsU/R3QG3pjPYDwJs1S/PzjEoAA=" FechaTimbrado="2017-09-26T21:10:55" UUID="6bb3a1bd-56cb-48b4-9e09-88729ce13e9e" version="1.0"/>
+    </cfdi:Complemento>
+    <cfdi:Addenda>
+        <bfa2:AddendaBuzonFiscal version="2.0">
+            <bfa2:Receptor noCliente="0000117082"/>
+            <bfa2:Destino nombre="JOSE ARNOLDO MEDINA HERNANDEZ " rfc="MEHA850206NI7" claveIdentificacion="TEL. " codigoPostal="67176" estado="NL" ciudad="GUADALUPE" calle="MAPLE NO. 2215"/>
+            <bfa2:TipoDocumento descripcion="Factura" nombreCorto="FAC"/>
+            <bfa2:CFD refID="0310231110" totalConLetra="DIECISEIS MIL QUINIENTOS TREINTA PESOS 00 / 100 MXN" agenteVentas="10493"/>
+            <bfa2:Extra valor="0000538298" atributo="PEDIDO"/>
+            <bfa2:Extra valor="0310231110" atributo="DOC. SAP"/>
+            <bfa2:Extra valor="50371" atributo="TRANSPORTE"/>
+            <bfa2:Extra valor="Ecommerce-1030" atributo="PEDIDO CLIENTE"/>
+            <bfa2:Extra valor="147.804KG" atributo="PESO"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380311" Referencia1="174009724"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380328" Referencia1="174009840"/>
+            <bfa2:ExtraConceptos Referencia2="7501438381318" Referencia1="174008121"/>
+            <bfa2:ExtraConceptos Referencia2="7501438381479" Referencia1="174012015"/>
+            <bfa2:ExtraConceptos Referencia2="7501438385309" Referencia1="174009180"/>
+            <bfa2:ExtraConceptos Referencia2="7501438326050" Referencia1="174002952"/>
+        </bfa2:AddendaBuzonFiscal>
+    </cfdi:Addenda>
+</cfdi:Comprobante>

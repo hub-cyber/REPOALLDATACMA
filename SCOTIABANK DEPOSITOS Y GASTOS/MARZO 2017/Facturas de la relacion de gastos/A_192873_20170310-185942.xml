@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante LugarExpedicion="ZAPOPAN Jalisco" metodoDePago="03" tipoDeComprobante="ingreso" total="4552.19" Moneda="MXN" descuento="3810.00" subTotal="7734.30" condicionesDePago="PAGO INMEDIATO" certificado="MIIEhTCCA22gAwIBAgIUMDAwMDEwMDAwMDAzMDU3NTc2MDYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDEyMjYyMjU3NDFaFw0xODEyMjYyMjU3NDFaMIHRMSYwJAYDVQQDEx1OQVRUVVJBIExBQk9SQVRPUklPUyBTQSBERSBDVjEmMCQGA1UEKRMdTkFUVFVSQSBMQUJPUkFUT1JJT1MgU0EgREUgQ1YxJjAkBgNVBAoTHU5BVFRVUkEgTEFCT1JBVE9SSU9TIFNBIERFIENWMSUwIwYDVQQtExxOTEE4MjA3MjNGTDQgLyBTQVJMNDUwNjA3MzEwMR4wHAYDVQQFExUgLyBTQVJMNDUwNjA3SFpTQ1FTMDgxEDAOBgNVBAsTB1pBUE9QQU4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ4B/AnWuJKpvfolvtxXVLyYcJ3SI56PSYffAi+KxIsXWtawPdT7vIz/tMQOkW5zpvbazlpLmi2ZQ++7t0b4TTPZhQTYF5MwOlRftRDwl5ZEFB44SH++jTjB1XUWVIcpVrJu4q9C4KeNcpNNaYkJV9yIUM1HrxLe1/t64D3OZwSvAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQB9d5lN3IzTT983yTR31exgbhlqSqtypbYWaW+GFU/1MFZMX8DsJdSlCzIaT4eeboByw84QuwA5GSgDzbskim6OXvQMb59bKD2uVT440lEcaPdzpyH/PTyd1JU+r09v6NCL1brBaELkNapU2hIteOKF/czQXtyxfXiFJ1efAGiFIQSGrJnUgdf7qHZeO7f27z/pRdpIynmKHmc2x3Lj4/LVJQzH0/qTEdeOFhjKxE/1xhAJL91l/2f4iN+EBmDQtdr+mC34nBWiNEsChSW3eBInNzohrTiAPZ0IXHmhBOYBY/0v1/NBeDsd9q7eJT8qOPycqT1zRqBXw0GU7BM6VADu" noCertificado="00001000000305757606" formaDePago="Pago en una sola exhibición" sello="d8HWFpnOfwVtD1JNetG0ofOBwNDTp7+sxlgE7/s99UiX7vtlyZrAJWHnwjjVCJj8b/pT5UYTMnpnRUTxHv1/g3fsYqIxJ5ClTtI9Shyd7TOpNSRQw22bMuxC0D+EkMbjSZBQPJt7orTew1YenfbRnCNk5AjtVFk4KrEh4Oeum2c=" fecha="2017-03-10T19:01:46" folio="00192873" serie="A" version="3.2" xsi:schemaLocation="http://www.buzonfiscal.com/ns/addenda/bf/2 http://www.buzonfiscal.com/schema/xsd/Addenda_BF_v20.xsd http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " xmlns:bfa2="http://www.buzonfiscal.com/ns/addenda/bf/2" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <cfdi:Emisor nombre="NATTURA LABORATORIOS, SA DE CV" rfc="NLA820723FL4">
+        <cfdi:DomicilioFiscal codigoPostal="45145" pais="México" estado="Jalisco" municipio="ZAPOPAN" colonia="ZAPOPAN" noExterior="746" calle="PEDRO MARTINEZ RIVAS"/>
+        <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="JOSE ARNOLDO MEDINA HERNANDEZ" rfc="MEHA850206NI7">
+        <cfdi:Domicilio codigoPostal="67176" pais="México" estado="Nuevo León" municipio="GUADALUPE" colonia="BOSQUES DEL COUNTRY" calle="MAPLE NO. 2215"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="2280.00" valorUnitario="95.00" descripcion="Chroma Creme Developer 20Vol 1L Nacional" noIdentificacion="000000000000045171" unidad="PZ" cantidad="24.00"/>
+        <cfdi:Concepto importe="1140.00" valorUnitario="95.00" descripcion="Chroma Creme Developer 30Vol 1L Nacional" noIdentificacion="000000000000045172" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="4200.00" valorUnitario="350.00" descripcion="Pure Light Power Lightener 680g Nacional" noIdentificacion="000000000000045044" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="114.30" valorUnitario="114.30" descripcion="Logística" noIdentificacion="000000000000131660" unidad="PZ" cantidad="1.00"/>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="627.89">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="627.89" tasa="16.00" impuesto="IVA"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd"  selloSAT="jFfOH2bPcC5Kwg7lXx4zcfqCkTbMosWXtHu8n6n1af1a9sFmgtQZerZpIco3YxOtX7CzZoxYo55sJTlZFvabJSnezyjfKnFz9wSB89JnkhMq0Ng7kSkttm7ZEG3ZqcMF6A3tKY+98ip7v3GKps1VEuSbKMPtbZrD29oivp068LxR+woavKmUkKQSuYrwHcy+QHa1ZiHiq0vA6L+U5mK0+oBmo961gNCbPzn62Tbn05E9zBp5sDWTngL8XyTLYL19bcMKY9305aQaYdIzX12ZdaDcBFUXJ1dw8Yg8CEaRNr5y3t2MudXPtXi/eV+TPVmVQnhOvUf8TC5SOqIoXebz7A==" noCertificadoSAT="00001000000404614920" selloCFD="d8HWFpnOfwVtD1JNetG0ofOBwNDTp7+sxlgE7/s99UiX7vtlyZrAJWHnwjjVCJj8b/pT5UYTMnpnRUTxHv1/g3fsYqIxJ5ClTtI9Shyd7TOpNSRQw22bMuxC0D+EkMbjSZBQPJt7orTew1YenfbRnCNk5AjtVFk4KrEh4Oeum2c=" FechaTimbrado="2017-03-10T19:01:46" UUID="fb10ef9b-27a7-4e7f-b7cd-333105c156b0" version="1.0"/>
+    </cfdi:Complemento>
+    <cfdi:Addenda>
+        <bfa2:AddendaBuzonFiscal version="2.0">
+            <bfa2:Receptor noCliente="117082"/>
+            <bfa2:Destino nombre="JOSE ARNOLDO MEDINA HERNANDEZ" rfc="MEHA850206NI7" claveIdentificacion="TEL." codigoPostal="67176" estado="NL" ciudad="GUADALUPE" numero="" calle="MAPLE NO. 2215"/>
+            <bfa2:TipoDocumento descripcion="Factura" nombreCorto="FAC"/>
+            <bfa2:CFD totalConLetra="CUATRO MIL QUINIENTOS CINCUENTA Y DOS PESOS 19/100 M.N." observaciones="" agenteVentas="10493"/>
+            <bfa2:Extra valor="504130" atributo="PEDIDO"/>
+            <bfa2:Extra valor="310221335" atributo="DOC. SAP"/>
+            <bfa2:Extra valor="50371" atributo="TRANSPORTE"/>
+            <bfa2:Extra valor="ECOMMERCE-1030" atributo="PEDIDO CLIENTE"/>
+            <bfa2:Extra valor="46.492 KG." atributo="PESO"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380311" Referencia1="174001563"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380328" Referencia1="174000154"/>
+            <bfa2:ExtraConceptos Referencia2="7501438381479" Referencia1="174001519"/>
+            <bfa2:ExtraConceptos Referencia2="" Referencia1=""/>
+        </bfa2:AddendaBuzonFiscal>
+    </cfdi:Addenda>
+</cfdi:Comprobante>

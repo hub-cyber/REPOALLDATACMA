@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="1504" fecha="2016-12-08T01:32:48" sello="E1tsL1FHd/zkdZj1ALmu5yX/bQGKp+Cs1Md6LAhpOQISO6mPsQem+c5KubpzXEafTDEznPalLYokxHqjeQrAum+jBfupmxbd00+79uCBgFg3e1rFsPYuy1UpZQblx/IU9o8V3hQtmoW0m1uFTJZ6do+dQ1snu5Pt223ZXH3fOJU=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="2955.21" TipoCambio="1.00" Moneda="MXN" total="3428.04" metodoDePago="99 - Otros" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Régimen personas físicas actividad empresarial y profesional"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XXX010101000" nombre="LAURA MARCELA MORALES MARTINEZ">
+		<cfdi:Domicilio calle="PERICOS" noExterior="1021" colonia="VALLE DE SANTO DOMINGO" municipio="SAN NICOLAS DE LOS GARZA" estado="NUEVO LEON" pais="MEXICO" codigoPostal="66437"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="15" unidad="PIEZA" noIdentificacion="001100" descripcion="SENZARE COLAGENO KERATINA 300ML" valorUnitario="103.448" importe="1551.72">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001111" descripcion="SENZARE POLVO DECOLORANTE 500G" valorUnitario="224.1379" importe="224.14">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001602" descripcion="SENZARE TINTE 3 CASTAÑO OBSCURO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001603" descripcion="SENZARE TINTE 4 CASTAÑO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001607" descripcion="SENZARE TINTE 8 RUBIO CLARO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001610" descripcion="SENZARE TINTE 10.1 RUBIO EXTRA CLARO CENIZO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001612" descripcion="SENZARE TINTE 10.31 RUBIO EXTRA CLARP DORADO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001629" descripcion="SENZARE TINTE 11.11 RUBIO ACLARANTE CENIZO INTENSO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="001613" descripcion="SENZARE TINTE 9.22 RUBIO CLARO CLARO NACARADO" valorUnitario="64.6552" importe="193.97">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001628" descripcion="SENZARE TINTE 5.62 CASTAÑO CLARO ROJIZO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43154" descripcion="NEVO MOISTURE RICH SHAMPOO 300ML" valorUnitario="137.069" importe="137.07">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43158" descripcion="NEVO MOISTURE RICH CONDITIONER 300ML" valorUnitario="137.069" importe="137.07">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10" unidad="PIEZA" noIdentificacion="001313" descripcion="SENZARE PEROXIDO 20 VOL 135 ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="001108" descripcion="SENZARE SHAMPOO MATIZADOR VIOLETA 300 ML" valorUnitario="86.2069" importe="258.62">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="472.83">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="472.83"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="RMRf3nh5og7Ffp38pM41D4AdwQd1qdySCcmHiSNlN0qbgq52os/Ahsep/L/PDurtZLOoH59/tx4d6EHRhke3wn2elUoiHjDWtmnOYcOAEl4RLWFVm5PMgNIyh+djlaPsN2QPENDOQ2wFXWBDlnHli1VdTJ56yI8UsQ4liPoohlc4LC+9LedRgG5vkDd1Xs0i0wvKnFPwbPGjftFVxUZRDUZmeINzJ9oBFVu5ZJuJuS0NbEeEiNqkwKCZp5COGOpcIoYYg9tTZXlOQaR4Welr5IGfjuhYQLzUBMwd9ArhdZe2CDNUGz3y4MPedtZGPC7nhhq98X4Ko1bNY6Kb9YKC8w==" noCertificadoSAT="00001000000401041203" selloCFD="E1tsL1FHd/zkdZj1ALmu5yX/bQGKp+Cs1Md6LAhpOQISO6mPsQem+c5KubpzXEafTDEznPalLYokxHqjeQrAum+jBfupmxbd00+79uCBgFg3e1rFsPYuy1UpZQblx/IU9o8V3hQtmoW0m1uFTJZ6do+dQ1snu5Pt223ZXH3fOJU=" FechaTimbrado="2016-12-08T01:47:00" UUID="A539056A-7BEC-214E-910D-FE76C679653E" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

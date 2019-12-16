@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="806" fecha="2016-06-20T17:55:01" sello="I1VWVrcBtaU8mn3cOk4HskfH14fFBqT/HlieMeizs5ow1Q0oFA4DOnaAN4Iq4/ZgEB/ngL8XlkVhAlgRZYQ6MXCQPI2yebdBw4fL+HJFx+/LFBc66N0CcHZM9JVlwCo2hhd/Wb0vUu0GZMnzng1l9U8bJFHffMXlP7OS6LpOUnI=" formaDePago="Pago en parcialidades" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 30 DIAS" subTotal="3603.54" TipoCambio="1.00" Moneda="MXN" total="4180.11" metodoDePago="No aplica" LugarExpedicion="GUADALUPE, NUEVO LEON" NumCtaPago="No aplica" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Régimen personas físicas actividad empresarial y profesional"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="ROEJ830111TH0" nombre="JUAN RODRIGUEZ ESTRADA">
+		<cfdi:Domicilio calle="AVE. ACAPULCO" noExterior="415" colonia="BALCONES DE SAN MIGUEL" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67113"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40905" descripcion="CHROMA SILK HAIR COLOR 1" valorUnitario="94.83" importe="189.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40906" descripcion="CHROMA SILK HAIR COLOR 3" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40907" descripcion="CHROMA SILK HAIR COLOR 4" valorUnitario="94.83" importe="189.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40908" descripcion="CHROMA SILK HAIR COLOR 5" valorUnitario="94.83" importe="189.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40909" descripcion="CHROMA SILK HAIR COLOR 6" valorUnitario="94.83" importe="189.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40910" descripcion="CHROMA SILK HAIR COLOR 7" valorUnitario="94.83" importe="189.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40911" descripcion="CHROMA SILK HAIR COLOR 8" valorUnitario="94.83" importe="189.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40912" descripcion="CHROMA SILK HAIR COLOR 9" valorUnitario="94.83" importe="189.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40913" descripcion="CHROMA SILK HAIR COLOR 10" valorUnitario="94.83" importe="189.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40914" descripcion="CHROMA SILK HAIR COLOR 6.1" valorUnitario="94.83" importe="189.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40915" descripcion="CHROMA SILK HAIR COLOR 7.1" valorUnitario="94.83" importe="189.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40916" descripcion="CHROMA SILK HAIR COLOR 8.1" valorUnitario="94.83" importe="189.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40917" descripcion="CHROMA SILK HAIR COLOR 9.1" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40918" descripcion="CHROMA SILK HAIR COLOR 10.1" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40919" descripcion="CHROMA SILK HAIR COLOR 5.11" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40920" descripcion="CHROMA SILK HAIR COLOR 6.11" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40921" descripcion="CHROMA SILK HAIR COLOR 7.11" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40930" descripcion="CHROMA SILK HAIR COLOR 8.22" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40947" descripcion="CHROMA SILK HAIR COLOR 5.3" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40946" descripcion="CHROMA SILK HAIR COLOR 4.3" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40948" descripcion="CHROMA SILK HAIR COLOR 6.3" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40931" descripcion="CHROMA SILK HAIR COLOR 9.22" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="41003" descripcion="CHROMA SILK HAIR COLOR 10.07" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40974" descripcion="CHROMA SILK HAIR COLOR 6.66" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40975" descripcion="CHROMA SILK HAIR COLOR 7.62" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40980" descripcion="CHROMA SILK HAIR COLOR 902" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40997" descripcion="CHROMA SILK VIVID'S VIOLET" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="41588" descripcion="KERATINE FUSION THERMAL INSULATOR 110ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40899" descripcion="SILK DEGREES SHINE SERUM 60ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43196" descripcion="PRAVANA PURE LIGHT SHAMPOO 300ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43155" descripcion="NEVO REPARATIVE SHAMPOO 300ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43159" descripcion="NEVO REPARATIVE CONDITIONER 300ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43901" descripcion="NEVO TWIST FIBER PASTE 130G" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="130490" descripcion="GAMA DE MECHAS" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="576.57">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="576.57"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="Po37UvKUA36ZY/zo8u9z8b/iDgpPOsw/kIcY/4cN5HOumPF7zGGjN3pjZefodyLy1AH5vN36EqBGlo+L7mPrkt6a/nh9sLNVnA9/ULrROXvM4DE7l9hZzAIxwJPQicX3B1OPASgYhROu6AUi2AQGMKRO/a6KRe1oNIDoPrLItRd5/FCqMP88lwzEP63W03th6YS8B0xl2u+cLhhlSmqDmRZDuDXmRV4muM+kLHdO/7Fkerhk097jm1uZRSfiBkk7NRcUGNzPn3U/a4cMVPo5WU+TxDQog7y3CI0RhRVgTNoyh+DCehndAtnB5oUH9EAyP65PKQzIJl2nVhtKeHYmzQ==" noCertificadoSAT="00001000000401041203" selloCFD="I1VWVrcBtaU8mn3cOk4HskfH14fFBqT/HlieMeizs5ow1Q0oFA4DOnaAN4Iq4/ZgEB/ngL8XlkVhAlgRZYQ6MXCQPI2yebdBw4fL+HJFx+/LFBc66N0CcHZM9JVlwCo2hhd/Wb0vUu0GZMnzng1l9U8bJFHffMXlP7OS6LpOUnI=" FechaTimbrado="2016-06-20T17:56:21" UUID="D968F1A3-24F0-A74B-8D2C-967B39DDD208" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

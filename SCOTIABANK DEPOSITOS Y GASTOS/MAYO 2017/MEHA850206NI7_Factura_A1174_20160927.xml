@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="1174" fecha="2016-09-27T00:35:27" sello="V4qQGJGILNy0esl4Wa3A5MKId7vSB2WYsoCtttJFrGkMoeyJA762WR1SKMPiWOK/1mpneJPD6GsDlodv/l5z+FUWiFxFIE9Zc3Tn+QfFufGNJrVEbE/4HnBH9Azc0FDIhFxp/w4Jo1QkPhP/rki89FrkjGQz0Q0uEY6Sb48PQv0=" formaDePago="Pago en parcialidades" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="2117.27" TipoCambio="1.00" Moneda="MXN" total="2456.03" metodoDePago="99 - Otros" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Régimen personas físicas actividad empresarial y profesional"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XXX010101000" nombre="NORA IRMA CERVANTES JUAREZ">
+		<cfdi:Domicilio calle="DIEGO DIAZ DE BERLANGA" noExterior="101" colonia="FUTURO NOGALAR" localidad="SAN NICOLAS DE LOS GARZA" municipio="SAN NICOLAS DE LOS GARZA" estado="NUEVO LEON" pais="MEXICO" codigoPostal="66484"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43495" descripcion="NEVO FULL VOLUME MOUSSE 220ML" valorUnitario="112.07" importe="112.07">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43900" descripcion="NEVO DETAIL SHINE &amp; DEFINE POLISH 130G" valorUnitario="128.45" importe="128.45">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43901" descripcion="NEVO TWIST FIBER PASTE 130G" valorUnitario="128.45" importe="128.45">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43931" descripcion="NEVO LEAVE-IN POWDER POTION 40G" valorUnitario="128.45" importe="128.45">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44831" descripcion="NEVO SUPER SHAPE EXTREME 300ML" valorUnitario="252.59" importe="252.59">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44093" descripcion="NEVO SUPER SHAPE 300ML" valorUnitario="203.45" importe="203.45">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="KIT" noIdentificacion="40893" descripcion="ARIFICIAL HAIR COLOR EXTRACTOR KIT" valorUnitario="258.62" importe="258.62">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43092" descripcion="PEROXIDO CHROMA SILK 10 VOL. 1L" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43093" descripcion="PEROXIDO CHROMA SILK 20 VOL. 1L" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40896" descripcion="DECOLORANTE PURE LIGHT 680G" valorUnitario="336.21" importe="336.21">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40910" descripcion="TINTE CHROMA SILK 7" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40921" descripcion="TINTE CHROMA SILK 7.11" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40929" descripcion="TINTE CHROMA SILK 7.22" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44359" descripcion="TINTE CHROMA SILK EXPRESS TONES PEARL" valorUnitario="94.83" importe="94.83">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="338.76">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="338.76"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="a4lxNQRqe7p567PLW1f51FLAoAlx6/rekjSfASq+ac0NRC2xTSGBJQHh6ENNHoNVRFbEcuXH3YTLDKZeC6DV8zZdAyzTlazkdnt/aJdNlzC+k0aGER4ExXajhAQfRP4TiG4hxjy5sEOXXjAp6DLNRlUSwa5laawPOtDXtCJJ9oMyOLDty9ybMOeyGhKB/j3vxqC5w9jaiCxUdpARhelN5BRGR8J0T8oxVcja0q+sBhmQL0mTPWVsn0ebYGsZDIztViXVcwqhi8uAJwrcxgX0fm3PmzEH1IkK19XNXGccvbNYM15JteBZyhzLkI+GBC4BIkSlI2QsuhFZhhROVwvpQQ==" noCertificadoSAT="00001000000401041203" selloCFD="V4qQGJGILNy0esl4Wa3A5MKId7vSB2WYsoCtttJFrGkMoeyJA762WR1SKMPiWOK/1mpneJPD6GsDlodv/l5z+FUWiFxFIE9Zc3Tn+QfFufGNJrVEbE/4HnBH9Azc0FDIhFxp/w4Jo1QkPhP/rki89FrkjGQz0Q0uEY6Sb48PQv0=" FechaTimbrado="2016-09-27T00:39:57" UUID="BBE58BBF-BC5F-6E4F-8EEA-37892525B169" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

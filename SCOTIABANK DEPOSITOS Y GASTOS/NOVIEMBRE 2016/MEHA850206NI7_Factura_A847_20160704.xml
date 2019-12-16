@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="847" fecha="2016-07-04T20:42:28" sello="ExQZ17yEworgct3uTOCks4sl9LgYaoYQPY7fYFTFUg9VH917jtAspdqC7e357eLVOAG8FPBOQX+kOOw4KVoM1gvJ9Cwx/9NdSZKvuQCPoh1L/r8PWCqLldAcKldkiwRt6DlwGzoAeq9J+/CA3qec02OnOivFom4Z3CG9ZVqtyXk=" formaDePago="Pago en parcialidades" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 30 DIAS" subTotal="1838.79" TipoCambio="1.00" Moneda="MXN" total="2133.00" metodoDePago="No aplica" LugarExpedicion="GUADALUPE, NUEVO LEON" NumCtaPago="No aplica" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Régimen personas físicas actividad empresarial y profesional"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XXX010101000" nombre="TANIA JANET CANO MORALES">
+		<cfdi:Domicilio calle="AV.PINOS" noExterior="506" colonia="NEXXUS DIAMANTE" municipio="GENERAL ESCOBEDO" estado="NUEVO LEON" pais="MEXICO" codigoPostal="66055"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43154" descripcion="NEVO MOISTURE RICH SHAMPOO 300ML" valorUnitario="126.72" importe="253.44">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43158" descripcion="NEVO MOISTURE RICH CONDITIONER 300ML" valorUnitario="116.37" importe="232.74">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="43159" descripcion="NEVO REPARATIVE CONDITIONER 300ML" valorUnitario="116.38" importe="698.28">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43159" descripcion="NEVO REPARATIVE CONDITIONER 300ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="43810" descripcion="NEVO INTENSE THERAPY LEAVE-IN TREATMENT 60ML" valorUnitario="77.59" importe="465.54">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43810" descripcion="NEVO INTENSE THERAPY LEAVE-IN TREATMENT 60ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43670" descripcion="NEVO INTENSE THERAPY LEAVE-IN TREATMENT 300ML" valorUnitario="188.79" importe="188.79">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="294.21">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="294.21"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="K1iSFV9ma6UJgNsMvK2CROjjNYO+/uB25RpUXQkFxHI2Oo0DeaV++Cl5Wvt7oyx7OA8imrVgtyoNOfpHmiLgUpTsOKshs0i6Fi0+31MtPePkZLo8RWgAPoW1sd7XuOEpx2nyOt27nUNlvZ1GvgXISI9sCHferV8CiBerRdS7QqGlrO5MTyuCzR0OX3P6BptdGsiMV+6tlDZAsWbN9fERiGwIie6GcE9PSLe3w71wdhFN1Lrs0ryCfM5/T491JfeaXYhAk3dhxMzOG6YWIGNbDPfa1X5iFiNtzb3SYwWqmh5XQTk5o1/F2uSuJneHM3xTZUxEf0GrWzKuBR/swfWb8g==" noCertificadoSAT="00001000000401041203" selloCFD="ExQZ17yEworgct3uTOCks4sl9LgYaoYQPY7fYFTFUg9VH917jtAspdqC7e357eLVOAG8FPBOQX+kOOw4KVoM1gvJ9Cwx/9NdSZKvuQCPoh1L/r8PWCqLldAcKldkiwRt6DlwGzoAeq9J+/CA3qec02OnOivFom4Z3CG9ZVqtyXk=" FechaTimbrado="2016-07-04T20:42:35" UUID="1E4CD7F1-0CD1-EE41-BBC9-58AA287BA867" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

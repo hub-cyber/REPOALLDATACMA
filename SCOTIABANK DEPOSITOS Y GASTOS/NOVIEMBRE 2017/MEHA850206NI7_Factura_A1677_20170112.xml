@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="1677" fecha="2017-01-12T23:59:33" sello="n2XstzUPq05HWOvV2OKAVFOAmpf6+vf6U/HxjSTnSkQ4VqqcEjfni2UsYxxd5wcpHP6+mZWxPsYjK/EzTJHx/dYB3NOAymiDrr27Njt5pGRxCUXwoo/LM//P8oVqJlou0iBSJsh9RaIMxHfr30ZTJRrxMGb1CjkaoDu+OCluMPA=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="1364.66" TipoCambio="1.00" Moneda="MXN" total="1583.01" metodoDePago="01 - Efectivo" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Régimen personas físicas actividad empresarial y profesional"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XXX010101000" nombre="MARIA TERESA MEDINA HERNANDEZ">
+		<cfdi:Domicilio calle="JARDINES DEL VALLE" noExterior="265" colonia="JARDINES DE MONTERREY" localidad="APODACA" municipio="APODACA" estado="NUEVO LEON" pais="MEXICO" codigoPostal="66601"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44223" descripcion="NEVO 60DEEP TREATMENT 250G" valorUnitario="214.66" importe="214.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43495" descripcion="NEVO FULL VOLUME MOUSSE 220ML" valorUnitario="115.5173" importe="115.52">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="KIT" noIdentificacion="1010214" descripcion="KIT 4 CEPILLOS CROC" valorUnitario="1034.48" importe="1034.48">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="218.35">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="218.35"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="OA0oVYTRCUs0LOcnf28OFgdd8vQGq7myzXTn6wYfVAsl0Ow6oxd2ZzgmqnwbBfkztNXY4zySzSu3oBAvSrpDUKx6bjMCPVh3OMQWeT/hfIrjXXfYEt3CblT69dJMYfsbOLm0CW2vO2KZbm1Tsx6h9zfKYfaGwSgXSjU45juCUJjm2ZGH3/+a57cTE9SirZz7n5olTKVzmfZ7KlpYlx0c0InSegrPp2zXyHQicXk8HZMmHyGuutrHhkozqWjw8KIscZokC3e/Dm/7riwaEwQZ/wBXuah3owXvb+k4/leu1l8vyACJDK35ZjYdbdwGNEwBifVJ85fzHyFb8oddEPXG5A==" noCertificadoSAT="00001000000401041203" selloCFD="n2XstzUPq05HWOvV2OKAVFOAmpf6+vf6U/HxjSTnSkQ4VqqcEjfni2UsYxxd5wcpHP6+mZWxPsYjK/EzTJHx/dYB3NOAymiDrr27Njt5pGRxCUXwoo/LM//P8oVqJlou0iBSJsh9RaIMxHfr30ZTJRrxMGb1CjkaoDu+OCluMPA=" FechaTimbrado="2017-01-13T00:16:12" UUID="510845AE-CFB4-504C-839C-9BFC0A0B4647" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Serie="A" Folio="00242614" Fecha="2018-03-17T06:40:33" Sello="GBL0Os4YVwI9sTo+IwO5T55Z1SfEbrgefxSY8+SBG9cTBeStB1eDqK5ROXGaLfSh59GxZzfpPeVUzKyANOa/juyqusWE4xGZvZnJ6GjtLhIeDPOcKT341g6D0+krJ8D1zPJP9Dq7zorn2hg7IFoFTEba+ZC0U+74Ik+a2W8ScDU=" FormaPago="03" NoCertificado="00001000000305757606" Certificado="MIIEhTCCA22gAwIBAgIUMDAwMDEwMDAwMDAzMDU3NTc2MDYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDEyMjYyMjU3NDFaFw0xODEyMjYyMjU3NDFaMIHRMSYwJAYDVQQDEx1OQVRUVVJBIExBQk9SQVRPUklPUyBTQSBERSBDVjEmMCQGA1UEKRMdTkFUVFVSQSBMQUJPUkFUT1JJT1MgU0EgREUgQ1YxJjAkBgNVBAoTHU5BVFRVUkEgTEFCT1JBVE9SSU9TIFNBIERFIENWMSUwIwYDVQQtExxOTEE4MjA3MjNGTDQgLyBTQVJMNDUwNjA3MzEwMR4wHAYDVQQFExUgLyBTQVJMNDUwNjA3SFpTQ1FTMDgxEDAOBgNVBAsTB1pBUE9QQU4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ4B/AnWuJKpvfolvtxXVLyYcJ3SI56PSYffAi+KxIsXWtawPdT7vIz/tMQOkW5zpvbazlpLmi2ZQ++7t0b4TTPZhQTYF5MwOlRftRDwl5ZEFB44SH++jTjB1XUWVIcpVrJu4q9C4KeNcpNNaYkJV9yIUM1HrxLe1/t64D3OZwSvAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQB9d5lN3IzTT983yTR31exgbhlqSqtypbYWaW+GFU/1MFZMX8DsJdSlCzIaT4eeboByw84QuwA5GSgDzbskim6OXvQMb59bKD2uVT440lEcaPdzpyH/PTyd1JU+r09v6NCL1brBaELkNapU2hIteOKF/czQXtyxfXiFJ1efAGiFIQSGrJnUgdf7qHZeO7f27z/pRdpIynmKHmc2x3Lj4/LVJQzH0/qTEdeOFhjKxE/1xhAJL91l/2f4iN+EBmDQtdr+mC34nBWiNEsChSW3eBInNzohrTiAPZ0IXHmhBOYBY/0v1/NBeDsd9q7eJT8qOPycqT1zRqBXw0GU7BM6VADu" CondicionesDePago="PAGO ANTICIPADO" SubTotal="87590.56" Descuento="48635.50" Total="45187.85" Moneda="MXN" TipoCambio="1" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="45145">
+  <cfdi:Emisor Rfc="NLA820723FL4" Nombre="NATTURA LABORATORIOS, S.A. DE C.V." RegimenFiscal="601"/>
+  <cfdi:Receptor Rfc="MEHA850206NI7" Nombre="JOSE ARNOLDO MEDINA HERNANDEZ" UsoCFDI="G01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45175" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Moisture Rich Shampoo300ml Nacional" ValorUnitario="132.00" Importe="132.00" Descuento="66.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="66.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10.56"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45179" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Moisture Rich Condit 300ml Nacional" ValorUnitario="122.00" Importe="122.00" Descuento="61.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="61.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9.76"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45176" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Reparative Shampoo 300ml Nacional" ValorUnitario="132.00" Importe="132.00" Descuento="66.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="66.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10.56"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45222" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Detox Shampoo 220ml Nacional" ValorUnitario="98.00" Importe="98.00" Descuento="49.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="49.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.84"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45201" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Hydra Pearl 120ml Nacional" ValorUnitario="266.00" Importe="266.00" Descuento="133.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="133.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="21.28"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45199" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Intense Therapy 300 ml Nacional" ValorUnitario="205.00" Importe="205.00" Descuento="102.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="102.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.40"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45256" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="The Perfect Blonde Shampoo300ml Nacional" ValorUnitario="131.00" Importe="131.00" Descuento="65.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="65.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10.48"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45259" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="The Perfect Blonde Condit 300ml Nacional" ValorUnitario="147.00" Importe="147.00" Descuento="73.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="73.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.76"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45262" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="The Perfect Blonde Masque 150ml Nacional" ValorUnitario="157.00" Importe="157.00" Descuento="78.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="78.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.56"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45261" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="The Perfe Blond Seal and Protec300ml Nac" ValorUnitario="215.00" Importe="215.00" Descuento="107.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="107.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17.20"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45046" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Silk Degrees Shine Serum 150 ml Nacional" ValorUnitario="137.00" Importe="137.00" Descuento="68.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="68.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10.96"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45045" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Silk Degrees Shine Serum 60 ml Nacional" ValorUnitario="74.00" Importe="74.00" Descuento="37.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="37.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.92"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45180" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Reparative Condition 300ml Nacional" ValorUnitario="122.00" Importe="122.00" Descuento="61.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="61.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9.76"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45230" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo 60 Deep Treatment 250g Nacional" ValorUnitario="193.00" Importe="193.00" Descuento="96.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="96.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15.44"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45076" Cantidad="24.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk 6Gm 6.35 90ml Nacional" ValorUnitario="103.00" Importe="2472.00" Descuento="1236.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1236.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="197.76"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45063" Cantidad="24.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk 6Aa  6.11 90 ml Nacional" ValorUnitario="103.00" Importe="2472.00" Descuento="1236.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1236.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="197.76"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45052" Cantidad="21.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk 6N  6  90 ml Nacional" ValorUnitario="103.00" Importe="2163.00" Descuento="1081.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1081.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="173.04"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45052" Cantidad="3.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk 6N  6  90 ml Nacional" ValorUnitario="103.00" Importe="309.00" Descuento="154.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="154.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="24.72"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45133" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk Vivids Violet 90ml Nacional" ValorUnitario="103.00" Importe="824.00" Descuento="412.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="412.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="65.92"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="80141605" NoIdentificacion="131660" Cantidad="1.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Logística" ValorUnitario="155.56" Importe="155.56">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="155.56" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="24.89"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45175" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Moisture Rich Shampoo300ml Nacional" ValorUnitario="132.00" Importe="1320.00" Descuento="744.24">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="575.76" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="92.12"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45179" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Moisture Rich Condit 300ml Nacional" ValorUnitario="122.00" Importe="1220.00" Descuento="687.86">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="532.14" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="85.14"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45176" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Reparative Shampoo 300ml Nacional" ValorUnitario="132.00" Importe="1320.00" Descuento="744.24">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="575.76" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="92.12"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45148" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Sh Biojen 9 Invigorating Clean300ml Naci" ValorUnitario="147.00" Importe="1176.00" Descuento="663.05">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="512.95" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="82.07"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45149" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Cond Biojen 9 Daily Therapy 300ml Nacion" ValorUnitario="131.00" Importe="1048.00" Descuento="590.88">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="457.12" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="73.14"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="42155" Cantidad="2.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Kit Pravana Biojen 9 Nacional" ValorUnitario="373.00" Importe="746.00" Descuento="420.61">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="325.39" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="52.06"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45177" Cantidad="2.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Moisture Rich Shampoo 1L Nacional" ValorUnitario="309.00" Importe="618.00" Descuento="348.44">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="269.56" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="43.13"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45181" Cantidad="2.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Moisture Rich Condition 1L Nacional" ValorUnitario="309.00" Importe="618.00" Descuento="348.44">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="269.56" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="43.13"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45257" Cantidad="2.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="The Perfect Blonde Shampoo 1L Nacional" ValorUnitario="299.00" Importe="598.00" Descuento="337.16">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="260.84" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="41.73"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45260" Cantidad="2.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="The Perfect Blonde Condition 1L Nacional" ValorUnitario="304.00" Importe="608.00" Descuento="342.80">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="265.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="42.43"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45046" Cantidad="4.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Silk Degrees Shine Serum 150 ml Nacional" ValorUnitario="137.00" Importe="548.00" Descuento="308.97">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="239.03" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="38.24"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45045" Cantidad="4.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Silk Degrees Shine Serum 60 ml Nacional" ValorUnitario="74.00" Importe="296.00" Descuento="166.89">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="129.11" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="20.66"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45043" Cantidad="2.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Pure Light Power Lightener 340g Nacional" ValorUnitario="235.00" Importe="470.00" Descuento="264.99">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="205.01" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="32.80"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45180" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Reparative Condition 300ml Nacional" ValorUnitario="122.00" Importe="1220.00" Descuento="687.86">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="532.14" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="85.14"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45222" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Detox Shampoo 220ml Nacional" ValorUnitario="98.00" Importe="980.00" Descuento="552.54">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="427.46" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="68.39"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45230" Cantidad="6.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo 60 Deep Treatment 250g Nacional" ValorUnitario="193.00" Importe="1158.00" Descuento="652.90">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="505.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="80.82"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45230" Cantidad="4.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo 60 Deep Treatment 250g Nacional" ValorUnitario="193.00" Importe="772.00" Descuento="435.27">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="336.73" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="53.88"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45201" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Hydra Pearl 120ml Nacional" ValorUnitario="266.00" Importe="2660.00" Descuento="1499.75">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1160.25" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="185.64"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45199" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Intense Therapy 300 ml Nacional" ValorUnitario="205.00" Importe="2050.00" Descuento="1155.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="894.17" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="143.07"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45171" Cantidad="4.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chroma Creme Developer 20Vol 1L Nacional" ValorUnitario="100.00" Importe="400.00" Descuento="225.53">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="174.47" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.92"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45172" Cantidad="4.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chroma Creme Developer 30Vol 1L Nacional" ValorUnitario="100.00" Importe="400.00" Descuento="225.53">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="174.47" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.92"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="80141605" NoIdentificacion="131240" Cantidad="4.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Pravana Capa Negra" ValorUnitario="125.00" Importe="500.00" Descuento="281.91">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="218.09" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="34.89"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="80141605" NoIdentificacion="131412" Cantidad="4.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Pravana Mandil Falda" ValorUnitario="144.00" Importe="576.00" Descuento="324.76">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="251.24" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="40.20"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="80141605" NoIdentificacion="131896" Cantidad="2.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Pravana Banner Precious Metals" ValorUnitario="290.00" Importe="580.00" Descuento="327.01">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="252.99" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="40.48"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45189" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Model Behavior Cream 150ml Nacional" ValorUnitario="89.00" Importe="890.00" Descuento="501.80">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="388.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="62.11"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45190" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Invisible Control Mist300ml Naciona" ValorUnitario="194.00" Importe="1940.00" Descuento="1093.81">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="846.19" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="135.39"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45191" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Full Volume Mousse 220ml Nacional" ValorUnitario="115.00" Importe="920.00" Descuento="518.71">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="401.29" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="64.21"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45191" Cantidad="2.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Full Volume Mousse 220ml Nacional" ValorUnitario="115.00" Importe="230.00" Descuento="129.68">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="100.32" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.05"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45204" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Shine and Define Polish 130g Nacion" ValorUnitario="131.00" Importe="1310.00" Descuento="738.60">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="571.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="91.42"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45205" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Twist Fiber Paste 130g Nacional" ValorUnitario="131.00" Importe="1310.00" Descuento="738.60">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="571.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="91.42"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="44093" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Super Shape" ValorUnitario="240.00" Importe="2400.00" Descuento="1353.16">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1046.84" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="167.49"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="43931" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Lived In Powder Potion 40g Nacional" ValorUnitario="131.00" Importe="1310.00" Descuento="738.60">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="571.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="91.42"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45206" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Total Fixation 220 ml Nacional" ValorUnitario="89.00" Importe="890.00" Descuento="501.80">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="388.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="62.11"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45225" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Color Radiant Red 150ml Nacional" ValorUnitario="157.00" Importe="1570.00" Descuento="885.19">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="684.81" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="109.57"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45226" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Color Brillant Copper150ml Nacional" ValorUnitario="157.00" Importe="1570.00" Descuento="885.19">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="684.81" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="109.57"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45227" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Color Cocoa Brunette 150ml Nacional" ValorUnitario="157.00" Importe="1570.00" Descuento="885.19">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="684.81" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="109.57"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45228" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Color Deep Burgundy  150ml Nacional" ValorUnitario="157.00" Importe="1570.00" Descuento="885.19">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="684.81" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="109.57"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45229" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Color Honey Blonde  150ml Nacional" ValorUnitario="157.00" Importe="1570.00" Descuento="885.19">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="684.81" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="109.57"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45197" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Vivids Color Protect Sh 300ml Nacional" ValorUnitario="136.00" Importe="1088.00" Descuento="613.43">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="474.57" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="75.93"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45198" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Vivids Color Protect Cond 300ml Nacional" ValorUnitario="131.00" Importe="1048.00" Descuento="590.88">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="457.12" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="73.14"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45196" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Vivids Color Protect Spray100ml Nacional" ValorUnitario="142.00" Importe="1136.00" Descuento="640.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="495.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="79.28"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45256" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="The Perfect Blonde Shampoo300ml Nacional" ValorUnitario="131.00" Importe="1048.00" Descuento="590.88">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="457.12" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="73.14"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45259" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="The Perfect Blonde Condit 300ml Nacional" ValorUnitario="147.00" Importe="1176.00" Descuento="663.05">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="512.95" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="82.07"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45262" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="The Perfect Blonde Masque 150ml Nacional" ValorUnitario="157.00" Importe="1256.00" Descuento="708.15">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="547.85" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="87.66"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45261" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="The Perfe Blond Seal and Protec300ml Nac" ValorUnitario="215.00" Importe="1720.00" Descuento="969.77">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="750.23" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="120.04"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45313" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="The Perfect Brunette Sh 300ml Nacional" ValorUnitario="131.00" Importe="1048.00" Descuento="590.88">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="457.12" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="73.14"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45314" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="The Perfect Brunette Condi 300ml Naciona" ValorUnitario="147.00" Importe="1176.00" Descuento="663.05">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="512.95" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="82.07"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45320" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="The Perfect Brunette Masque 150ml Nacion" ValorUnitario="157.00" Importe="1256.00" Descuento="708.15">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="547.85" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="87.66"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="80141605" NoIdentificacion="131945" Cantidad="2.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Exhibidor Pravana V 2018" ValorUnitario="9000.00" Importe="18000.00" Descuento="10148.70">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7851.30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1256.21"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45053" Cantidad="30.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk 7N  7  90 ml Nacional" ValorUnitario="103.00" Importe="3090.00" Descuento="1742.19">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1347.81" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="215.65"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45237" Cantidad="15.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chroma Express Tones Beige 90ml Nacional" ValorUnitario="103.00" Importe="1545.00" Descuento="871.10">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="673.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="107.82"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45242" Cantidad="15.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chroma Express Tones Pearl 90ml Nacional" ValorUnitario="103.00" Importe="1545.00" Descuento="871.10">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="673.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="107.82"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="6232.79">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6232.79"/>
+      </cfdi:Traslados>
+    </cfdi:Impuestos>
+  <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="78c80472-18e4-4caf-9f62-2ae5b1e60989" RfcProvCertif="DIA031002LZ2" FechaTimbrado="2018-03-17T06:57:09" SelloCFD="GBL0Os4YVwI9sTo+IwO5T55Z1SfEbrgefxSY8+SBG9cTBeStB1eDqK5ROXGaLfSh59GxZzfpPeVUzKyANOa/juyqusWE4xGZvZnJ6GjtLhIeDPOcKT341g6D0+krJ8D1zPJP9Dq7zorn2hg7IFoFTEba+ZC0U+74Ik+a2W8ScDU=" NoCertificadoSAT="00001000000404614920" SelloSAT="l6gqUq6Qc1WqJ1yfUqMQDVhNV2Q7azz23R9ofuqNZp7YaJyrf+TBDZWKPQlBrPEHmC8rS/QpG+40FjCCV+sm0Ee3aSMfd/GRpwoAAqzVD6RAyviZsVLUnrCIsADtBJ9hw2rPixOKdZNzSHRPwAmkIJ7Fb0JQ2yTR4GS2mpRfZtMNJvppS76qtHzlDPouGiNna+7seBdwjxBkVgWdUvc528WXity58gnJhVKPWqYvuPu9LW3K7nC7xQInaQsMdKxulGw24Q2rO2+yvP6dz4LeeaLGjzbSIe4GKjBsUyr3XHoNoiUtGgKQkS86hfQmdh7LGzXwWobL0amgTk/L+lneXg=="/>
+    </cfdi:Complemento><cfdi:Addenda>
+    <dvz:diverza xmlns:dvz="http://www.diverza.com/ns/addenda/diverza/1" xsi:schemaLocation="http://www.diverza.com/ns/addenda/diverza/1 http://www.diverza.com/schema/xsd/Addenda_Diverza_v1.1.xsd" version="1.1">
+      <dvz:generales tipoDocumento="Factura" totalConLetra="CUARENTA Y CINCO MIL CIENTO OCHENTA Y SIETE PESOS 85 / 100 MXN" numeroOrden="0000570516" nombreTransportista="CEDIS Nattura Labs."/>
+      <dvz:emisor vendedor="10493">
+        <dvz:domicilioFiscalE calle="PEDRO MARTINEZ RIVAS" numero="746" ciudad="ZAPOPAN" estado="Jalisco" pais="México" codigoPostal="45145"/>
+        </dvz:emisor>
+      <dvz:receptor numCliente="0000117082">
+        <dvz:datosContactoR emailContacto="ar.mh85@gmail.com"/>
+        <dvz:domicilioFiscalR calle="MAPLE NO. 2215" colonia="BOSQUES DEL COUNTRY" ciudad="GUADALUPE" estado="Nuevo León" pais="México" codigoPostal="67176"/>
+        <dvz:destino>
+          <dvz:domicilioDestinoR codigoSitio="JOSE ARNOLDO MEDINA HERNANDEZ" calle="MAPLE NO. 2215" ciudad="GUADALUPE" estado="Nuevo León" pais="México" codigoPostal="67176"/>
+          </dvz:destino>
+        </dvz:receptor>
+      <dvz:conceptos>
+        <dvz:concepto codigoEAN="7501438383312" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174017049"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383329" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184001805"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383336" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174008281"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384593" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174008169"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384142" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174016645"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384050" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184000932"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438385286" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184002097"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438385293" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184002444"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438385316" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184001312"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438385309" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174009180"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438381660" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184002135"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438381561" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184001810"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383343" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184002249"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383367" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184000256"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438380649" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174006505"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438380519" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184002408"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438380403" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184001038"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438380403" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184003039"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438381288" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184002080"/>
+          </dvz:concepto>
+        <dvz:concepto nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252"/>
+        <dvz:concepto codigoEAN="7501438383312" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174017049"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383329" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184001805"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383336" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174008281"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438382421" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174005230"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438382452" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174005563"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438382919" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174001799"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383381" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174017050"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383398" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184001806"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438385408" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184000560"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438385392" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174014011"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438381660" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184002135"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438381561" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184001810"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438380359" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174015697"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383343" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184002249"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384593" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174008169"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383367" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184000256"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383367" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184001558"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384142" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174016645"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384050" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184000932"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438380311" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184000253"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438380328" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184000675"/>
+          </dvz:concepto>
+        <dvz:concepto nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252"/>
+        <dvz:concepto nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252"/>
+        <dvz:concepto nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252"/>
+        <dvz:concepto codigoEAN="7501438383893" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184000859"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383886" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174009851"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383909" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174003206"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383909" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174016644"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384166" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184000115"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384159" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174014039"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384203" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174014740"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384180" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184001900"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384173" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174017143"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384623" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174006088"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384661" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="164009316"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384654" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174006089"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384647" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174016261"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384630" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174007157"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383916" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174014348"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383923" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174013578"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438383930" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184001153"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438385286" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184002097"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438385293" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184002444"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438385316" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184001312"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438385309" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174009180"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438386429" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174006635"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438386443" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184002540"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438386467" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="174004587"/>
+          </dvz:concepto>
+        <dvz:concepto nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252"/>
+        <dvz:concepto codigoEAN="7501438380410" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184002077"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384852" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184001160"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384906" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593252">
+          <dvz:datosExtraC atributo="LOTE" valor="184002412"/>
+          </dvz:concepto>
+        </dvz:conceptos>
+      <dvz:complemento>
+        <dvz:datosExtra atributo="DOC. SAP" valor="0310240755"/>
+        <dvz:datosExtra atributo="PEDIDO CLIENTE" valor="Ecommerce-1030"/>
+        <dvz:datosExtra atributo="TRANSPORTE" valor="Ecommerce-1030"/>
+        <dvz:datosExtra atributo="PESO" valor="110.412KG"/>
+        </dvz:complemento>
+      </dvz:diverza>
+    </cfdi:Addenda>
+</cfdi:Comprobante>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante NumCtaPago="5491" LugarExpedicion="SAN PEDRO GARZA GARCIA, NUEVO LEON" metodoDePago="04" tipoDeComprobante="ingreso" total="1199.00" subTotal="1033.62" condicionesDePago="CONTADO" certificado="MIIEjDCCA3SgAwIBAgIUMDAwMDEwMDAwMDAyMDI1NDAzOTAwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIwNzE3MzAzOFoXDTE2MTIwNzE3MzAzOFowgc0xJTAjBgNVBAMTHEFVVE9TIFZBTExFIE9SSUVOVEUgU0EgREUgQ1YxJTAjBgNVBCkTHEFVVE9TIFZBTExFIE9SSUVOVEUgU0EgREUgQ1YxJTAjBgNVBAoTHEFVVE9TIFZBTExFIE9SSUVOVEUgU0EgREUgQ1YxJTAjBgNVBC0THEFWTzA1MDUwM0pENyAvIElVU0o2NjAzMjVLUTcxHjAcBgNVBAUTFSAvIElVU0o2NjAzMjVITkxSTlMwODEPMA0GA1UECxMGVU5JREFEMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3qormhWeLUPpaUTqQhkjXE/6vT1IZjHx+VQ0zRrKCAITXRP/JnkSmSWFy1NcQRxPqVcEKa/JqVmRtp2tDLrtqbP2hKYQamrZQ0O6GQRHb74HlY7KqnKEPSl9BPu0rGmEm9m4Pi2npT9QttGfL1C5mhD8pco8woT8n7Ly9rp1D7wIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAjqy28mFeD/N/6teR1TJQcV/e0vl8KsyWORPwldNgz7rVxXVIlw341gkYBAQntpz+inbUuBluHOXyKuhcm0d1xm8HwcQ06Pwd7tcRHJmhr/Qlv7RtChF7cmboDFbcjGjYU4pV5olRv2/fCyyjKEH3HNbX8I/HsrdXGg4KzEIiW4RhIhZ574CyDp18rkThqiIaZ8MD1UVxoQ8D8XYf22apz8tsrvr+Lj1VaB9kVNRg1bxivCWmFnlAoeq70gUmjb6cyyYaKsdkDKnn0eBmm13mih713BKem7fg/oignwSEimeS+atDgfZfuAkBp/OX3YZNf06QafmSBaExj6xEJdh2aA==" noCertificado="00001000000202540390" formaDePago="PAGO EN UNA SOLA EXHIBICION" sello="Nuh8H4DTZtdSkumkwtQAKrTwJ9OXXa3NxUYBvktaii39yUgCcY2H7+ia0RzCVVKSN1Ae5eFM2147a5NkS0UxnMRLRsIw6OGhZJrGOY5gui+ZGC1eFouUWrDR8F2cXZHuiixr3xZGd53jy4/vcJcaizQ4j1Czm+3wUkdsf70nwCo=" fecha="2016-12-01T16:24:24" folio="65299" serie="T" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.buzonfiscal.com/ns/addenda/bf/2 http://www.buzonfiscal.com/schema/xsd/Addenda_BF_v20.xsd" xmlns:bfa2="http://www.buzonfiscal.com/ns/addenda/bf/2" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <cfdi:Emisor nombre="AUTOS VALLE ORIENTE, S.A. DE C.V." rfc="AVO050503JD7">
+        <cfdi:DomicilioFiscal codigoPostal="66220" pais="MEXICO" estado="NUEVO LEON" municipio="SAN PEDRO GARZA GARCIA" colonia="RESIDENCIAL SAN AGUSTIN" noInterior="1" noExterior="220" calle="AV. JOSE VASCONCELOS"/>
+        <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONA MORAL"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="JOSE ARNOLDO MEDINA HERNANDEZ" rfc="MEHA850206NI7">
+        <cfdi:Domicilio codigoPostal="67176" pais="MEXICO" estado="NUEVO LEON" municipio="GUADALUPE" colonia="BOSQUES DEL CONTRY" calle="MAPLE 2215"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="1033.62" valorUnitario="1033.62" descripcion="SERVICIO DE MANTENIMIENTO DE 30000 KMS.ACEITE DE MOTOR, CARTRIDGE, OIL FILTER, LIMPIA FRENOS, EMPAQUE,  1" unidad="NO APLICA" cantidad="1"/>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="165.38">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="165.38" tasa="16.00" impuesto="IVA"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd"  selloSAT="1WMWaNV1zIyOlsiG57wCC0DV6YObPt0jOLBUD4VuXkrECKwi017spc55mdF0GUfsXCQRnF9DITSxzrsuove3PFgQ8Qrw0lWQvkMY7f5xZMTyh0ptXdKeOjLB8/ZWFSykaSmQZaQ+sFa70WyOyBp4lqZOrkFOA1GfJKcVxbBh+DI=" noCertificadoSAT="00001000000202693892" selloCFD="Nuh8H4DTZtdSkumkwtQAKrTwJ9OXXa3NxUYBvktaii39yUgCcY2H7+ia0RzCVVKSN1Ae5eFM2147a5NkS0UxnMRLRsIw6OGhZJrGOY5gui+ZGC1eFouUWrDR8F2cXZHuiixr3xZGd53jy4/vcJcaizQ4j1Czm+3wUkdsf70nwCo=" FechaTimbrado="2016-12-01T16:24:24" UUID="7378cb09-e763-4e74-86ba-08454bb41bf9" version="1.0"/>
+    </cfdi:Complemento>
+    <cfdi:Addenda>
+        <bfa2:AddendaBuzonFiscal version="2.0">
+            <bfa2:Emisor telefono="8073-8000"/>
+            <bfa2:Receptor noCliente="73000-7" telefono="11060833"/>
+            <bfa2:TipoDocumento descripcion="Factura" nombreCorto="FAC"/>
+            <bfa2:CFD cargos="0" embarque="ELLOS MISMOS" totalConLetra="UN MIL CIENTO NOVENTA Y NUEVE PESOS  00/100 M.N." agenteVentas="CARLOS MORALES  " tipoCambio="0.00" noOrden="129597"/>
+            <bfa2:Extra valor="JM3KE2D39F0-449025" atributo="Serie"/>
+            <bfa2:Extra valor="CX5 MODELO 2015" atributo="Vehiculo"/>
+            <bfa2:Extra valor="JMC1901" atributo="Placas"/>
+            <bfa2:Extra valor="31010" atributo="Kilometraje"/>
+            <bfa2:Extra valor="AR.MH85@GMAIL.COM" atributo="Correo"/>
+        </bfa2:AddendaBuzonFiscal>
+    </cfdi:Addenda>
+</cfdi:Comprobante>

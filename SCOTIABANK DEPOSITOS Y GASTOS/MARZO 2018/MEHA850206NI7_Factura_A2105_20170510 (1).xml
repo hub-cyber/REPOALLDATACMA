@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="2105" fecha="2017-05-10T01:22:11" sello="BEIwXNKVJNADgnJjSCDd+yF51FsU/l3BRiIaYKVUnvtGSvxrjjPrQXQ8gHx0sfkrSFzzL0tsuiBoliPjIE4nZoO7S4qkL+VccNCp5j6pIxoXOJADP4wZ6/Lg1sKEEuhRh0dzsmOAPUpxvcuYXB5jtTITbUblnU7g7TKVfrz/qpM=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="2182.76" TipoCambio="1.00" Moneda="MXN" total="2532.00" metodoDePago="99" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Personas Físicas con Actividades Empresariales y Profesionales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XAXX010101000" nombre="MELISSA ELIZABETH MARQUEZ MARQUEZ">
+		<cfdi:Domicilio calle="BUGAMBILIAS" noExterior="242" colonia="LOS SABINOS" localidad="MONTEMORELOS" municipio="MONTEMORELOS" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67515"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1" unidad="KIT" noIdentificacion="40893" descripcion="ARIFICIAL HAIR COLOR EXTRACTOR KIT" valorUnitario="306.0345" importe="306.03">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="KIT" noIdentificacion="41564" descripcion="KERATINE FUSION TEXTURE CONTROL KIT" valorUnitario="403.4483" importe="403.45">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43157" descripcion="NEVO REPARATIVE SHAMPOO 1L" valorUnitario="313.7932" importe="313.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43161" descripcion="NEVO REPARATIVE CONDITIONER 1L" valorUnitario="313.7932" importe="313.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40900" descripcion="SILKDEGREES SHINE SERUM 150ML " valorUnitario="141.3794" importe="141.38">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44223" descripcion="NEVO 60DEEP TREATMENT 250G" valorUnitario="223.2759" importe="223.28">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43890" descripcion="NEVO HYDRA PEARLS 120ML" valorUnitario="266.3794" importe="266.38">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43670" descripcion="NEVO INTENSE THERAPY LEAVE-IN TREATMENT 300ML" valorUnitario="214.66" importe="214.66">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="349.24">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="349.24"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="V/iSJmjv1CvG/X3e7Kca3it6An61I3+8kFjHlZkfqL0IxYXqnE/eOVWTPZkjj0O7MiSkgxCdPgx8TRZsIEBr8xJgZgc0Nal7TaWdzcyipCoq0zkVX++IX5tYBkc1vp8QHXXMVnEWLreX1aOV/w5UvHobLBOhs+4NN2zsUpwYVTY4Bc1kcV/7uxmGJXLcmmt0YM7Yk22nKWK+7m9+5yJ3oTglrBNrmA9ZUI9Xw+ZjRZ8pP2qg3cCB9bDhthy6OWcqCVlWniyAG/5lnN+hNAkX4Ko13OOIIiOnuHDCc4iBYwiweGw7pz1qmVjfBw7+g657syywfFL43FK0q1CRTP7RXg==" noCertificadoSAT="00001000000401041203" selloCFD="BEIwXNKVJNADgnJjSCDd+yF51FsU/l3BRiIaYKVUnvtGSvxrjjPrQXQ8gHx0sfkrSFzzL0tsuiBoliPjIE4nZoO7S4qkL+VccNCp5j6pIxoXOJADP4wZ6/Lg1sKEEuhRh0dzsmOAPUpxvcuYXB5jtTITbUblnU7g7TKVfrz/qpM=" FechaTimbrado="2017-05-10T01:35:36" UUID="84884FC1-4A18-B14C-AE90-9BC61C1986E3" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

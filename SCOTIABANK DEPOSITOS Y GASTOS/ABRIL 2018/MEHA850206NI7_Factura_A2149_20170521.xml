@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="2149" fecha="2017-05-21T00:56:48" sello="hy4Hl97qWauXj50lcDvLtpvV6RPRhiafb+NVFGYa/IZ5xNSsu4q2oGnLjtkWSfZVPo1thCW24WRDzyoIM3XixpgPO3WviFkqLQ45I2//tvzL9+lbs02V1AJrUc93r7ASAnreLbjNZlPIt/XarAmE4R2Ug9q6TNw5NAkmVB7SAX0=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="2595.69" TipoCambio="1.00" Moneda="MXN" total="3011.00" metodoDePago="99" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Personas Físicas con Actividades Empresariales y Profesionales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XAXX010101000" nombre="IVONNE ZORAIDA GARCIA VAZQUEZ">
+		<cfdi:Domicilio calle="AV SAN JOSE " noExterior="5115" noInterior="A" colonia="VALLE VERDE 3 SECTOR" localidad="MONTERREY" municipio="MONTERREY" estado="NUEVO LEON" pais="MEXICO" codigoPostal="64339"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43156" descripcion="NEVO MOISTURE RICH SHAMPOO 1L" valorUnitario="313.795" importe="313.80">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43160" descripcion="NEVO MOISTURE RICH CONDITIONER 1L" valorUnitario="313.795" importe="313.80">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43154" descripcion="NEVO MOISTURE RICH SHAMPOO 300ML" valorUnitario="143.1035" importe="143.10">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43158" descripcion="NEVO MOISTURE RICH CONDITIONER 300ML" valorUnitario="143.1035" importe="143.10">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43155" descripcion="NEVO REPARATIVE SHAMPOO 300ML" valorUnitario="143.1035" importe="143.10">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43159" descripcion="NEVO REPARATIVE CONDITIONER 300ML" valorUnitario="143.1035" importe="143.10">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44204" descripcion="NEVO COLOR ENHANCER BRILLANT COPPER 150ML" valorUnitario="176.7242" importe="176.72">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43640" descripcion="VIVIDS COLOR PROTECT SHINE SPRAY 110ML" valorUnitario="150.00" importe="150.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4" unidad="PIEZA" noIdentificacion="40905" descripcion="TINTE CHROMA SILK 1" valorUnitario="106.8966" importe="427.59">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="40968" descripcion="TINTE CHROMA SILK 7.44" valorUnitario="106.8966" importe="320.69">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="44059" descripcion="TINTE CHROMA SILK LOWLIGTH 6NtL " valorUnitario="106.8966" importe="320.69">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="415.31">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="415.31"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="0VXXIw4sEidxhjdz2vQUnO6ccEhdwIg+IfbX6XsoXsmFJMCW/F5UEJYAxFIwYpNdo8QU7jaALLAX5P2PR+PxN9gjXFKIXhhglD5k+MI3YleJKy6aMj8ZMfbLni+amupjJ/HpCwT2vUK9YSUtMttRVv59d3ZJQ+zZCfTI5qQCVYuC6bXfb1MI4pmssyQ1RgQrd6A/6Q/8lo+CDJk2jbJ3NbDxMMVInJsKJzyItu2f7w+nrNzV3WPdNGY5hvIhJ6gPVQoGAqVfkg9vi0rIXLSJxsCytApI2bU9iVSh14pue+eiBmwImwEII/u/UrxW2VlTgSD18CRGPPAxQDPNrVGBHw==" noCertificadoSAT="00001000000401041203" selloCFD="hy4Hl97qWauXj50lcDvLtpvV6RPRhiafb+NVFGYa/IZ5xNSsu4q2oGnLjtkWSfZVPo1thCW24WRDzyoIM3XixpgPO3WviFkqLQ45I2//tvzL9+lbs02V1AJrUc93r7ASAnreLbjNZlPIt/XarAmE4R2Ug9q6TNw5NAkmVB7SAX0=" FechaTimbrado="2017-05-21T00:57:38" UUID="8B373C60-5112-5D4F-9178-4FF08F85C8FE" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

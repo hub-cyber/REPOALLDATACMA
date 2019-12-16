@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" Version="3.3" Serie="A" Folio="3623" Fecha="2018-05-21T02:36:45" Sello="gHpQJIVlzh/ZqKO3dqEyTY7j3sEidjASLcUkaw9U4WzC+WRwHD+po+L2LjoVBlSF4WlQ8QJlFHBVj7Jd4441C/ulcditd6laEE6eC9sf1EDy/KZT26O2QOdqNCjSrt0KsueZX/wXuHsK6e2UjfBlQ6Hz84pHaC7TPoTxFM5uBIQ=" FormaPago="99" NoCertificado="00001000000306426618" Certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" CondicionesDePago="CREDITO 28 DIAS" SubTotal="183343.30" Moneda="MXN" Total="212678.23" TipoDeComprobante="I" MetodoPago="PPD" LugarExpedicion="67176">
+	<cfdi:Emisor Rfc="MEHA850206NI7" Nombre="JOSE ARNOLDO MEDINA HERNANDEZ" RegimenFiscal="612"/>
+	<cfdi:Receptor Rfc="PLO020913PN0" Nombre="PRINT A LOGO SA DE CV" UsoCFDI="G01"/>
+	<cfdi:Conceptos>
+		<cfdi:Concepto ClaveProdServ="44103105" NoIdentificacion="CE285A" Cantidad="20" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CARTUCHO HP CE285A" ValorUnitario="1183.2983" Importe="23665.97">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="23665.97" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3786.5552"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="44103105" NoIdentificacion="MLT-D111S" Cantidad="50" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CARTUCHO SAMSUNG MLT-D111S" ValorUnitario="976.80" Importe="48840.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="48840.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7814.40"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="ROLLOTERM80X70" Cantidad="150" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="ROLLO TERMICO SIN IMPRESION 80X70" ValorUnitario="738.9155" Importe="110837.33">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="110837.33" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17733.9728"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos TotalImpuestosTrasladados="29334.93">
+		<cfdi:Traslados>
+			<cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="29334.93"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" SelloSAT="SU/uzI44VFc78bK03/SkXGEBxJ9ygxcMBI4MG4Wmy1LjuI1769sIbWnkYW2X6+qpf+m9q3w/mDNQ5Uuxo5BGPD0uE3UwbzjaJFk6Z+gvaAsvEHSgGzI6dTMTpEJ9s9sXpwsf344b3dG4Eeuabx/ZdPSHngeyd2Qs9GGjrptAvba0tyql+WAiBOLF+55COpj97B1THQhtLKSkAulXrsyeo5pIB8DVhncdvdue7TAw092pR+MzkJnhVRYeJDwRxyzx8GRdgchA1VTL8cstGLNbRBq5FwXxQ7DhP+qqj7tDYE4R/Erxe5yqChxYe4tetYqI+5mg3tIXGehRdmCDaIjhig==" NoCertificadoSAT="00001000000401041203" SelloCFD="gHpQJIVlzh/ZqKO3dqEyTY7j3sEidjASLcUkaw9U4WzC+WRwHD+po+L2LjoVBlSF4WlQ8QJlFHBVj7Jd4441C/ulcditd6laEE6eC9sf1EDy/KZT26O2QOdqNCjSrt0KsueZX/wXuHsK6e2UjfBlQ6Hz84pHaC7TPoTxFM5uBIQ=" RfcProvCertif="SCD110105654" FechaTimbrado="2018-05-21T02:40:43" UUID="EB5594A3-F365-1646-808B-E53F4E8C9C30" Version="1.1"/></cfdi:Complemento></cfdi:Comprobante>

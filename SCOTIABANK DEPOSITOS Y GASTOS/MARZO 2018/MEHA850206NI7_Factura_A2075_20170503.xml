@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="2075" fecha="2017-05-03T00:45:36" sello="cvY2xVK0yLsbGNEYuCnBTESA05yH1NqfGsnM6y/oHL9+LLPwF6fcvVnPe6gskcRK1xUfTY+0++rnRpHo67FSTZ0e39g3uBDqJQS/5mpBOaDhaPxUWigm7G+i5bIaFIMC5l+6B4czMEFXzID5w/KVCI8tWJ/qA6JEoMy0J2eCBUY=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="20860.35" TipoCambio="1.00" Moneda="MXN" total="24198.01" metodoDePago="99" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Personas Físicas con Actividades Empresariales y Profesionales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="SAGM920204RL0" nombre="MARYLIN SANCHEZ GARCIA">
+		<cfdi:Domicilio calle="AV. LAZARO CARDENAS" noExterior="999 " noInterior="4" colonia="LAS BRISAS" localidad="MONTERREY" municipio="MONTERREY" estado="NUEVO LEON" pais="MEXICO" codigoPostal="64780"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="40906" descripcion="TINTE CHROMA SILK 3" valorUnitario="106.8966" importe="320.69">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="40908" descripcion="TINTE CHROMA SILK 5" valorUnitario="106.8966" importe="320.69">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40914" descripcion="TINTE CHROMA SILK 6.1" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40907" descripcion="TINTE CHROMA SILK 4" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40909" descripcion="TINTE CHROMA SILK 6" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="40910" descripcion="TINTE CHROMA SILK 7" valorUnitario="106.8966" importe="320.69">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="40911" descripcion="TINTE CHROMA SILK 8" valorUnitario="106.8966" importe="641.38">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="40915" descripcion="TINTE CHROMA SILK 7.1" valorUnitario="106.8966" importe="320.69">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40916" descripcion="TINTE CHROMA SILK 8.1" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40931" descripcion="TINTE CHROMA SILK 9.22" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40918" descripcion="TINTE CHROMA SILK 10.1" valorUnitario="106.8966" importe="213.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="41000" descripcion="TINTE CHROMA SILK 10.02" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="44353" descripcion="TINTE CHROMA SILK EXPRESS TONES BEIGE" valorUnitario="106.8966" importe="320.69">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="44359" descripcion="TINTE CHROMA SILK EXPRESS TONES PEARL" valorUnitario="106.8966" importe="320.69">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43096" descripcion="PEROXIDO ZERO LIFT COLOR ACTIVATOR 1L" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4" unidad="PIEZA" noIdentificacion="43093" descripcion="PEROXIDO CHROMA SILK 20 VOL. 1L" valorUnitario="106.8966" importe="427.59">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40896" descripcion="DECOLORANTE PURE LIGHT 680G" valorUnitario="106.8966" importe="106.90">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="12" unidad="PIEZA" noIdentificacion="43154" descripcion="NEVO MOISTURE RICH SHAMPOO 300ML" valorUnitario="143.1035" importe="1717.24">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43154" descripcion="NEVO MOISTURE RICH SHAMPOO 300ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="12" unidad="PIEZA" noIdentificacion="43155" descripcion="NEVO REPARATIVE SHAMPOO 300ML" valorUnitario="143.1035" importe="1717.24">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43155" descripcion="NEVO REPARATIVE SHAMPOO 300ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43156" descripcion="NEVO MOISTURE RICH SHAMPOO 1L" valorUnitario="313.7932" importe="313.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43160" descripcion="NEVO MOISTURE RICH CONDITIONER 1L" valorUnitario="313.7932" importe="627.59">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="43670" descripcion="NEVO INTENSE THERAPY LEAVE-IN TREATMENT 300ML" valorUnitario="214.66" importe="1287.96">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43670" descripcion="NEVO INTENSE THERAPY LEAVE-IN TREATMENT 300ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43890" descripcion="NEVO HYDRA PEARLS 120ML" valorUnitario="266.37" importe="532.74">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43495" descripcion="NEVO FULL VOLUME MOUSSE 220ML" valorUnitario="118.96" importe="237.92">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="18" unidad="PIEZA" noIdentificacion="44746" descripcion="THE PERFECT BLONDE SHEAL &amp; PROTECT 300ML " valorUnitario="214.66" importe="3863.88">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="44746" descripcion="THE PERFECT BLONDE SHEAL &amp; PROTECT 300ML " valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="44207" descripcion="NEVO COLOR ENHANCER HONEY BLONDE 150ML" valorUnitario="176.722" importe="1060.33">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44207" descripcion="NEVO COLOR ENHANCER HONEY BLONDE 150ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="44204" descripcion="NEVO COLOR ENHANCER BRILLANT COPPER 150ML" valorUnitario="176.72" importe="1060.32">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44204" descripcion="NEVO COLOR ENHANCER BRILLANT COPPER 150ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="44203" descripcion="NEVO COLOR ENHANCER RADIANT RED 150ML" valorUnitario="176.72" importe="1060.32">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44203" descripcion="NEVO COLOR ENHANCER RADIANT RED 150ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="44205" descripcion="NEVO COLOR ENHANCER COCOA BRUNETTE 150ML" valorUnitario="176.72" importe="1060.32">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44205" descripcion="NEVO COLOR ENHANCER COCOA BRUNETTE 150ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="44747" descripcion="THE PERFECT BLONDE MASQUE 150ML " valorUnitario="177.5862" importe="1065.52">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44747" descripcion="THE PERFECT BLONDE MASQUE 150ML " valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="43493" descripcion="NEVO MODEL BEHAVIOR CREAM 150ML" valorUnitario="93.1035" importe="558.62">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43493" descripcion="NEVO MODEL BEHAVIOR CREAM 150ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43157" descripcion="NEVO REPARATIVE SHAMPOO 1L" valorUnitario="313.7932" importe="313.79">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="42146" descripcion="BIOJEN 9 SH INVIGORATING CLEAN 1L" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="42147" descripcion="BIOJEN 9 CONDITIONER DAILY THERAPY 1L" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="130930" descripcion="PRAVANA BOMBAS DOSIFICADORAS" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="3337.66">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="3337.66"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="U17E/mbH7rctCMAsa6J6DKznIPeCCllTR+i6UngIGPML5uGA3fs10yHY3Ys59XJfx9cQZeQOFzOYD98eSVJxqFjGPLsJR9aXxZpGN/vq6iV7R6taPyMA85mbw65n/en504PKHV1JTQMukeHSQNcv291GT/ZVnpEEsacWMxQbKMwSJMD9TVc/Jh7nzeojjVGh0CGQtPeubC3pmYz7zqCflg8KOAkTMs+49kozjePbu6XpXRz0FRChtSfHrxlasyenmAQZ4Y14LDrIEYGDAweItV4IGSyd6bol2reQmBYydbdQIkQNTTxtxQROyaYBGLTV0GJ1CJn/mYYSy/IWHidE9Q==" noCertificadoSAT="00001000000401041203" selloCFD="cvY2xVK0yLsbGNEYuCnBTESA05yH1NqfGsnM6y/oHL9+LLPwF6fcvVnPe6gskcRK1xUfTY+0++rnRpHo67FSTZ0e39g3uBDqJQS/5mpBOaDhaPxUWigm7G+i5bIaFIMC5l+6B4czMEFXzID5w/KVCI8tWJ/qA6JEoMy0J2eCBUY=" FechaTimbrado="2017-05-03T00:48:32" UUID="D99D3542-A95C-5D4A-81E7-080040EAC773" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

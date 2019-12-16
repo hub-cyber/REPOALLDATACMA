@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" Version="3.3" Serie="A" Folio="3624" Fecha="2018-05-21T02:41:31" Sello="NmoWIW0B3Hd+zJgeK5x/Ikq32tJP5LQx1k4dT/lpmVzcZBGva6MBJ/qY1FPM4uNObsUgbr68JY/fO/GGIwHpPakAR/aQ6m0xPSH7Aj1iRFqoaRAsFNmspp2v/bcr+TYKDsqsqn8TPSD1hDY8k7ORwO16i59HztBU520sqPPiseM=" FormaPago="99" NoCertificado="00001000000306426618" Certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" CondicionesDePago="CREDITO 28 DIAS" SubTotal="29123.15" Moneda="MXN" Total="33782.85" TipoDeComprobante="I" MetodoPago="PPD" LugarExpedicion="67176">
+	<cfdi:Emisor Rfc="MEHA850206NI7" Nombre="JOSE ARNOLDO MEDINA HERNANDEZ" RegimenFiscal="612"/>
+	<cfdi:Receptor Rfc="PLO020913PN0" Nombre="PRINT A LOGO SA DE CV" UsoCFDI="G01"/>
+	<cfdi:Conceptos>
+		<cfdi:Concepto ClaveProdServ="44103105" NoIdentificacion="106R01485" Cantidad="4" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CARTUCHO XEROX 3220/3210 (106R01485)" ValorUnitario="2129.0948" Importe="8516.38">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="8516.38" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1362.6208"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="44103105" NoIdentificacion="9363WL" Cantidad="5" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="TONER HP 9363WL" ValorUnitario="1043.0172" Importe="5215.09">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="5215.09" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="834.4144"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="44103105" NoIdentificacion="9364WL" Cantidad="5" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="TONER HP 9364WL" ValorUnitario="856.4224" Importe="4282.11">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="4282.11" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="685.1376"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="44103105" NoIdentificacion="TK8327K" Cantidad="3" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="TONER KYOCERA NEGRO TK8327K" ValorUnitario="1798.9655" Importe="5396.90">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="5396.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="863.504"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="44103105" NoIdentificacion="TK8327Y" Cantidad="3" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="TONER KYOCERA AMARILLO TK8327Y" ValorUnitario="1904.2241" Importe="5712.67">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="5712.67" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="914.0272"/>
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos TotalImpuestosTrasladados="4659.70">
+		<cfdi:Traslados>
+			<cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4659.70"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" SelloSAT="M47Gwx0g+50hY1j25rFr4yT6I5iSGZPIgaKSjnDqIi6fK52VmtBxJvQqDDpNtPmxUgMD84d2UISjwY5kDCgXTHffeYI8wIs2XrQ1TsyqlkevRJe3Vtu8vYWrGwlQw8B4QMKw2NaepEPqjDcs6bLJ2Op5IkQo/HSsm5Np06t++ajV55GMClbGRqLs+0qVitbB9Cbyt52E+TneqhfzFRHlDSdGoZbgeklTO7JV3XIc+H3X2ZAaH2a2DGB3Zcy9BC2bSpHcfjAfn/6FyXfy9jyqFJoxI7ki8e537VYBEYskBh5F8nIN3XN9DmsG6DuqQ1B3XBgmRUPLYTFYvcTeRYy6+g==" NoCertificadoSAT="00001000000401041203" SelloCFD="NmoWIW0B3Hd+zJgeK5x/Ikq32tJP5LQx1k4dT/lpmVzcZBGva6MBJ/qY1FPM4uNObsUgbr68JY/fO/GGIwHpPakAR/aQ6m0xPSH7Aj1iRFqoaRAsFNmspp2v/bcr+TYKDsqsqn8TPSD1hDY8k7ORwO16i59HztBU520sqPPiseM=" RfcProvCertif="SCD110105654" FechaTimbrado="2018-05-21T02:49:17" UUID="E9954391-F398-4B40-A6D2-AF421C2FBDE2" Version="1.1"/></cfdi:Complemento></cfdi:Comprobante>

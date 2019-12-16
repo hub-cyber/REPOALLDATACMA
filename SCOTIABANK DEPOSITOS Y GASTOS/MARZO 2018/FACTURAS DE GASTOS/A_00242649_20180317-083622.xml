@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Serie="A" Folio="00242649" Fecha="2018-03-17T08:36:21" Sello="AOgNo7z+U7lHMBh64jxWhWHOHbAZTOmyAc1rZ7Rhq7ulDko0fqWSwue4C/97BvmX6HTqzE+LeojuLP2YIzgilf7mCDMobCZKQXcmI2bqdb4qGQIxztA+rU+c84s6Q4DuI+D9sa+CAr9u0n9YbuC1A0sc4Q6I3fVF6vC0ybu3h8U=" FormaPago="03" NoCertificado="00001000000305757606" Certificado="MIIEhTCCA22gAwIBAgIUMDAwMDEwMDAwMDAzMDU3NTc2MDYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDEyMjYyMjU3NDFaFw0xODEyMjYyMjU3NDFaMIHRMSYwJAYDVQQDEx1OQVRUVVJBIExBQk9SQVRPUklPUyBTQSBERSBDVjEmMCQGA1UEKRMdTkFUVFVSQSBMQUJPUkFUT1JJT1MgU0EgREUgQ1YxJjAkBgNVBAoTHU5BVFRVUkEgTEFCT1JBVE9SSU9TIFNBIERFIENWMSUwIwYDVQQtExxOTEE4MjA3MjNGTDQgLyBTQVJMNDUwNjA3MzEwMR4wHAYDVQQFExUgLyBTQVJMNDUwNjA3SFpTQ1FTMDgxEDAOBgNVBAsTB1pBUE9QQU4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ4B/AnWuJKpvfolvtxXVLyYcJ3SI56PSYffAi+KxIsXWtawPdT7vIz/tMQOkW5zpvbazlpLmi2ZQ++7t0b4TTPZhQTYF5MwOlRftRDwl5ZEFB44SH++jTjB1XUWVIcpVrJu4q9C4KeNcpNNaYkJV9yIUM1HrxLe1/t64D3OZwSvAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQB9d5lN3IzTT983yTR31exgbhlqSqtypbYWaW+GFU/1MFZMX8DsJdSlCzIaT4eeboByw84QuwA5GSgDzbskim6OXvQMb59bKD2uVT440lEcaPdzpyH/PTyd1JU+r09v6NCL1brBaELkNapU2hIteOKF/czQXtyxfXiFJ1efAGiFIQSGrJnUgdf7qHZeO7f27z/pRdpIynmKHmc2x3Lj4/LVJQzH0/qTEdeOFhjKxE/1xhAJL91l/2f4iN+EBmDQtdr+mC34nBWiNEsChSW3eBInNzohrTiAPZ0IXHmhBOYBY/0v1/NBeDsd9q7eJT8qOPycqT1zRqBXw0GU7BM6VADu" CondicionesDePago="PAGO ANTICIPADO" SubTotal="35656.00" Descuento="20918.00" Total="17096.08" Moneda="MXN" TipoCambio="1" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="45145">
+  <cfdi:Emisor Rfc="NLA820723FL4" Nombre="NATTURA LABORATORIOS, S.A. DE C.V." RegimenFiscal="601"/>
+  <cfdi:Receptor Rfc="MEHA850206NI7" Nombre="JOSE ARNOLDO MEDINA HERNANDEZ" UsoCFDI="G01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45223" Cantidad="12.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Detox Shampoo 1L Nacional" ValorUnitario="303.00" Importe="3636.00" Descuento="1818.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1818.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="290.88"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53131602" NoIdentificacion="45199" Cantidad="24.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Nevo Intense Therapy 300 ml Nacional" ValorUnitario="205.00" Importe="4920.00" Descuento="2460.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2460.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="393.60"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="80141605" NoIdentificacion="130226" Cantidad="10.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Pravana Poster Locked-In V2" ValorUnitario="32.00" Importe="320.00" Descuento="160.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="160.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="25.60"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45049" Cantidad="16.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk 3N  3  90 ml Nacional" ValorUnitario="103.00" Importe="1648.00" Descuento="1648.00"/>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45136" Cantidad="14.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chroma Ultra Sheer10bv 10.02 90ml Nacion" ValorUnitario="103.00" Importe="1442.00" Descuento="1442.00"/>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45136" Cantidad="6.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chroma Ultra Sheer10bv 10.02 90ml Nacion" ValorUnitario="103.00" Importe="618.00" Descuento="618.00"/>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45133" Cantidad="12.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk Vivids Violet 90ml Nacional" ValorUnitario="103.00" Importe="1236.00" Descuento="1236.00"/>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45048" Cantidad="12.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk 1N  1  90 ml Nacional" ValorUnitario="103.00" Importe="1236.00" Descuento="1236.00"/>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45052" Cantidad="48.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk 6N  6  90 ml Nacional" ValorUnitario="103.00" Importe="4944.00" Descuento="2472.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2472.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="395.52"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45076" Cantidad="36.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk 6Gm 6.35 90ml Nacional" ValorUnitario="103.00" Importe="3708.00" Descuento="1854.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1854.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="296.64"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45053" Cantidad="36.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk 7N  7  90 ml Nacional" ValorUnitario="103.00" Importe="3708.00" Descuento="1854.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1854.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="296.64"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45051" Cantidad="36.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk 5N  5  90 ml Nacional" ValorUnitario="103.00" Importe="3708.00" Descuento="1854.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1854.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="296.64"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45050" Cantidad="36.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk 4N  4  90 ml Nacional" ValorUnitario="103.00" Importe="3708.00" Descuento="1854.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1854.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="296.64"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12171500" NoIdentificacion="45049" Cantidad="8.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Chromasilk 3N  3  90 ml Nacional" ValorUnitario="103.00" Importe="824.00" Descuento="412.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="412.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="65.92"/>
+          </cfdi:Traslados>
+        </cfdi:Impuestos>
+      </cfdi:Concepto>
+    </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="2358.08">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2358.08"/>
+      </cfdi:Traslados>
+    </cfdi:Impuestos>
+  <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="ef5288c2-94cc-42f2-9f42-61c8eae55247" RfcProvCertif="DIA031002LZ2" FechaTimbrado="2018-03-17T08:53:03" SelloCFD="AOgNo7z+U7lHMBh64jxWhWHOHbAZTOmyAc1rZ7Rhq7ulDko0fqWSwue4C/97BvmX6HTqzE+LeojuLP2YIzgilf7mCDMobCZKQXcmI2bqdb4qGQIxztA+rU+c84s6Q4DuI+D9sa+CAr9u0n9YbuC1A0sc4Q6I3fVF6vC0ybu3h8U=" NoCertificadoSAT="00001000000404614920" SelloSAT="F/iM2LOTQHYo9m0fuNvbIqkx/naJu3UjFr5I9ovmz2k4pSCHrSoPV8A3TCdfQ4wgzxcCivFA4GvKJ3HijGBRvyquW3NYkmySFpLnxrCAoAt4lH7N0KR/CDyoE7+lq2rSPRRu6cX57DMhgSgCYqjrnWOoQdddRupJmXM1hR/1WuuG9agJ9b6fKUp8GKuUqLMRmmo4ATqXVZjy1ZVuyOaOSDF01EIyoll7G8pneH+wEhRYksxVyKmHqft2Z9wQFLS7UH9luoZxeU8RMByFjkABFKerpyu/SnWUjZwi4S67Yi3SQEIWkRX0yVpEocHaMSejFr1mhmYQwPaEuQA0Wat6mw=="/>
+    </cfdi:Complemento><cfdi:Addenda>
+    <dvz:diverza xmlns:dvz="http://www.diverza.com/ns/addenda/diverza/1" xsi:schemaLocation="http://www.diverza.com/ns/addenda/diverza/1 http://www.diverza.com/schema/xsd/Addenda_Diverza_v1.1.xsd" version="1.1">
+      <dvz:generales tipoDocumento="Factura" totalConLetra="DIECISIETE MIL NOVENTA Y SEIS PESOS 08 / 100 MXN" numeroOrden="0000571065" nombreTransportista="CEDIS Nattura Labs."/>
+      <dvz:emisor vendedor="10493">
+        <dvz:domicilioFiscalE calle="PEDRO MARTINEZ RIVAS" numero="746" ciudad="ZAPOPAN" estado="Jalisco" pais="México" codigoPostal="45145"/>
+        </dvz:emisor>
+      <dvz:receptor numCliente="0000117082">
+        <dvz:datosContactoR emailContacto="ar.mh85@gmail.com"/>
+        <dvz:domicilioFiscalR calle="MAPLE NO. 2215" colonia="BOSQUES DEL COUNTRY" ciudad="GUADALUPE" estado="Nuevo León" pais="México" codigoPostal="67176"/>
+        <dvz:destino>
+          <dvz:domicilioDestinoR codigoSitio="JOSE ARNOLDO MEDINA HERNANDEZ" calle="MAPLE NO. 2215" ciudad="GUADALUPE" estado="Nuevo León" pais="México" codigoPostal="67176"/>
+          </dvz:destino>
+        </dvz:receptor>
+      <dvz:conceptos>
+        <dvz:concepto codigoEAN="7501438384609" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593426">
+          <dvz:datosExtraC atributo="LOTE" valor="174013666"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438384050" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593426">
+          <dvz:datosExtraC atributo="LOTE" valor="184000932"/>
+          </dvz:concepto>
+        <dvz:concepto nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593426"/>
+        <dvz:concepto codigoEAN="7501438380373" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593426">
+          <dvz:datosExtraC atributo="LOTE" valor="174017615"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438381714" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593426">
+          <dvz:datosExtraC atributo="LOTE" valor="184000083"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438381714" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593426">
+          <dvz:datosExtraC atributo="LOTE" valor="184000083"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438381288" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593426">
+          <dvz:datosExtraC atributo="LOTE" valor="184002080"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438380366" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593426">
+          <dvz:datosExtraC atributo="LOTE" valor="184002406"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438380403" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593426">
+          <dvz:datosExtraC atributo="LOTE" valor="184003039"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438380649" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593426">
+          <dvz:datosExtraC atributo="LOTE" valor="174006505"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438380410" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593426">
+          <dvz:datosExtraC atributo="LOTE" valor="184002077"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438380397" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593426">
+          <dvz:datosExtraC atributo="LOTE" valor="184001202"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438380380" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593426">
+          <dvz:datosExtraC atributo="LOTE" valor="184001749"/>
+          </dvz:concepto>
+        <dvz:concepto codigoEAN="7501438380373" nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100593426">
+          <dvz:datosExtraC atributo="LOTE" valor="174017615"/>
+          </dvz:concepto>
+        </dvz:conceptos>
+      <dvz:complemento>
+        <dvz:datosExtra atributo="DOC. SAP" valor="0310240771"/>
+        <dvz:datosExtra atributo="PEDIDO CLIENTE" valor="Ecommerce-1030"/>
+        <dvz:datosExtra atributo="TRANSPORTE" valor="Ecommerce-1030"/>
+        <dvz:datosExtra atributo="PESO" valor="46.160KG"/>
+        </dvz:complemento>
+      </dvz:diverza>
+    </cfdi:Addenda>
+</cfdi:Comprobante>

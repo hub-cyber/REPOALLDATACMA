@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="1892" fecha="2017-03-09T00:35:30" sello="BgtqhndAuWK9mi0AoOPoGXL5lY4DNG+i+09tNGS+mirb1BPd2mXexTEE78dQUQGGDcowcO4EmZNQIvf822Xk5N9EEy82eXFJGck6A0P9iGo4t3k2O7SdGKR5n/4ZtFC6Ngub8ZZjnak7+erwGGUlPgy2+hQNc1KUcPFo4oG3bxs=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="7321.56" TipoCambio="1.00" Moneda="MXN" total="8493.01" metodoDePago="99" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Régimen personas físicas actividad empresarial y profesional"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XAXX010101000" nombre="MARIBEL URIBE GONZALEZ">
+		<cfdi:Domicilio calle="SENDERO SUR" noExterior="217" colonia="CONTRY" localidad="MONTERREY" municipio="MONTERREY" estado="NUEVO LEON" pais="MEXICO" codigoPostal="64700"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="40906" descripcion="TINTE CHROMA SILK 3" valorUnitario="106.8966" importe="641.38">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="40908" descripcion="TINTE CHROMA SILK 5" valorUnitario="106.8966" importe="641.38">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="40910" descripcion="TINTE CHROMA SILK 7" valorUnitario="106.8966" importe="641.38">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="40912" descripcion="TINTE CHROMA SILK 9" valorUnitario="106.8966" importe="641.38">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="40919" descripcion="TINTE CHROMA SILK 5.11" valorUnitario="106.8966" importe="641.38">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5" unidad="PIEZA" noIdentificacion="40921" descripcion="TINTE CHROMA SILK 7.11" valorUnitario="106.8966" importe="534.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5" unidad="PIEZA" noIdentificacion="40923" descripcion="TINTE CHROMA SILK 9.11" valorUnitario="106.8966" importe="534.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5" unidad="PIEZA" noIdentificacion="40917" descripcion="TINTE CHROMA SILK 9.1" valorUnitario="106.8966" importe="534.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5" unidad="PIEZA" noIdentificacion="40918" descripcion="TINTE CHROMA SILK 10.1" valorUnitario="106.8966" importe="534.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="130131" descripcion="PRAVANA TOALLA" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="130852" descripcion="PRAVANA TAZON" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="130964" descripcion="PRAVANA BROCHA" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40896" descripcion="DECOLORANTE PURE LIGHT 680G" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43092" descripcion="PEROXIDO CHROMA SILK 10 VOL. 1L" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43093" descripcion="PEROXIDO CHROMA SILK 20 VOL. 1L" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="44223" descripcion="NEVO 60DEEP TREATMENT 250G" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43670" descripcion="NEVO INTENSE THERAPY LEAVE-IN TREATMENT 300ML" valorUnitario="214.66" importe="214.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43155" descripcion="NEVO REPARATIVE SHAMPOO 300ML" valorUnitario="143.1035" importe="286.21">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43159" descripcion="NEVO REPARATIVE CONDITIONER 300ML" valorUnitario="143.1035" importe="286.21">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43495" descripcion="NEVO FULL VOLUME MOUSSE 220ML" valorUnitario="118.9655" importe="237.93">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43890" descripcion="NEVO HYDRA PEARLS 120ML" valorUnitario="266.3794" importe="266.38">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44741" descripcion="THE PERFECT BLONDE SHAMPOO 300ML " valorUnitario="146.5517" importe="146.55">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44744" descripcion="THE PERFECT BLONDE CONDITIONER 300ML " valorUnitario="146.5517" importe="146.55">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44746" descripcion="THE PERFECT BLONDE SHEAL &amp; PROTECT 300ML " valorUnitario="214.66" importe="214.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44747" descripcion="THE PERFECT BLONDE MASQUE 150ML " valorUnitario="177.5862" importe="177.59">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="1171.45">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="1171.45"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="p4X2PYBpfbWcCwOLXb1WNZ65i3/plZ/LISO/ut72Qe0cOlN8aqhc9r/eWfusOAo6AUG4i9vbjtuq+r2l7dBIZpbzrnMBiSgLQymiVhPqe1cFVRa0dESNs9aCmWhEo393+iDZMSAgS8GGosqts6SWyWyS2TzDm4DpI8ELxX/EIb6zpAI4OuCOH5KmN4Ha93WZ6a1bzwIyhMJouYzhXa1ioHhTlwv/7aOIffq4KeFtWCaH37fwZHwnZP0B4BiT4SFAhnmWS5T2jUsHIJe0dMAM0sfVJRLd3iY/ixP1sNCE66Ul4lCNQzhBNJRSc9JPKC+IYmpnheGNI+rSYeFlyFNDhQ==" noCertificadoSAT="00001000000401041203" selloCFD="BgtqhndAuWK9mi0AoOPoGXL5lY4DNG+i+09tNGS+mirb1BPd2mXexTEE78dQUQGGDcowcO4EmZNQIvf822Xk5N9EEy82eXFJGck6A0P9iGo4t3k2O7SdGKR5n/4ZtFC6Ngub8ZZjnak7+erwGGUlPgy2+hQNc1KUcPFo4oG3bxs=" FechaTimbrado="2017-03-09T02:16:20" UUID="A2B4B0F2-E03C-C04A-A6EE-A158C23BF723" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

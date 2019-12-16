@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="2201" fecha="2017-06-07T01:29:05" sello="nhKoeIo+uLnKwci1oDR5hDhBOB9suNGsxnOTfv0XcTb7sgJjBiwwpaCOEeH+VqCYhxkNmY+THpcOGSC8k6QoahIoduSs51cSqi2gppRfyW+YNnDBADwX9+jkqL7nK/krhEhSPQOL1SKDksGR3pvN4+MjyNyyMRxDeICiW+zfFq4=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="1655.17" TipoCambio="1.00" Moneda="MXN" total="1920.00" metodoDePago="99" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Personas Físicas con Actividades Empresariales y Profesionales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XAXX010101000" nombre="VIVIANA HERNANDEZ SANDOVAL">
+		<cfdi:Domicilio calle="5 DE MAYO" noExterior="306" colonia="CENTRO" municipio="CADEREYTA JIMENEZ" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67480"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="001100" descripcion="SENZARE COLAGENO KERATINA 300ML" valorUnitario="129.31" importe="775.86">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001100" descripcion="SENZARE COLAGENO KERATINA 300ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="001116" descripcion="SENZARE MASCARILLA AZUL 250ML" valorUnitario="146.5517" importe="879.31">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001116" descripcion="SENZARE MASCARILLA AZUL 250ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="264.83">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="264.83"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="X6PqY+7fH6ZF+fxtM7Y1AlpAKhyJwejkWEL0GD9JvEWlsegAXxKglL4vFt7z24ZPl20WZyuoTBZcfg3OpoJZn84tAB2IgXHAHgkLML633gPW9k/4C1RXmvpTP+dVI6EQZVluL0ATqUnG/J7/tWREQE/oLJ9fdWMLR4dwJz0bFtW61N9xsKlioRBOpoauscFvRcA2V2GpX/jDqKAovJeBSTusJi8hLYdNGI0pFj3zTSzzy+XRr5bfhubHUQvry8brln8LwDTr6SkxBQgjIh+DC/H6Eky7BvEvEmReB9tN/NtxL98m/kIwK3nZBxaVr5puv+NyhGr4zoKLR72GPmA0fQ==" noCertificadoSAT="00001000000401041203" selloCFD="nhKoeIo+uLnKwci1oDR5hDhBOB9suNGsxnOTfv0XcTb7sgJjBiwwpaCOEeH+VqCYhxkNmY+THpcOGSC8k6QoahIoduSs51cSqi2gppRfyW+YNnDBADwX9+jkqL7nK/krhEhSPQOL1SKDksGR3pvN4+MjyNyyMRxDeICiW+zfFq4=" FechaTimbrado="2017-06-07T01:37:51" UUID="E0EABE3F-7B7C-EE4D-A6CE-02DE9CA404E6" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

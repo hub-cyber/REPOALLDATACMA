@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="1678" fecha="2017-01-12T23:59:50" sello="RyauNSIjxZx/S3YtEovtKy7Nyrq3YOMWVws/ViGsKUu0XF7lsnYKXNfI1CQYRpwOBLj9F2fJMSFzPkDOL+iOQ90+n92eJKcgqpG3j6bOXMHzFSC/zexj7L1NrarvRboCxrt8FGcskmbtfBNbmHrbaRTlg7syk2PnHGO9PORiVeQ=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="5684.48" TipoCambio="1.00" Moneda="MXN" total="6594.00" metodoDePago="01 - Efectivo" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Régimen personas físicas actividad empresarial y profesional"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XXX010101000" nombre="MARTHA PATRICIA OLIVARES ESTRADA">
+		<cfdi:Domicilio calle="JORDAN" noExterior="2403" colonia="MITRAS CENTRO" municipio="MONTERREY" estado="NUEVO LEON" pais="MEXICO" codigoPostal="64460"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="7" unidad="PIEZA" noIdentificacion="43154" descripcion="NEVO MOISTURE RICH SHAMPOO 300ML" valorUnitario="117.4876" importe="822.41">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="7" unidad="PIEZA" noIdentificacion="43158" descripcion="NEVO MOISTURE RICH CONDITIONER 300ML" valorUnitario="117.4876" importe="822.41">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="7" unidad="PIEZA" noIdentificacion="44223" descripcion="NEVO 60DEEP TREATMENT 250G" valorUnitario="183.99" importe="1287.93">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="7" unidad="PIEZA" noIdentificacion="44093" descripcion="NEVO SUPER SHAPE 300ML" valorUnitario="176.603" importe="1236.22">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="7" unidad="PIEZA" noIdentificacion="43495" descripcion="NEVO FULL VOLUME MOUSSE 220ML" valorUnitario="99.0148" importe="693.10">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6" unidad="PIEZA" noIdentificacion="44741" descripcion="THE PERFECT BLONDE SHAMPOO 300ML" valorUnitario="137.069" importe="822.41">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="44741" descripcion="THE PERFECT BLONDE SHAMPOO 300ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="909.52">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="909.52"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="nuNDzCMss/mL7WbflHOlHrOQdGxz0uchtvQbepg21MHY2RyJsAnH6b5d5mjqJKLmi0ell5y5VTz61RNv3m0TcWFtIVX/lw4jsEA9t5SnAfAy9ocfb6f0ZAPPKcBDg/qdf6/AMN/DgLOMCuZrEpe2K4EtHO/3HSDRyRXs/eJLHES2S3Q/Mjoq2ZbN5Gj8yftGQ6TnmMtZHuiizgeCPdhOhyn4xIt9EYD13ciCrSHoYRoZKW4auJUscL3fgYLfGmoDjPC5tZ2J9Y0aIMEDQVl9wPGheRyEGTYErmms8zr8iB8mHzyYs3VE7Mqgx2g30VFgWpa4yRbeSBwlEjBATTCgGA==" noCertificadoSAT="00001000000401041203" selloCFD="RyauNSIjxZx/S3YtEovtKy7Nyrq3YOMWVws/ViGsKUu0XF7lsnYKXNfI1CQYRpwOBLj9F2fJMSFzPkDOL+iOQ90+n92eJKcgqpG3j6bOXMHzFSC/zexj7L1NrarvRboCxrt8FGcskmbtfBNbmHrbaRTlg7syk2PnHGO9PORiVeQ=" FechaTimbrado="2017-01-13T00:16:22" UUID="C1ACF861-49A3-1C49-A678-90375D53F0BB" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

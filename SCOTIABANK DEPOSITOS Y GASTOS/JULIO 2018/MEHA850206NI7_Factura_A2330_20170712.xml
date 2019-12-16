@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="2330" fecha="2017-07-12T22:42:35" sello="RxFQIw5BYm5ZhrRQghQ8Cb/ReT8awNVfHIR5HVV8GQSO6b0yjl8PPJUh6Is1Qji88RHWSJHV5ccn6Q1dM+MJquFxnFgRGflEg0+7o3N39ZgLfVi/qV+M834p0A961XjY/ETGxPOeHu+fVMWKqpJ5FE9gYnuzxv2FWm03kuC8o/Y=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="1418.97" TipoCambio="1.00" Moneda="MXN" total="1646.01" metodoDePago="99" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Personas Físicas con Actividades Empresariales y Profesionales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="ROGN740717LA8" nombre="NORMA LETICIA RODRIGUEZ GONZALEZ ">
+		<cfdi:Domicilio calle="DONATO ELIZONDO " noExterior="306" colonia="LOS ENCINOS" municipio="GENERAL ESCOBEDO" estado="NUEVO LEON" pais="MEXICO" codigoPostal="66050"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="44204" descripcion="NEVO COLOR ENHANCER BRILLANT COPPER 150ML" valorUnitario="176.7242" importe="530.17">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43641" descripcion="VIVIDS COLOR PROTECT SHAMPOO 300ML" valorUnitario="143.1035" importe="143.10">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43248" descripcion="NEVO FRASCO HYDRA PEARLS 45PZ" valorUnitario="249.15" importe="249.15">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="44204" descripcion="NEVO COLOR ENHANCER BRILLANT COPPER 150ML" valorUnitario="176.7242" importe="353.45">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43154" descripcion="NEVO MOISTURE RICH SHAMPOO 300ML" valorUnitario="143.1035" importe="143.10">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="130226" descripcion="NEVO POSTER LOCKED-IN V2" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="227.04">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="227.04"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="bnxS9JVfyWHrYKCbMtlwap/ZdltKDU0seIhliaDfHqcB/IvGD3p2SntmAREuInrD7L2n3OfKaBwRKXo2FYPJGgNt4k4Kd9wiF1pyCGXFRFVvlUFx+jfPk20/7cJjVR2tl7UQTuH1s0sm1KOwLfEZyGrMW2x/X9fujl2CIZUinEBXBqLQwnI9xPCY84pe1g3RU9tLZ4Bdsqv9Xs3rTIfU9oTb9OxJFnyYX2XMpMq09D8hYXGUJ53opEoJC9+6HIb6IIbZkH6iDyuqbi9CoDQvcptMO1sU/T1mmOJ2gB6Q5dmPqBJRnLBOUShCc1LHYhsLL5AQDLIeFw2deChWjduepg==" noCertificadoSAT="00001000000401041203" selloCFD="RxFQIw5BYm5ZhrRQghQ8Cb/ReT8awNVfHIR5HVV8GQSO6b0yjl8PPJUh6Is1Qji88RHWSJHV5ccn6Q1dM+MJquFxnFgRGflEg0+7o3N39ZgLfVi/qV+M834p0A961XjY/ETGxPOeHu+fVMWKqpJ5FE9gYnuzxv2FWm03kuC8o/Y=" FechaTimbrado="2017-07-12T23:17:14" UUID="C0FE8311-A83B-614A-B93C-E4186EBE793A" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

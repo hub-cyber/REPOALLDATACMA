@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="A" folio="2927" fecha="2016-11-23T11:37:54" sello="udVcfTb24lwtyzM/Kr5qgKvPavOVUxyT6F6JAox/mGOr2tx+8zhB6VAmwhXvIOAU1HXMnoWwo1/dgo6cb5mfFhupSOq41xz4WxD/byTurQXVr2SMJhiVcRSwajFI4sfhbMKQ9zpWyq8sxmEz50XLC5M4zFXqzagWljLLdD4oC0E=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000301232583" certificado="MIIEezCCA2OgAwIBAgIUMDAwMDEwMDAwMDAzMDEyMzI1ODMwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzExMDYxMzEwMTRaFw0xNzExMDYxMzEwMTRaMIHHMSIwIAYDVQQDExlSRUZBWEkgREVMIE5PUlRFIFNBIERFIENWMSIwIAYDVQQpExlSRUZBWEkgREVMIE5PUlRFIFNBIERFIENWMSIwIAYDVQQKExlSRUZBWEkgREVMIE5PUlRFIFNBIERFIENWMSUwIwYDVQQtExxSTk8wNDAxMTJDRDggLyBUSVJSNTkwNTEzUko1MR4wHAYDVQQFExUgLyBUSVJSNTkwNTEzSE5MSkRCMDQxEjAQBgNVBAsTCU5PIEFQTElDQTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvM5aRAYcCDN5Qf0UnS9FvM0uyX+fT5I1V2a0e4w5yk4NJ4A8ZUhqCj/S0ntoXAkXPnpGGI8tz226qBpvCGNjKyw0b5TBm+47gGWM3At+6OieGh7a5RhwP1cDtVGOMNIW1MsfM3/fy/NYv4yX1gXCKmSN56h+scLYFMZaGJ5mqk8CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBABk+uFZdfMPKGePwZ8HdsK4hsJ/MqdGbfJqEKFzugloKHdxRarJODuovbt2KFwSzJ9WAOIODtQhcyFAknM/8nzD9QAG3Ek8ZZvF13/P+FKJOap5Edgdu+nkyxohWgPqekx7jkByG5uNqycI4zbblEt5yliY+7I1wsZkLKzYp9efrTgbwojrVGAJEPyxH9/L7QmvGn+U+gf0MKmg8hRPnmXoQK68BkEYJhFxk4jH4NiXCOaMkDazeHbVJrYKbs/YjerG2vjL/2PgZI/WxDy4kHwDCpFvcyUfcbrYjA9Y+PCzSr75MP77wc1z8ohmZWiUc1RHZbk9xiR2YjYQjLweJfUQ=" subTotal="327.59" TipoCambio="1" Moneda="MXP" total="380" tipoDeComprobante="ingreso" metodoDePago="01" LugarExpedicion="MONTERREY, NUEVO LEON">
+  <cfdi:Emisor rfc="RNO040112CD8" nombre="REFAXI DEL NORTE, S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="AVE. RUIZ CORTINES" noExterior="5394" colonia="VALLE VERDE 1er. SECTOR" municipio="MONTERREY" estado="NUEVO LEON" pais="MEXICO" codigoPostal="64360" />
+    <cfdi:ExpedidoEn calle="AVE. RUIZ CORTINES" noExterior="5394" colonia="VALLE VERDE 1er. SECTOR" municipio="MONTERREY" estado="NUEVO LEON" pais="MEXICO" codigoPostal="64360" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY DE PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+    <cfdi:Domicilio calle="CAÑADAS" noExterior="424" colonia="LOMAS DEL VERGEL" municipio="MONTERREY" estado="NUEVO LEON" pais="MEXICO" codigoPostal="00000" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="noaplica" descripcion="Cambio de aceitre y filtro" valorUnitario="327.59" importe="327.59" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="52.41">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="52.41" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="A47F47A0-7FA4-4D8F-A735-20171173B23D" FechaTimbrado="2016-11-23T11:38:10" selloCFD="udVcfTb24lwtyzM/Kr5qgKvPavOVUxyT6F6JAox/mGOr2tx+8zhB6VAmwhXvIOAU1HXMnoWwo1/dgo6cb5mfFhupSOq41xz4WxD/byTurQXVr2SMJhiVcRSwajFI4sfhbMKQ9zpWyq8sxmEz50XLC5M4zFXqzagWljLLdD4oC0E=" noCertificadoSAT="00001000000203352843" selloSAT="QYdCsdLJlgcZRHOfOv2iM7E6GWgO/wydL4FCfk4eQV/3fLt97zaW80DSqS9zf3u+4p91DUx3HUnVlKnf7yQ2odkyiQHNRisgViqS1k+mSrxGH886oCHCxh/p60Q/zD07uPJUCxajjPc3lZfBH5MbOdWO+vWaDujgbflwNzUG2v8=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

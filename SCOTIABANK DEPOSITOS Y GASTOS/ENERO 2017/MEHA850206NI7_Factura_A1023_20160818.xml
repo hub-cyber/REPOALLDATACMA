@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="1023" fecha="2016-08-18T01:33:29" sello="MxG4i88/B+Mq1LSB2msBHRIK/4sE99zKKS6WvfoLJIfnAz1Ve5F7yaiFl2t0V1IXhXv7mGfItkxQBjXSMP78ICr26UgBdTzKzWDjjr6E7jUKQWZ5o86I8chJKxjkDhY228tBhuI9vi9pgvuey6RsF/8vfuDjNc6LZqrd9FxvFs4=" formaDePago="Pago en parcialidades" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="1706.95" TipoCambio="1.00" Moneda="MXN" total="1980.06" metodoDePago="99 - Otros" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Régimen personas físicas actividad empresarial y profesional"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XXX010101000" nombre="LAURA MARCELA MORALES MARTINEZ">
+		<cfdi:Domicilio calle="PERICOS" noExterior="1021" colonia="VALLE DE SANTO DOMINGO" municipio="SAN NICOLAS DE LOS GARZA" estado="NUEVO LEON" pais="MEXICO" codigoPostal="66437"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="7" unidad="PIEZA" noIdentificacion="001100" descripcion="SENZARE COLAGENO KERATINA 300ML" valorUnitario="110.84" importe="775.88">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="7" unidad="PIEZA" noIdentificacion="001103" descripcion="SENZARE SEDA CAPILAR 60 ML" valorUnitario="59.11" importe="413.77">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="7" unidad="PIEZA" noIdentificacion="001108" descripcion="SENZARE SHAMPOO MATIZADOR VIOLETA 300 ML" valorUnitario="73.90" importe="517.30">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="273.11">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="273.11"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="SEJJP4an343F6AZesNIuDQWNJ+HhpLLFjun6cYE5cg3JM7O0xP3z6vjirc+IcJE6PYXZtcsditMu9d4KrPOww1UPOW2o5BiHpgS++Im89OqsCWMntJewQwfpjNnSs3qBUJf1EvZXqhJWUie5/E8+z2nQ2yDiBQz0EWf7Mkq92Ahi5laETlO2Q2mVxH1eNuBk5Dp10OwPmfP/1EC8f2/kzI48C0S81Kyg+6ppmilNkvlv2FZoiA50ltkFTLQgtPBanLZfkGPuBHR8fUBYKx41Zu+NdRauscLZHZMefe3O63nqaNtbIqOOqZTFRwMJqlWmb7J/ckjZBjJr0UPlAKfPjA==" noCertificadoSAT="00001000000401041203" selloCFD="MxG4i88/B+Mq1LSB2msBHRIK/4sE99zKKS6WvfoLJIfnAz1Ve5F7yaiFl2t0V1IXhXv7mGfItkxQBjXSMP78ICr26UgBdTzKzWDjjr6E7jUKQWZ5o86I8chJKxjkDhY228tBhuI9vi9pgvuey6RsF/8vfuDjNc6LZqrd9FxvFs4=" FechaTimbrado="2016-08-18T01:33:58" UUID="E73BEB70-C715-AB49-8E94-282E791DCFAC" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

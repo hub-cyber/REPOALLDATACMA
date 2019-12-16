@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="2381" fecha="2017-07-31T15:58:03" sello="YBeEX4O8I8C/3Z0WAch+CghjYZpDqWjUNOW8lY1rz/YBAvo4loYN8xeby8y8a53c3e1Yn/XyBfc26d0Mr8ntXzDzwQ9hR0RmIE8YEirvkQxV+wo0PHnP3RtHCiQgLMAgBa38TR1mmn0TZPIbuS/0bZLNDod6zEehVSB79COUIAg=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="165133.55" TipoCambio="1.00" Moneda="MXN" total="191554.92" metodoDePago="03" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Personas Físicas con Actividades Empresariales y Profesionales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="PLO020913PN0" nombre="PRINT A LOGO SA DE CV">
+		<cfdi:Domicilio calle="AVE. LAZARO CARDENAS PONIENTE " noExterior="2400" colonia="RESIDENCIAL SAN AGUSTIN " referencia="EDIFICIO LOSOLES PISO 1 DESPACHO PA-4" municipio="SAN PEDRO GARZA GARCIA" estado="NUEVO LEON" pais="MEXICO" codigoPostal="66269"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="10" unidad="PIEZA" noIdentificacion="CE285A" descripcion="CARTUCHO HP CE285A" valorUnitario="1095.651" importe="10956.51">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="26" unidad="PIEZA" noIdentificacion="C9351A" descripcion="CARTUCHO HP C9351A (NEGRO)" valorUnitario="322.474" importe="8384.32">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="40" unidad="PIEZA" noIdentificacion="C9352A" descripcion="CARTUCHO HP C9352A (COLOR)" valorUnitario="444.958" importe="17798.32">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10" unidad="PIEZA" noIdentificacion="CB435A" descripcion="CARTUCHO HP CB435A" valorUnitario="1184.64" importe="11846.40">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="50" unidad="PIEZA" noIdentificacion="MLT-D111S" descripcion="CARTUCHO SAMSUNG MLT-D111S" valorUnitario="888.00" importe="44400.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10" unidad="PIEZA" noIdentificacion="CZ104A" descripcion="CARTUCHO HP662 CZ104A" valorUnitario="166.50" importe="1665.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10" unidad="PIEZA" noIdentificacion="CZ104A" descripcion="CARTUCHO HP662 CZ104A" valorUnitario="166.50" importe="1665.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="100" unidad="PIEZA" noIdentificacion="ROLLOTERM80X70" descripcion="ROLLO TERMICO SIN IMPRESION 80X70" valorUnitario="684.18" importe="68418.00">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="26421.37">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="26421.37"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="bkaErd4haCLiyLWoLhM6IEZTXMLd8R6ZsNHqjNXqoVY/N7B7mqSNRvvauRXm/YW+DQ77Z3V+veTh6SbuiHmqlZaKiT67n8GE7CrjTcJ7ZHy9zNX4To+V07TaSlidcjnc5Iq+RNnr4jaZYNI9hveJXYTNtcx7JKJlPo/MTbUp57Uwypcj5MjXhGNQRux8gBv+0k9CKs0X+0enVNqKw0wJi7W7/zZK1H2FOnQyzq081tPojyP3ULTn51JoyD3r6Nejan3931/ucDlIs9tty0YPA6UT7KZl39Pxfh9cThi31QR4F2+z7PoC1jfCQW20vjVRhfmsjnyPO3RvKzN3V0d2yA==" noCertificadoSAT="00001000000401041203" selloCFD="YBeEX4O8I8C/3Z0WAch+CghjYZpDqWjUNOW8lY1rz/YBAvo4loYN8xeby8y8a53c3e1Yn/XyBfc26d0Mr8ntXzDzwQ9hR0RmIE8YEirvkQxV+wo0PHnP3RtHCiQgLMAgBa38TR1mmn0TZPIbuS/0bZLNDod6zEehVSB79COUIAg=" FechaTimbrado="2017-07-31T16:27:32" UUID="A2F85D21-C1D4-F242-A9A6-3FF6E7BCE323" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

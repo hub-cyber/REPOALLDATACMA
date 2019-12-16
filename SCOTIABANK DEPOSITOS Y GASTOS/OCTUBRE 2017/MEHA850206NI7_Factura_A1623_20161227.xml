@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="1623" fecha="2016-12-27T01:46:14" sello="rUVKbdgPTTPuwHc03oaNjqyNzdb/M7NGvf0mN1+Nw7FldKNJrDA54HGRctBlTh9u53Xr0I1tTJd7nr90tW+n9KkhKNR9SZWZuOexqXo2L6f+F1hCm1jLDCWlaclG46NPTyh802My7m0KIXBWhoUJ45tQJa8t+giebn2AMuiKruE=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="1439.68" TipoCambio="1.00" Moneda="MXN" total="1670.03" metodoDePago="99 - Otros" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Régimen personas físicas actividad empresarial y profesional"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="MANJ760726HC0" nombre="JOSE MARTINEZ NICOLAS">
+		<cfdi:Domicilio calle="JOSE MARIA MORELOS Y PAVON" noExterior="101" colonia="FELIPE CARILLO PUERTO" localidad="GENERAL ESCOBEDO" referencia="ENTRE JOSE ALVARADO SANTOS" municipio="GENERAL ESCOBEDO" estado="NUEVO LEON" pais="MEXICO" codigoPostal="66055"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43901" descripcion="NEVO TWIST FIBER PASTE 130G" valorUnitario="132.76" importe="265.52">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43900" descripcion="NEVO DETAIL SHINE &amp; DEFINE POLISH 130G" valorUnitario="132.76" importe="265.52">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43495" descripcion="NEVO FULL VOLUME MOUSSE 220ML" valorUnitario="115.5173" importe="115.52">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43493" descripcion="NEVO MODEL BEHAVIOR CREAM 150ML" valorUnitario="89.66" importe="89.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43910" descripcion="NEVO TOTAL FIXATION 220ML" valorUnitario="89.66" importe="89.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="42330" descripcion="NEVO COLOR LOCK 300ML" valorUnitario="197.42" importe="197.42">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43494" descripcion="NEVO INVISIBLE CONTROL MIST STYLIN 300ML" valorUnitario="193.1035" importe="193.10">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="KIT" noIdentificacion="43055" descripcion="DUO KERAGLAZE BOX SET KIT" valorUnitario="223.28" importe="223.28">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="130422" descripcion="NEVO POSTER BLONDE" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="230.35">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="230.35"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="1rmcvVWxThyNJtxoxjGXMnlbOTnbEHau7RSy4VdqxKFTWx0TZWkZhRCRK6VxUM7sBkQ56QSYpHKGRPR92c2iDU1+lo6wPHcuLY+kW85ig0szOJDt7J9DVOWTF28mxSGbhat8H03TrUC5i1dO+yn14wVwEOnvsc5XvCRfUy+d5zyRDw7EsUHXqh07sFkczPPViTRTGUafj21CdHo92N0D1C3WSvo+Vd/saLlDMNpGFYCKccWh17S2RetQnra8Wk31M2ri+vqwRe80YN6qD/lYTwKYBIPtkvI1HXV0plHQ3QNhhrNQpq/WTkZCN2Fc4rLCuBwgrcrrbQ9bfKJFwB/f1Q==" noCertificadoSAT="00001000000401041203" selloCFD="rUVKbdgPTTPuwHc03oaNjqyNzdb/M7NGvf0mN1+Nw7FldKNJrDA54HGRctBlTh9u53Xr0I1tTJd7nr90tW+n9KkhKNR9SZWZuOexqXo2L6f+F1hCm1jLDCWlaclG46NPTyh802My7m0KIXBWhoUJ45tQJa8t+giebn2AMuiKruE=" FechaTimbrado="2016-12-27T01:48:36" UUID="E6FF07F7-5F7A-7445-8495-8C10A419BDA7" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

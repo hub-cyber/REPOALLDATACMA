@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Serie="A" Folio="00280810" Fecha="2018-10-22T19:57:00" Sello="mNOHW3V1BX03hwu/xRLURZ2Lea74uu4Eo5LoRjuu7Xsq8Bx3e3MPZz6oLiUbnYFcxWrU9Ri4kHDrtjEZjchMxi4OTx5aVi6N4kgmyNdYT+5tQSjoqT4hJjDKOApEXTadDMijfzHKdEFhlXhm3PxoG7tWtikkcmBT5qaosIhcy4M=" FormaPago="03" NoCertificado="00001000000305757606" Certificado="MIIEhTCCA22gAwIBAgIUMDAwMDEwMDAwMDAzMDU3NTc2MDYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDEyMjYyMjU3NDFaFw0xODEyMjYyMjU3NDFaMIHRMSYwJAYDVQQDEx1OQVRUVVJBIExBQk9SQVRPUklPUyBTQSBERSBDVjEmMCQGA1UEKRMdTkFUVFVSQSBMQUJPUkFUT1JJT1MgU0EgREUgQ1YxJjAkBgNVBAoTHU5BVFRVUkEgTEFCT1JBVE9SSU9TIFNBIERFIENWMSUwIwYDVQQtExxOTEE4MjA3MjNGTDQgLyBTQVJMNDUwNjA3MzEwMR4wHAYDVQQFExUgLyBTQVJMNDUwNjA3SFpTQ1FTMDgxEDAOBgNVBAsTB1pBUE9QQU4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ4B/AnWuJKpvfolvtxXVLyYcJ3SI56PSYffAi+KxIsXWtawPdT7vIz/tMQOkW5zpvbazlpLmi2ZQ++7t0b4TTPZhQTYF5MwOlRftRDwl5ZEFB44SH++jTjB1XUWVIcpVrJu4q9C4KeNcpNNaYkJV9yIUM1HrxLe1/t64D3OZwSvAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQB9d5lN3IzTT983yTR31exgbhlqSqtypbYWaW+GFU/1MFZMX8DsJdSlCzIaT4eeboByw84QuwA5GSgDzbskim6OXvQMb59bKD2uVT440lEcaPdzpyH/PTyd1JU+r09v6NCL1brBaELkNapU2hIteOKF/czQXtyxfXiFJ1efAGiFIQSGrJnUgdf7qHZeO7f27z/pRdpIynmKHmc2x3Lj4/LVJQzH0/qTEdeOFhjKxE/1xhAJL91l/2f4iN+EBmDQtdr+mC34nBWiNEsChSW3eBInNzohrTiAPZ0IXHmhBOYBY/0v1/NBeDsd9q7eJT8qOPycqT1zRqBXw0GU7BM6VADu" CondicionesDePago="20% Anticipo, 80% en 90 Dias" SubTotal="23073.00" Descuento="3460.95" Total="22749.98" Moneda="MXN" TipoCambio="1" TipoDeComprobante="I" MetodoPago="PPD" LugarExpedicion="45023">
+  <cfdi:Emisor Rfc="NLA820723FL4" Nombre="NATTURA LABORATORIOS, S.A. DE C.V." RegimenFiscal="601"/>
+  <cfdi:Receptor Rfc="MEHA850206NI7" Nombre="JOSE ARNOLDO MEDINA HERNANDEZ" UsoCFDI="G01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="56131502" NoIdentificacion="51094" Cantidad="4.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Pivot Mannequin - Erika" ValorUnitario="3736.87" Importe="14947.48" Descuento="2242.12">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="12705.36" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2032.86"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="86141702" NoIdentificacion="55935" Cantidad="4.000" ClaveUnidad="H87" Unidad="PZ" Descripcion="Salon Ability Cut and Color-Book DVD" ValorUnitario="2031.38" Importe="8125.52" Descuento="1218.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6906.69" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1105.07"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="3137.93">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3137.93"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="47d14ac2-cf16-4362-b4b7-c4947dca6209" RfcProvCertif="DIA031002LZ2" FechaTimbrado="2018-10-22T21:01:04" SelloCFD="mNOHW3V1BX03hwu/xRLURZ2Lea74uu4Eo5LoRjuu7Xsq8Bx3e3MPZz6oLiUbnYFcxWrU9Ri4kHDrtjEZjchMxi4OTx5aVi6N4kgmyNdYT+5tQSjoqT4hJjDKOApEXTadDMijfzHKdEFhlXhm3PxoG7tWtikkcmBT5qaosIhcy4M=" NoCertificadoSAT="00001000000404614920" SelloSAT="WrG1BnkOXdNtoN9X0kIa5FzLAmpgVVPw9G3DbgDhQ5Oqz4MMT25ZycXvq4v/DsxxuiTqTh6LASGGwwI7H4g9LxudD/+bgt07AchS8KGfuX/jOaqejb9p05HR6pTSvPHyxynJ58zI1VAMyzdcN6VZrpm7VBtp9f1aGoYKCWz87L7vV0DY590X7XIbJCQBS048M5RYaNQ80KuwZbJ146nyVyp3BOpfupuyo/JoTsJYkqhpkItrMWWMPK99Aocfia+SAfceHNYLoW9H2i1MYfxFn4kwmpPUTer11WSTQmBQ11voLLTMs7AJE3Yjbeqr1Sl8STJJXSFbJVZomlDjqHrJsQ=="/>
+    </cfdi:Complemento><cfdi:Addenda>
+    <dvz:diverza xmlns:dvz="http://www.diverza.com/ns/addenda/diverza/1" xsi:schemaLocation="http://www.diverza.com/ns/addenda/diverza/1 http://www.diverza.com/schema/xsd/Addenda_Diverza_v1.1.xsd" version="1.1">
+      <dvz:generales tipoDocumento="Factura" totalConLetra="VEINTIDOS MIL SETECIENTOS CUARENTA Y NUEVE PESOS 98 / 100 MXN" numeroOrden="0000615138" nombreTransportista="CEDIS Nattura Labs."/>
+      <dvz:emisor vendedor="30010">
+        <dvz:domicilioFiscalE calle="PEDRO MARTINEZ RIVAS" numero="746" ciudad="ZAPOPAN" estado="Jalisco" pais="México" codigoPostal="45145"/>
+      </dvz:emisor>
+      <dvz:receptor numCliente="0000117082">
+        <dvz:datosContactoR emailContacto="ar.mh85@gmail.com"/>
+        <dvz:domicilioFiscalR calle="MAPLE NO. 2215" colonia="BOSQUES DEL COUNTRY" ciudad="GUADALUPE" estado="Nuevo León" pais="México" codigoPostal="67176"/>
+        <dvz:destino>
+          <dvz:domicilioDestinoR codigoSitio="JOSE ARNOLDO MEDINA HERNANDEZ" calle="MAPLE NO. 2215" ciudad="GUADALUPE" estado="Nuevo León" pais="México" codigoPostal="67176"/>
+        </dvz:destino>
+      </dvz:receptor>
+      <dvz:conceptos>
+        <dvz:concepto nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100635807"/>
+        <dvz:concepto nombreTransportistaC="CEDIS Nattura Labs." numeroEntregaC="0100635807"/>
+      </dvz:conceptos>
+      <dvz:complemento>
+        <dvz:datosExtra atributo="DOC. SAP" valor="0370070914"/>
+        <dvz:datosExtra atributo="PEDIDO CLIENTE" valor="Ecommerce-3030"/>
+        <dvz:datosExtra atributo="TRANSPORTE" valor="Ecommerce-3030"/>
+        <dvz:datosExtra atributo="PESO" valor="3.528KG"/>
+        <dvz:datosExtra atributo="REFERENCIA" valor="30300000117082"/>
+      </dvz:complemento>
+    </dvz:diverza>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante LugarExpedicion="ZAPOPAN Jalisco" metodoDePago="03" tipoDeComprobante="ingreso" total="19720.00" Moneda="MXN" descuento="17000.00" subTotal="34000.00" condicionesDePago="PAGO INMEDIATO" certificado="MIIEhTCCA22gAwIBAgIUMDAwMDEwMDAwMDAzMDU3NTc2MDYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDEyMjYyMjU3NDFaFw0xODEyMjYyMjU3NDFaMIHRMSYwJAYDVQQDEx1OQVRUVVJBIExBQk9SQVRPUklPUyBTQSBERSBDVjEmMCQGA1UEKRMdTkFUVFVSQSBMQUJPUkFUT1JJT1MgU0EgREUgQ1YxJjAkBgNVBAoTHU5BVFRVUkEgTEFCT1JBVE9SSU9TIFNBIERFIENWMSUwIwYDVQQtExxOTEE4MjA3MjNGTDQgLyBTQVJMNDUwNjA3MzEwMR4wHAYDVQQFExUgLyBTQVJMNDUwNjA3SFpTQ1FTMDgxEDAOBgNVBAsTB1pBUE9QQU4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ4B/AnWuJKpvfolvtxXVLyYcJ3SI56PSYffAi+KxIsXWtawPdT7vIz/tMQOkW5zpvbazlpLmi2ZQ++7t0b4TTPZhQTYF5MwOlRftRDwl5ZEFB44SH++jTjB1XUWVIcpVrJu4q9C4KeNcpNNaYkJV9yIUM1HrxLe1/t64D3OZwSvAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQB9d5lN3IzTT983yTR31exgbhlqSqtypbYWaW+GFU/1MFZMX8DsJdSlCzIaT4eeboByw84QuwA5GSgDzbskim6OXvQMb59bKD2uVT440lEcaPdzpyH/PTyd1JU+r09v6NCL1brBaELkNapU2hIteOKF/czQXtyxfXiFJ1efAGiFIQSGrJnUgdf7qHZeO7f27z/pRdpIynmKHmc2x3Lj4/LVJQzH0/qTEdeOFhjKxE/1xhAJL91l/2f4iN+EBmDQtdr+mC34nBWiNEsChSW3eBInNzohrTiAPZ0IXHmhBOYBY/0v1/NBeDsd9q7eJT8qOPycqT1zRqBXw0GU7BM6VADu" noCertificado="00001000000305757606" formaDePago="Pago en una sola exhibición" sello="Z11n6622mQKeS/RU3ldL6tIQkvEqadn1PhaNdrNPQ728ytmHRhpY+/SZNO7XnSqMLi65hmP9+CGWAoXzWPGnbgwmhw0AbFhnEjNoxPYcRHDIRoLXSd2m3vh5rP/IlVV/zjXhoPyvb/p0ROXezHuwi2zoFu7BRmM5b59tfTSX5Xg=" fecha="2017-02-10T09:01:48" folio="00189361" serie="A" version="3.2" xsi:schemaLocation="http://www.buzonfiscal.com/ns/addenda/bf/2 http://www.buzonfiscal.com/schema/xsd/Addenda_BF_v20.xsd http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " xmlns:bfa2="http://www.buzonfiscal.com/ns/addenda/bf/2" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <cfdi:Emisor nombre="NATTURA LABORATORIOS, S.A. DE C.V." rfc="NLA820723FL4">
+        <cfdi:DomicilioFiscal codigoPostal="45145" pais="México" estado="Jalisco" municipio="ZAPOPAN" colonia="ZAPOPAN" noExterior="746" calle="PEDRO MARTINEZ RIVAS"/>
+        <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="JOSE ARNOLDO MEDINA HERNANDEZ" rfc="MEHA850206NI7">
+        <cfdi:Domicilio codigoPostal="67176" pais="México" estado="Nuevo León" municipio="GUADALUPE" colonia="BOSQUES DEL COUNTRY" calle="MAPLE NO. 2215"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="4200.00" valorUnitario="350.00" descripcion="Pure Light Power Lightener 680g Nacional" noIdentificacion="000000000000045044" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="360.00" valorUnitario="18.00" descripcion="Pravana Folleto Nevo 2016" noIdentificacion="000000000000130931" unidad="PZ" cantidad="20.00"/>
+        <cfdi:Concepto importe="2940.00" valorUnitario="98.00" descripcion="Chromasilk 6N (6) 90 ml Nacional" noIdentificacion="000000000000045052" unidad="PZ" cantidad="30.00"/>
+        <cfdi:Concepto importe="980.00" valorUnitario="98.00" descripcion="Chromasilk 8N (8) 90 ml Nacional" noIdentificacion="000000000000045054" unidad="PZ" cantidad="10.00"/>
+        <cfdi:Concepto importe="784.00" valorUnitario="98.00" descripcion="Chromasilk 8N (8) 90 ml Nacional" noIdentificacion="000000000000045054" unidad="PZ" cantidad="8.00"/>
+        <cfdi:Concepto importe="1960.00" valorUnitario="98.00" descripcion="Chromasilk 7N (7) 90 ml Nacional" noIdentificacion="000000000000045053" unidad="PZ" cantidad="20.00"/>
+        <cfdi:Concepto importe="588.00" valorUnitario="98.00" descripcion="Chromasilk 6Aa (6.11)90 ml Nacional" noIdentificacion="000000000000045063" unidad="PZ" cantidad="6.00"/>
+        <cfdi:Concepto importe="1176.00" valorUnitario="98.00" descripcion="Chromasilk 7Aa (7.11)90 ml Nacional" noIdentificacion="000000000000045064" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="588.00" valorUnitario="98.00" descripcion="Chromasilk 8Aa (8.11)90 ml Nacional" noIdentificacion="000000000000045065" unidad="PZ" cantidad="6.00"/>
+        <cfdi:Concepto importe="3960.00" valorUnitario="330.00" descripcion="Trio Perfection SmoouthOut+Nevo Nacional" noIdentificacion="000000000000045263" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="588.00" valorUnitario="98.00" descripcion="Chromasilk 5N (5) 90 ml Nacional" noIdentificacion="000000000000045051" unidad="PZ" cantidad="6.00"/>
+        <cfdi:Concepto importe="588.00" valorUnitario="98.00" descripcion="Chromasilk 4N (4) 90 ml Nacional" noIdentificacion="000000000000045050" unidad="PZ" cantidad="6.00"/>
+        <cfdi:Concepto importe="1176.00" valorUnitario="98.00" descripcion="Chroma Ultra Sheer10bv(10.02)90ml Nacion" noIdentificacion="000000000000045136" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="588.00" valorUnitario="98.00" descripcion="Chromasilk 9N (9) 90 ml Nacional" noIdentificacion="000000000000045055" unidad="PZ" cantidad="6.00"/>
+        <cfdi:Concepto importe="1176.00" valorUnitario="98.00" descripcion="Chromasilk 7A (7.1) 90ml Nacional" noIdentificacion="000000000000045058" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="588.00" valorUnitario="98.00" descripcion="Chromasilk 10A (10.1)90 ml Nacional" noIdentificacion="000000000000045061" unidad="PZ" cantidad="6.00"/>
+        <cfdi:Concepto importe="98.00" valorUnitario="98.00" descripcion="Chromasilk 6A (6.1) 90ml Nacional" noIdentificacion="000000000000045057" unidad="PZ" cantidad="1.00"/>
+        <cfdi:Concepto importe="490.00" valorUnitario="98.00" descripcion="Chromasilk 6A (6.1) 90ml Nacional" noIdentificacion="000000000000045057" unidad="PZ" cantidad="5.00"/>
+        <cfdi:Concepto importe="1176.00" valorUnitario="98.00" descripcion="Chromasilk 8A (8.1) 90ml Nacional" noIdentificacion="000000000000045059" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="1176.00" valorUnitario="98.00" descripcion="Chromasilk 7Rr(7.66)90ml Nacional" noIdentificacion="000000000000045120" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="1176.00" valorUnitario="98.00" descripcion="Chromasilk 6Rr(6.66)90ml Nacional" noIdentificacion="000000000000045117" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="588.00" valorUnitario="98.00" descripcion="Chromasilk 6Bv (6.22)90 ml Nacional" noIdentificacion="000000000000045070" unidad="PZ" cantidad="6.00"/>
+        <cfdi:Concepto importe="1176.00" valorUnitario="98.00" descripcion="Chromasilk 8Bv(8.22)90ml Nacional" noIdentificacion="000000000000045073" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="588.00" valorUnitario="98.00" descripcion="Chromasilk 9Bv(9.22)90ml Nacional" noIdentificacion="000000000000045074" unidad="PZ" cantidad="6.00"/>
+        <cfdi:Concepto importe="588.00" valorUnitario="98.00" descripcion="Chromasilk 7Bv(7.22)90ml Nacional" noIdentificacion="000000000000045072" unidad="PZ" cantidad="6.00"/>
+        <cfdi:Concepto importe="588.00" valorUnitario="98.00" descripcion="Chroma Express Tones Beige 90ml Nacional" noIdentificacion="000000000000045237" unidad="PZ" cantidad="6.00"/>
+        <cfdi:Concepto importe="588.00" valorUnitario="98.00" descripcion="Chroma Express Tones Violet90ml Nacional" noIdentificacion="000000000000045236" unidad="PZ" cantidad="6.00"/>
+        <cfdi:Concepto importe="1176.00" valorUnitario="98.00" descripcion="Chroma Express Tones Pearl 90ml Nacional" noIdentificacion="000000000000045242" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="1176.00" valorUnitario="98.00" descripcion="Chromasi Express Tones Ash 90ml Nacional" noIdentificacion="000000000000045243" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="1176.00" valorUnitario="98.00" descripcion="Chromasilk 8Cg(8.43)90ml Nacional" noIdentificacion="000000000000045108" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="0.00" valorUnitario="0.00" descripcion="Vivids Color Protect Spray100ml Nacional" noIdentificacion="000000000000045196" unidad="PZ" cantidad="5.00"/>
+        <cfdi:Concepto importe="0.00" valorUnitario="0.00" descripcion="Pure Light Microen Lightener30g Nacional" noIdentificacion="000000000000045042" unidad="PZ" cantidad="10.00"/>
+        <cfdi:Concepto importe="0.00" valorUnitario="0.00" descripcion="Artificial Hair Color Extrac Kit Naciona" noIdentificacion="000000000000045041" unidad="PZ" cantidad="3.00"/>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="2720.00">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="2720.00" tasa="16.00" impuesto="IVA"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd"  selloSAT="cdUP0lSAGy60PMyVCmD0xyFiKkkFZOKtDpDKDsmoNSlMM2Y2ONYBMFxEFHk/P54U68Ceb/zpjQ+bF3IGzylSVvDDx1DV4bzSy+YwiD1ShMn5x9pziGU1HS5kCN4rkLUbe4AKmTSPF05yHW8DWzEpCb2OVml1eRx6EMAo7ttwoWih1j1MOEeTDc/pCc0spZ+dKNsNCoiPP4KDvlCogZwzl3UPMwjzEG4I384xRW11eOdWtdfPSwTuIMfZQiHskdHAct+TGXTHjy91QICs+z+ca/CUjrFpMqWpIozBmZlEca0akSkJuihZB4TEMmbm1hVpN2tqeyAtQGvJJAN0V/CDDQ==" noCertificadoSAT="00001000000404614920" selloCFD="Z11n6622mQKeS/RU3ldL6tIQkvEqadn1PhaNdrNPQ728ytmHRhpY+/SZNO7XnSqMLi65hmP9+CGWAoXzWPGnbgwmhw0AbFhnEjNoxPYcRHDIRoLXSd2m3vh5rP/IlVV/zjXhoPyvb/p0ROXezHuwi2zoFu7BRmM5b59tfTSX5Xg=" FechaTimbrado="2017-02-10T09:01:48" UUID="0172ceb3-efde-4035-b7c8-f7f8152c0855" version="1.0"/>
+    </cfdi:Complemento>
+    <cfdi:Addenda>
+        <bfa2:AddendaBuzonFiscal version="2.0">
+            <bfa2:Receptor noCliente="117082"/>
+            <bfa2:Destino nombre="JOSE ARNOLDO MEDINA HERNANDEZ" rfc="MEHA850206NI7" claveIdentificacion="TEL." codigoPostal="67176" estado="NL" ciudad="GUADALUPE" numero="" calle="MAPLE NO. 2215"/>
+            <bfa2:TipoDocumento descripcion="Factura" nombreCorto="FAC"/>
+            <bfa2:CFD totalConLetra="DIECINUEVE MIL SETECIENTOS VEINTE PESOS 00/100 M.N." observaciones="" agenteVentas="10450"/>
+            <bfa2:Extra valor="499132" atributo="PEDIDO"/>
+            <bfa2:Extra valor="310219897" atributo="DOC. SAP"/>
+            <bfa2:Extra valor="50371" atributo="TRANSPORTE"/>
+            <bfa2:Extra valor="ECOMMERCE-1030" atributo="PEDIDO CLIENTE"/>
+            <bfa2:Extra valor="41.969 KG." atributo="PESO"/>
+            <bfa2:ExtraConceptos Referencia2="7501438381479" Referencia1="164016376"/>
+            <bfa2:ExtraConceptos Referencia2="" Referencia1=""/>
+            <bfa2:ExtraConceptos Referencia2="7501438380403" Referencia1="164012044"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380427" Referencia1="164012056"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380427" Referencia1="164012057"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380410" Referencia1="164012053"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380519" Referencia1="164012669"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380526" Referencia1="164013170"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380533" Referencia1="164013763"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383190" Referencia1="164016462"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380397" Referencia1="164012065"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380380" Referencia1="164011790"/>
+            <bfa2:ExtraConceptos Referencia2="7501438381714" Referencia1="164014990"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380434" Referencia1="164013872"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380465" Referencia1="164014852"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380496" Referencia1="164014900"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380458" Referencia1="164013843"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380458" Referencia1="174001665"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380472" Referencia1="164016969"/>
+            <bfa2:ExtraConceptos Referencia2="7501438381080" Referencia1="164010923"/>
+            <bfa2:ExtraConceptos Referencia2="7501438381059" Referencia1="164013812"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380588" Referencia1="164013171"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380618" Referencia1="164014999"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380625" Referencia1="164014855"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380601" Referencia1="164016979"/>
+            <bfa2:ExtraConceptos Referencia2="7501438384852" Referencia1="164013199"/>
+            <bfa2:ExtraConceptos Referencia2="7501438384845" Referencia1="164014107"/>
+            <bfa2:ExtraConceptos Referencia2="7501438384906" Referencia1="164013202"/>
+            <bfa2:ExtraConceptos Referencia2="7501438384913" Referencia1="164014124"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380960" Referencia1="164012674"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383930" Referencia1="164007780"/>
+            <bfa2:ExtraConceptos Referencia2="7501438381615" Referencia1="164012975"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380342" Referencia1="164016496"/>
+        </bfa2:AddendaBuzonFiscal>
+    </cfdi:Addenda>
+</cfdi:Comprobante>

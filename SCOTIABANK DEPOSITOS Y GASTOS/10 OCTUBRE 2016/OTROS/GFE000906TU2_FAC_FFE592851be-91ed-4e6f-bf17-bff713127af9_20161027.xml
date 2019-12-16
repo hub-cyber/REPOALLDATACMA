@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante LugarExpedicion="SAN NICOLAS DE LOS GARZA, NUEVO LEON" Moneda="MEX" NumCtaPago="NO IDENTIFICADO" TipoCambio="1" certificado="MIIEcDCCA1igAwIBAgIUMDAwMDEwMDAwMDAyMDI2OTE2NjkwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIyNDE5MzQzN1oXDTE2MTIyNDE5MzQzN1owgbExHDAaBgNVBAMTE0dPVkkgTEEgRkUgU0EgREUgQ1YxHDAaBgNVBCkTE0dPVkkgTEEgRkUgU0EgREUgQ1YxHDAaBgNVBAoTE0dPVkkgTEEgRkUgU0EgREUgQ1YxJTAjBgNVBC0THEdGRTAwMDkwNlRVMiAvIEdPTEU2MzAxMjU3QjkxHjAcBgNVBAUTFSAvIEdPTEU2MzAxMjVITkxOWkQwMTEOMAwGA1UECxMFbGEgZmUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALbQ7XjXoCkVSIRFLFKtMTYGJc2aUcjDp09QlKCAXKesT2ZUFN3X883reh5Bmx9QTiGaYGBiPUnvD7+V2pXVhqpvkR4arrzIlfnYO/wnUNRgYZ1Rp5eMkGB9VBrUjKSqCeT6+08aMk9Mz6VUFm6AUmGxBFQZcqfFMobo+UlV5ZW/AgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQArHRFndlwfWbZ3lhdnDqtxjs27UHoj1WQVmntouYG4kxnZEbq8zwepKDlC+OGNTFAIunDQM5ZU1ViJpiVAie74MpPTaMGKoQYhlSCL2+wSghBwQe52rH/C4dLDFWa/K4cHkT4GOut6zZn/lfMkXINk6S+M66AThPVFAJxh7MIVjwhkwJy5rhXFpXjxjZznvukeFW9rgDA3e/RHUqDmnxaKNMVzeFrM3OuUmYg5pjArtnmg8yiqox71QzSxGYQVXRlmIA4kwW9VfXYJJvVzYadE/FCXD1N8vH6P5+LzVuI8TgudzGRnb1mHE/GsEHWM/vw/NyGyL4mxqWSRJUVStM8Q" condicionesDePago="CONTADO" fecha="2016-10-27T16:16:44" folio="328694" formaDePago="PAGO EN UNA SOLA EXHIBICION" metodoDePago="01" noCertificado="00001000000202691669" sello="IU4YWWwUy2PNp3R8/prMB2UV+iE20aMylTLJGEneSxj4kbmivgH9ob8RDSVC0cE/TpIHv8qIDvwg7bLqQi0w1EKsFLZVW3jE5tJ1RrtWZWFsuQk6siTCICSH/3ry70ERWpcyiCiwQ28uOuzpqe+s0cLhZ0BORh+kh5YW6oUFSIo=" serie="FFE" subTotal="515.00" tipoDeComprobante="ingreso" total="597.40" version="3.2" xmlns:bfa2="http://www.buzonfiscal.com/ns/addenda/bf/2" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.buzonfiscal.com/ns/addenda/bf/2 http://www.buzonfiscal.com/schema/xsd/Addenda_BF_v20.xsd">
+    <cfdi:Emisor nombre="GOVI LA FE S de RL de CV" rfc="GFE000906TU2">
+        <cfdi:DomicilioFiscal calle="AV. FELIX GALVAN  #702" codigoPostal="66470" colonia="PASEO RES. LOS ANGELES" estado="NUEVO LEON" municipio="SAN NICOLAS DE LOS GARZA" pais="Mexico"/>
+        <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="JOSE ARNOLDO MEDINA HERNANDEZ" rfc="MEHA850206NI7">
+        <cfdi:Domicilio calle="MAPLE 2215" codigoPostal="67176" colonia="BOSQUES DEL CONTRY" estado="NUEVO LEON" municipio="GUADALUPE " pais="Mexico"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto cantidad="1" descripcion="GROB Bases Amort. Del. Izq." importe="515.00" noIdentificacion="3719001" unidad="PZA" valorUnitario="515.00"/>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="82.40">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="82.40" impuesto="IVA" tasa="16.00"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital FechaTimbrado="2016-10-27T16:16:44" UUID="592851be-91ed-4e6f-bf17-bff713127af9" noCertificadoSAT="00001000000202693892" selloCFD="IU4YWWwUy2PNp3R8/prMB2UV+iE20aMylTLJGEneSxj4kbmivgH9ob8RDSVC0cE/TpIHv8qIDvwg7bLqQi0w1EKsFLZVW3jE5tJ1RrtWZWFsuQk6siTCICSH/3ry70ERWpcyiCiwQ28uOuzpqe+s0cLhZ0BORh+kh5YW6oUFSIo=" selloSAT="xmfN1mGiiIciwtVSOdPPU5h61kEWDbYyMPKugpRQ16kS7rf7josNR5s/WXmRUWkReSUrIBWCZzsx2MpE0hTadj7GDZBLlukZT6VbtoWaTktmIhcZ4NEaptePSA94UOTVoNDl+smtQJyi4aH6m/JhYV5aELdGQUY8P81loMps7ms=" version="1.0" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+    </cfdi:Complemento>
+    <cfdi:Addenda>
+        <bfa2:AddendaBuzonFiscal version="2.0">
+            <bfa2:Emisor telefono="(81)83944484 ID 92*871452*2" web="www.suspension-grob.com"/>
+            <bfa2:ExpedidoEn alias="NUEVO LEON" telefono=""/>
+            <bfa2:Receptor email="armh85@gmail.com" noCliente="12" telefono="8112505747"/>
+            <bfa2:Destino calle="**" nombre="**"/>
+            <bfa2:TipoDocumento descripcion="Factura" nombreCorto="FAC"/>
+            <bfa2:CFD agenteVentas="HUGO TOVAR REYES" totalConLetra="( QUINIENTOS NOVENTA Y SIETE PESOS   40/100 M.N. )"/>
+            <bfa2:Extra atributo="EmailSucursal" valor=""/>
+            <bfa2:Extra atributo="Transporte" valor=""/>
+            <bfa2:Extra atributo="SumaPiezasVendidas" valor="1"/>
+            <bfa2:Extra atributo="LeyendaEspecial3" valor="FAVOR DE DEPOSITAR EL IMPORTE DE ESTE DOCUMENTO EN:"/>
+            <bfa2:Extra atributo="ReferenciaBancaria1" valor="*Ban*BANORTE*Cta*670563434*-*"/>
+            <bfa2:Extra atributo="ReferenciaBancaria2" valor="*Cable*Cable*Cta*072580006705634346*"/>
+            <bfa2:Extra atributo="ReferenciaBancaria3" valor="*Clabe*-*Suc*-*cta*-*"/>
+            <bfa2:ExtraConceptos Referencia1="*"/>
+        </bfa2:AddendaBuzonFiscal>
+    </cfdi:Addenda>
+</cfdi:Comprobante>

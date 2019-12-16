@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:ine="http://www.sat.gob.mx/ine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/ine http://www.sat.gob.mx/sitio_internet/cfd/ine/ine10.xsd" version="3.2" serie="WBC" folio="3068" fecha="2017-10-30T13:51:15" sello="OVQ8/UmqZqtPphZXICDcVja22BlADlSfC+aZWXn1Ch8yAkhTX5Q1DWwa9pwWJBuOHFci67CEQOTIEcXWFT/bP5IgwJBJ2f9/m7rfg/M15vIozh6GYQlg/5gbNNGkQNWZATwZtwZgyaEYUi6CgeyqTlVLZ78c6zrhStPq0BcTRQaC7RHeInjbJE8elF2IbS6tbjexGscCXAT/O2T7C7TDLv76L76szuVhd0ryaxmbrfe5nLDPmrV+KFRMFUDOd6CHOr5iRLYqL8DAbd+HHMrNkXzx4gQ39Pi4xa9F5iCnaEZQNdHBgeluc9+p2s3TtQ4OKr5d0uPK/cUJEIoewSmwXg==" formaDePago="Pago en una sola exhibicion" noCertificado="00001000000404304819" certificado="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" condicionesDePago="CONTADO" subTotal="204.3103" TipoCambio="1" Moneda="PESOS" total="237.00" tipoDeComprobante="ingreso" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" metodoDePago="01" LugarExpedicion="CULIACÁN, SINALOA" NumCtaPago="NO IDENTIFICADO">
+  <cfdi:Emisor rfc="PPC9301185P5" nombre="PASTELERIAS PANAMA DE CULIACAN SA DE CV">
+    <cfdi:DomicilioFiscal calle="BOULEVARD PEDRO INFANTE" noExterior="2363" colonia="DESARROLLO URBANO 3 RIOS" localidad="CULIACÁN ROSALES" municipio="CULIACÁN" estado="SINALOA" pais="MÉXICO" codigoPostal="80020" />
+    <cfdi:ExpedidoEn calle="DOMINGO RUBI NTE." noExterior="671 NTE" colonia="CENTRO" localidad="CULIACÁN ROSALES" municipio="CULIACÁN" estado="SINALOA" pais="MÉXICO" codigoPostal="80000" />
+    <cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="SME0109138I3" nombre="SBIFCO COMPANY DE MEXICO SA DE CV">
+    <cfdi:Domicilio calle="SINALOA" noExterior="914" colonia="NUEVO REPUEBLO" localidad="MONTERREY" municipio="MONTERREY" estado="NUEVO LEÓN" pais="MÉXICO" codigoPostal="64700" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="SERVICIO" descripcion="CONSUMO" valorUnitario="204.3103" importe="204.3103" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="0.00" totalImpuestosTrasladados="32.6897">
+    <cfdi:Retenciones>
+      <cfdi:Retencion impuesto="ISR" importe="0.00" />
+      <cfdi:Retencion impuesto="IVA" importe="0.00" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="32.6897" />
+      <cfdi:Traslado impuesto="IEPS" tasa="0.00" importe="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="OVQ8/UmqZqtPphZXICDcVja22BlADlSfC+aZWXn1Ch8yAkhTX5Q1DWwa9pwWJBuOHFci67CEQOTIEcXWFT/bP5IgwJBJ2f9/m7rfg/M15vIozh6GYQlg/5gbNNGkQNWZATwZtwZgyaEYUi6CgeyqTlVLZ78c6zrhStPq0BcTRQaC7RHeInjbJE8elF2IbS6tbjexGscCXAT/O2T7C7TDLv76L76szuVhd0ryaxmbrfe5nLDPmrV+KFRMFUDOd6CHOr5iRLYqL8DAbd+HHMrNkXzx4gQ39Pi4xa9F5iCnaEZQNdHBgeluc9+p2s3TtQ4OKr5d0uPK/cUJEIoewSmwXg==" FechaTimbrado="2017-10-30T14:56:18" UUID="FD89E574-521A-4B78-9884-AD258366E9A6" noCertificadoSAT="00001000000404486074" version="1.0" selloSAT="ifA8c/xt1ex2SJ9bNFjtLTSuMOo47SQWatN4cV7AJ1GoSDbbRu9aeJk8zzx6LrWPGuLjJIYSQlcwskGFjpAKhC5g5QjEUwsns1p/VORV9WVqMAIG+VCoYSnf+vPNmKvQt8N/z3EKUpkH1rVUFIH7rzhHATjCfW2ieK1xWYP866CQkJd8un3BAeJ/pzV/skF1hKd8wcHton8kZAI+ZYUgnA4b7Uhej+aRYLR2xLbrFl8pOc1kmGALoNtI8djPlx1gfNM3BlJgBeTj9IcyD4xWhgrimq61Eo4hgmxSdhhbZlpLsJn9FhGVBCmDrwrAGoV2XjsbLbQQf+MA/zanDLa+Sg==" />
+  </cfdi:Complemento>
+  <cfdi:Addenda>
+    <compac:Compac xmlns:compac="http://www.cfdi.com.mx/ContpaqiSchemas/addendas/1">
+      <compac:Encabezado>
+      </compac:Encabezado>
+      <compac:Detalle>
+      </compac:Detalle>
+    </compac:Compac>
+  </cfdi:Addenda>
+</cfdi:Comprobante>

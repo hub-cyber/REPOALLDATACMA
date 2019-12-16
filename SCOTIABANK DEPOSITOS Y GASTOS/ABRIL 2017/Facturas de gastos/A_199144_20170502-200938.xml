@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante NumCtaPago="No aplica" LugarExpedicion="ZAPOPAN Jalisco" metodoDePago="03" tipoDeComprobante="ingreso" total="23989.36" Moneda="MXN" descuento="20004.50" subTotal="40684.98" condicionesDePago="PAGO INMEDIATO" certificado="MIIEhTCCA22gAwIBAgIUMDAwMDEwMDAwMDAzMDU3NTc2MDYwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDEyMjYyMjU3NDFaFw0xODEyMjYyMjU3NDFaMIHRMSYwJAYDVQQDEx1OQVRUVVJBIExBQk9SQVRPUklPUyBTQSBERSBDVjEmMCQGA1UEKRMdTkFUVFVSQSBMQUJPUkFUT1JJT1MgU0EgREUgQ1YxJjAkBgNVBAoTHU5BVFRVUkEgTEFCT1JBVE9SSU9TIFNBIERFIENWMSUwIwYDVQQtExxOTEE4MjA3MjNGTDQgLyBTQVJMNDUwNjA3MzEwMR4wHAYDVQQFExUgLyBTQVJMNDUwNjA3SFpTQ1FTMDgxEDAOBgNVBAsTB1pBUE9QQU4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ4B/AnWuJKpvfolvtxXVLyYcJ3SI56PSYffAi+KxIsXWtawPdT7vIz/tMQOkW5zpvbazlpLmi2ZQ++7t0b4TTPZhQTYF5MwOlRftRDwl5ZEFB44SH++jTjB1XUWVIcpVrJu4q9C4KeNcpNNaYkJV9yIUM1HrxLe1/t64D3OZwSvAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQB9d5lN3IzTT983yTR31exgbhlqSqtypbYWaW+GFU/1MFZMX8DsJdSlCzIaT4eeboByw84QuwA5GSgDzbskim6OXvQMb59bKD2uVT440lEcaPdzpyH/PTyd1JU+r09v6NCL1brBaELkNapU2hIteOKF/czQXtyxfXiFJ1efAGiFIQSGrJnUgdf7qHZeO7f27z/pRdpIynmKHmc2x3Lj4/LVJQzH0/qTEdeOFhjKxE/1xhAJL91l/2f4iN+EBmDQtdr+mC34nBWiNEsChSW3eBInNzohrTiAPZ0IXHmhBOYBY/0v1/NBeDsd9q7eJT8qOPycqT1zRqBXw0GU7BM6VADu" noCertificado="00001000000305757606" formaDePago="Pago en una sola exhibición" sello="XgSJAU+yQfBwTB9BZvLcTOvt2c2tMnuC6FJFTVPUjTLhK+QymxUeaRcm+AD28wtfccGluSi5u7iWuJqn6GayxiFvbPkS1hvwwzHs4qk+kAlv94jt2cvHpiV5ZXwLxZ9RUAneRwhavGmIZBtm7jBN/qtexhCBeNtoZArN1K4xoqQ=" fecha="2017-05-02T20:11:47" folio="00199144" serie="A" version="3.2" xsi:schemaLocation="http://www.buzonfiscal.com/ns/addenda/bf/2 http://www.buzonfiscal.com/schema/xsd/Addenda_BF_v20.xsd http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd " xmlns:bfa2="http://www.buzonfiscal.com/ns/addenda/bf/2" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <cfdi:Emisor nombre="NATTURA LABORATORIOS, SA DE CV" rfc="NLA820723FL4">
+        <cfdi:DomicilioFiscal codigoPostal="45145" pais="México" estado="Jalisco" municipio="ZAPOPAN" noExterior="746" calle="PEDRO MARTINEZ RIVAS"/>
+        <cfdi:RegimenFiscal Regimen="Intermedio"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="JOSE ARNOLDO MEDINA HERNANDEZ" rfc="MEHA850206NI7">
+        <cfdi:Domicilio codigoPostal="67176" pais="México" estado="Nuevo León" municipio="GUADALUPE" colonia="BOSQUES DEL COUNTRY" calle="MAPLE NO. 2215"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto importe="2784.00" valorUnitario="116.00" descripcion="Nevo Moisture Rich Condit 300ml Nacional" noIdentificacion="000000000000045179" unidad="PZ" cantidad="24.00"/>
+        <cfdi:Concepto importe="3024.00" valorUnitario="126.00" descripcion="Nevo Moisture Rich Shampoo300ml Nacional" noIdentificacion="000000000000045175" unidad="PZ" cantidad="24.00"/>
+        <cfdi:Concepto importe="3024.00" valorUnitario="126.00" descripcion="Nevo Reparative Shampoo 300ml Nacional" noIdentificacion="000000000000045176" unidad="PZ" cantidad="24.00"/>
+        <cfdi:Concepto importe="2784.00" valorUnitario="116.00" descripcion="Nevo Reparative Condition 300ml Nacional" noIdentificacion="000000000000045180" unidad="PZ" cantidad="24.00"/>
+        <cfdi:Concepto importe="4680.00" valorUnitario="195.00" descripcion="Nevo Intense Therapy 300 ml Nacional" noIdentificacion="000000000000045199" unidad="PZ" cantidad="24.00"/>
+        <cfdi:Concepto importe="1020.00" valorUnitario="85.00" descripcion="Nevo Model Behavior Cream 150ml Nacional" noIdentificacion="000000000000045189" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="2208.00" valorUnitario="184.00" descripcion="Nevo :60 Deep Treatment 250g Nacional" noIdentificacion="000000000000045230" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="840.00" valorUnitario="140.00" descripcion="Sh Biojen 9 Invigorating Clean300ml Naci" noIdentificacion="000000000000045148" unidad="PZ" cantidad="6.00"/>
+        <cfdi:Concepto importe="1140.00" valorUnitario="95.00" descripcion="Chroma Creme Developer 10Vol 1L Nacional" noIdentificacion="000000000000045170" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="1045.00" valorUnitario="95.00" descripcion="Chroma Creme Developer 10Vol 1L Nacional" noIdentificacion="000000000000045170" unidad="PZ" cantidad="11.00"/>
+        <cfdi:Concepto importe="2280.00" valorUnitario="95.00" descripcion="Chroma Creme Developer 20Vol 1L Nacional" noIdentificacion="000000000000045171" unidad="PZ" cantidad="24.00"/>
+        <cfdi:Concepto importe="2280.00" valorUnitario="95.00" descripcion="Chroma Creme Developer 30Vol 1L Nacional" noIdentificacion="000000000000045172" unidad="PZ" cantidad="24.00"/>
+        <cfdi:Concepto importe="1140.00" valorUnitario="95.00" descripcion="Zero Lift Color Activador Lt Nacional" noIdentificacion="000000000000045174" unidad="PZ" cantidad="12.00"/>
+        <cfdi:Concepto importe="2940.00" valorUnitario="294.00" descripcion="Nevo Reparative Shampoo 1L Nacional" noIdentificacion="000000000000045178" unidad="PZ" cantidad="10.00"/>
+        <cfdi:Concepto importe="882.00" valorUnitario="294.00" descripcion="Nevo Moisture Rich Shampoo 1L Nacional" noIdentificacion="000000000000045177" unidad="PZ" cantidad="3.00"/>
+        <cfdi:Concepto importe="1470.00" valorUnitario="294.00" descripcion="Nevo Moisture Rich Shampoo 1L Nacional" noIdentificacion="000000000000045177" unidad="PZ" cantidad="5.00"/>
+        <cfdi:Concepto importe="588.00" valorUnitario="294.00" descripcion="Nevo Moisture Rich Shampoo 1L Nacional" noIdentificacion="000000000000045177" unidad="PZ" cantidad="2.00"/>
+        <cfdi:Concepto importe="2940.00" valorUnitario="294.00" descripcion="Nevo Moisture Rich Condition 1L Nacional" noIdentificacion="000000000000045181" unidad="PZ" cantidad="10.00"/>
+        <cfdi:Concepto importe="1470.00" valorUnitario="294.00" descripcion="Nevo Reparative Conditioner 1L Nacional" noIdentificacion="000000000000045182" unidad="PZ" cantidad="5.00"/>
+        <cfdi:Concepto importe="1470.00" valorUnitario="294.00" descripcion="Nevo Reparative Conditioner 1L Nacional" noIdentificacion="000000000000045182" unidad="PZ" cantidad="5.00"/>
+        <cfdi:Concepto importe="0.00" valorUnitario="0.00" descripcion="Nevo :60 Deep Treatment 250g Nacional" noIdentificacion="000000000000045230" unidad="PZ" cantidad="8.00"/>
+        <cfdi:Concepto importe="0.00" valorUnitario="0.00" descripcion="Nevo Intense Therapy 300 ml Nacional" noIdentificacion="000000000000045199" unidad="PZ" cantidad="8.00"/>
+        <cfdi:Concepto importe="0.00" valorUnitario="0.00" descripcion="Nevo Hydra Pearl 120ml Nacional" noIdentificacion="000000000000045201" unidad="PZ" cantidad="8.00"/>
+        <cfdi:Concepto importe="675.98" valorUnitario="675.98" descripcion="Logística" noIdentificacion="000000000000131660" unidad="PZ" cantidad="1.00"/>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="3308.88">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="3308.88" tasa="16.00" impuesto="IVA"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd"  selloSAT="TA1Fs04qtoZoNqnyi3GRxrxHKktfOWlPeTrDBi946YgxpjRhRjO9ddW5bPf7XsaVFEFr/7faUc5zFH473Ew1+H1obMX0MAfpm4Yog5GuQcm6Libhf2z9/tCxhRyscSqVBNFeYvB2Q6yUcx1ISVTOJL1OcoHq7WsV1RiJZf8jIyPFpMCmh2cNrDhXrrM2J+6+DCDP95qIz5CnMtZFf0iM5t6MQEuF/AIh0L/KDJtZejrxQabFtvlBJcWnQeYSQXeD6hdaYR69n4efAtr5l+VUR5QtisgD2dq091qw2dUxNHZ5pqc0cSVQ5f//h5tzXorWdhrj0uCqnu11APv6CwNQQA==" noCertificadoSAT="00001000000404614920" selloCFD="XgSJAU+yQfBwTB9BZvLcTOvt2c2tMnuC6FJFTVPUjTLhK+QymxUeaRcm+AD28wtfccGluSi5u7iWuJqn6GayxiFvbPkS1hvwwzHs4qk+kAlv94jt2cvHpiV5ZXwLxZ9RUAneRwhavGmIZBtm7jBN/qtexhCBeNtoZArN1K4xoqQ=" FechaTimbrado="2017-05-02T20:11:47" UUID="5f28a090-ddd3-4f56-8c25-709428acf478" version="1.0"/>
+    </cfdi:Complemento>
+    <cfdi:Addenda>
+        <bfa2:AddendaBuzonFiscal version="2.0">
+            <bfa2:Receptor noCliente="117082"/>
+            <bfa2:Destino nombre="JOSE ARNOLDO MEDINA HERNANDEZ" rfc="MEHA850206NI7" claveIdentificacion="TEL." codigoPostal="67176" estado="NL" ciudad="GUADALUPE" numero="" calle="MAPLE NO. 2215"/>
+            <bfa2:TipoDocumento descripcion="Factura" nombreCorto="FAC"/>
+            <bfa2:CFD totalConLetra="VEINTITRES MIL NOVECIENTOS OCHENTA Y NUEVE PESOS 36/100 M.N." observaciones="" agenteVentas="10493"/>
+            <bfa2:Extra valor="512254" atributo="PEDIDO"/>
+            <bfa2:Extra valor="310223922" atributo="DOC. SAP"/>
+            <bfa2:Extra valor="50371" atributo="TRANSPORTE"/>
+            <bfa2:Extra valor="ECOMMERCE-1030 INC.61443" atributo="PEDIDO CLIENTE"/>
+            <bfa2:Extra valor="172.007 KG." atributo="PESO"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383329" Referencia1="174005463"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383312" Referencia1="174004363"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383336" Referencia1="164007830"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383343" Referencia1="174002607"/>
+            <bfa2:ExtraConceptos Referencia2="7501438384050" Referencia1="174003156"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383893" Referencia1="174002270"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383367" Referencia1="174002390"/>
+            <bfa2:ExtraConceptos Referencia2="7501438382421" Referencia1="164012865"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380304" Referencia1="174002548"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380304" Referencia1="174002548"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380311" Referencia1="174002221"/>
+            <bfa2:ExtraConceptos Referencia2="7501438380328" Referencia1="174005659"/>
+            <bfa2:ExtraConceptos Referencia2="7501438381318" Referencia1="174000304"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383404" Referencia1="174004866"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383381" Referencia1="174000431"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383381" Referencia1="174001704"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383381" Referencia1="174002908"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383398" Referencia1="164016943"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383411" Referencia1="164010519"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383411" Referencia1="164012281"/>
+            <bfa2:ExtraConceptos Referencia2="7501438383367" Referencia1="174002390"/>
+            <bfa2:ExtraConceptos Referencia2="7501438384050" Referencia1="164016688"/>
+            <bfa2:ExtraConceptos Referencia2="7501438384142" Referencia1="174000547"/>
+            <bfa2:ExtraConceptos Referencia2="" Referencia1=""/>
+        </bfa2:AddendaBuzonFiscal>
+    </cfdi:Addenda>
+</cfdi:Comprobante>

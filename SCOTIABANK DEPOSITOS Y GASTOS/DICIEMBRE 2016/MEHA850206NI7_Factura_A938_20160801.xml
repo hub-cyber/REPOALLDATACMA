@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="938" fecha="2016-08-01T00:27:43" sello="rOqKddkQmDv+rG722EShLKDKSduVf5HnMK634LQuw+EnlYceeRiS1oMcae5sz0FchlLKnudVBmwqT68F72nn4CiE42iBWqVW4joaSJYNkBqgpfUBpZ/2tnFt+3jiHjjjhvRi+ugSY7aPkfwazB/F/bOZsBSULWzLSd9LQqEuK0E=" formaDePago="Pago en parcialidades" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="2703.45" TipoCambio="1.00" Moneda="MXN" total="3136.00" metodoDePago="01 " LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Régimen personas físicas actividad empresarial y profesional"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="OICA750525AL4" nombre="ARGELIA MARIBEL ORTIZ COLLAZO">
+		<cfdi:Domicilio calle="CAMINO AL MIRADOR" noExterior="5316 L-D" colonia="DEL PASEO RESIDENCIAL" municipio="MONTERREY" estado="NUEVO LEON" pais="MEXICO" codigoPostal="64920"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="8767" descripcion="TINTE 6CC RUBIO OSCURO IR" valorUnitario="96.551" importe="193.10">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="8768" descripcion="TINTE 7CC RUBIO MEDIO IR" valorUnitario="96.551" importe="289.65">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="8769" descripcion="TINTE 8CC RUBIO CLARO IR" valorUnitario="96.551" importe="289.65">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="8738" descripcion="TINTE 7.01 RUBIO MEDIO LIG. CENIZO IR" valorUnitario="96.5521" importe="289.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="8729" descripcion="TINTE 6.10 RUBIO OSCURO CENIZO IR" valorUnitario="96.552" importe="289.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="8757" descripcion="TINTE 9.10 RUBIO CLARISIMO CENIZO IR" valorUnitario="96.552" importe="289.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="8742" descripcion="TINTE 7.35 RUBIO MEDIO DORADO CAOBA IR" valorUnitario="96.552" importe="289.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="8726" descripcion="TINTE 5.65 CASTAÑO CLARO ROJO CAOBA IR" valorUnitario="96.552" importe="96.55">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="8737" descripcion="TINTE 6.66 RUBIO OSCURO ROJO INTENSO IR" valorUnitario="96.552" importe="193.10">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="8755" descripcion="TINTE 8.66 RUBIO CLARO ROJO INTENSO IR" valorUnitario="96.552" importe="289.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="8760" descripcion="TINTE 1000 CENIZO IR" valorUnitario="96.552" importe="193.10">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="1095" descripcion="IRIDIUM PERÓXIDO EN CREMA 20V 4.0 L" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="432.55">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="432.55"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="HMdcLXyGWUhkkrRgQFHzgIEPQOZcrjmw6CCZLEjnWc5EB7YkMUowSXk4cr1VWROyC2VZAIyBNJR/7sjt5cs+kHCtTldDp8qEoiln4w9Gz9qVZU6wjnODLr+MLDT5+SBXdj86kZVUDoDUQ6NeNLS4MlL4cTeHhXfgt7ln+Ee/TW5iZU5BzSFB/O015uPJzWxb3HIoR2vGtIsAXEsqo+vLAdz0F9lfGOOL/9HXXiZxrv4zw7hFBvBnRTRZ3n0aTaPlvbHA294V1NIJITPurTPjOQCnsxjQ970kRjJh9frNpES5/XbdMbmG0yIrGIUzlc1tBf58z+l3IVS2LpqgEXV/vA==" noCertificadoSAT="00001000000401041203" selloCFD="rOqKddkQmDv+rG722EShLKDKSduVf5HnMK634LQuw+EnlYceeRiS1oMcae5sz0FchlLKnudVBmwqT68F72nn4CiE42iBWqVW4joaSJYNkBqgpfUBpZ/2tnFt+3jiHjjjhvRi+ugSY7aPkfwazB/F/bOZsBSULWzLSd9LQqEuK0E=" FechaTimbrado="2016-08-01T00:28:19" UUID="4F0D6803-D777-174C-B313-F1D0A129827F" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="787" fecha="2016-06-15T18:38:16" sello="MGKJ+bnPzYo6zdl+Jc3j8mvjiipghj0reAVgMnrFuGZcQNCEAPL+PQM6lQhXi/lBGF1rL4yxWOcP6oRGkNk+slHIS9Cf4Y7kn4omhVPtYm73P5f4RTtXsOhWcjLoGiVbnqNCIWH9XjxDHEoi5Rph/NbFvHA7wHeUItibi1F/6d4=" formaDePago="Pago en parcialidades" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 30 DIAS" subTotal="4612.07" TipoCambio="1.00" Moneda="MXN" total="5350.00" metodoDePago="No aplica" LugarExpedicion="GUADALUPE, NUEVO LEON" NumCtaPago="No aplica" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Régimen personas físicas actividad empresarial y profesional"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XXX010101000" nombre="JUAN GILBERTO CANTU">
+		<cfdi:Domicilio calle="ORQUIDEA" noExterior="242" colonia="PRADERAS DE CADEREYTA" municipio="CADEREYTA JIMIENEZ" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67484"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="5" unidad="PIEZA" noIdentificacion="40909" descripcion="CHROMA SILK HAIR COLOR 6" valorUnitario="92.24138" importe="461.21">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40910" descripcion="CHROMA SILK HAIR COLOR 7" valorUnitario="92.24138" importe="184.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5" unidad="PIEZA" noIdentificacion="40911" descripcion="CHROMA SILK HAIR COLOR 8" valorUnitario="92.24138" importe="461.21">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40912" descripcion="CHROMA SILK HAIR COLOR 9" valorUnitario="92.24138" importe="184.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40913" descripcion="CHROMA SILK HAIR COLOR 10" valorUnitario="92.24138" importe="184.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40944" descripcion="CHROMA SILK HAIR COLOR 7.51" valorUnitario="92.24138" importe="184.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40927" descripcion="CHROMA SILK HAIR COLOR 6.22" valorUnitario="92.24138" importe="184.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40929" descripcion="CHROMA SILK HAIR COLOR 7.22" valorUnitario="92.24138" importe="184.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40930" descripcion="CHROMA SILK HAIR COLOR 8.22" valorUnitario="92.24138" importe="184.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40931" descripcion="CHROMA SILK HAIR COLOR 9.22" valorUnitario="92.24638" importe="184.49">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40948" descripcion="CHROMA SILK HAIR COLOR 6.3" valorUnitario="92.24138" importe="92.24">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40950" descripcion="CHROMA SILK HAIR COLOR 8.3" valorUnitario="92.24638" importe="184.49">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40951" descripcion="CHROMA SILK HAIR COLOR 9.03" valorUnitario="92.24138" importe="184.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40934" descripcion="CHROMA SILK HAIR COLOR 7.31" valorUnitario="92.24638" importe="184.49">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40936" descripcion="CHROMA SILK HAIR COLOR 8.31" valorUnitario="92.24638" importe="184.49">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40967" descripcion="CHROMA SILK HAIR COLOR 7.40" valorUnitario="92.24638" importe="92.25">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40955" descripcion="CHROMA SILK HAIR COLOR 6.34" valorUnitario="92.24138" importe="184.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40972" descripcion="CHROMA SILK HAIR COLOR 5.66" valorUnitario="92.24138" importe="92.24">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="40977" descripcion="CHROMA SILK HAIR COLOR 7.66" valorUnitario="92.24138" importe="184.48">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40978" descripcion="CHROMA SILK HAIR COLOR 900" valorUnitario="92.24138" importe="92.24">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40980" descripcion="CHROMA SILK HAIR COLOR 902" valorUnitario="92.24138" importe="92.24">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40984" descripcion="CHROMA SILK HAIR COLOR 913" valorUnitario="92.24138" importe="92.24">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40991" descripcion="CHROMA SILK VIVID'S SILVER" valorUnitario="92.24138" importe="92.24">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="40995" descripcion="CHROMA SILK VIVID'S PINK" valorUnitario="92.24138" importe="92.24">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="42268" descripcion="CHROMA SILK VIVID'S ORQUIDEA" valorUnitario="92.24138" importe="92.24">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43946" descripcion="CHROMA SILK NEON'S BLUE" valorUnitario="92.24138" importe="92.24">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43948" descripcion="CHROMA SILK NEON'S PINK" valorUnitario="92.24138" importe="92.24">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43950" descripcion="CHROMA SILK NEON'S YELLOW" valorUnitario="92.24138" importe="92.24">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3" unidad="PIEZA" noIdentificacion="43093" descripcion="CHROMA SILK CRÈME DEVELOPER 20 VOL. 1L" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43094" descripcion="CHROMA SILK CRÈME DEVELOPER 30 VOL. 1L" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="43095" descripcion="CHROMA SILK CRÈME DEVELOPER 40 VOL. 1L" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="43096" descripcion="ZERO LIFT COLOR ACTIVATOR 1L" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4" unidad="PIEZA" noIdentificacion="40899" descripcion="SILK DEGREES SHINE SERUM 60ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4" unidad="PIEZA" noIdentificacion="43495" descripcion="NEVO FULL VOLUME MOUSSE 220ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="131240" descripcion="CAPA NEGRA" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="737.93">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="737.93"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="AQbLOZWzAUstyAocFQalzuAX0QKfQOUPYw464DXcRPRVJY2brf9m0dyfMoCiBDqw4MAQgBBjI/HXwE7FR6syt57nFqNLhd1Xm2TbhzKmdnRR6MpQJitwCme1E2AoUuFyC38Teh4whkl43XKiBWPhfO7Gl9J5VBmK0+Kaf5ske92r3dktVChN8M4B3t+pfDlhSjxwhV9a9nSJ3+AEJfm+U+L7Uyy05jo+ZqEehiKLVxOFK/wVbPKfFZKvDX5cRg9HBq3EPMjCrvfnDI6QmL7bcWCfI7y8lDipEWzcSpUmv3jHhLEImLCgD+q89LRLio+Cw3V13BmoNG9Ek+eaycVIWA==" noCertificadoSAT="00001000000401041203" selloCFD="MGKJ+bnPzYo6zdl+Jc3j8mvjiipghj0reAVgMnrFuGZcQNCEAPL+PQM6lQhXi/lBGF1rL4yxWOcP6oRGkNk+slHIS9Cf4Y7kn4omhVPtYm73P5f4RTtXsOhWcjLoGiVbnqNCIWH9XjxDHEoi5Rph/NbFvHA7wHeUItibi1F/6d4=" FechaTimbrado="2016-06-15T18:38:39" UUID="ED9292B1-4126-7C44-B66C-2A31B65D4AF0" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" tipoDeComprobante="ingreso" serie="A" folio="5547" fecha="2016-11-15T11:43:09" LugarExpedicion="MONTERREY NUEVO LEON 64710" sello="eqlFVzyJ1rCUbpiTkRbqtgnLwGSmjRwvko65DuaaWAo0/HA8KlXd1ZiUn3kBAawoqWec+a53s1S9Y522IcG5NMyLvFNkTOK2ZzM5+5E0S6Ic9i8mg82gSEkrc7EfeXVV/WDqUElNrEkz9UXMGpsG8oG8Ix+Hfb2Z1Pq2QK7OZcU=" noCertificado="00001000000301662152" certificado="MIIEvjCCA6agAwIBAgIUMDAwMDEwMDAwMDAzMDE2NjIxNTIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMTAxNzI2NDBaFw0xNzEyMTAxNzI2NDBaMIIBCTE5MDcGA1UEAxMwTE9OQVMgRSBJTVBSRVNJT05FUyBLRU1BTklBIERFTCBOT1JFU1RFIFNBIERFIENWMTkwNwYDVQQpEzBMT05BUyBFIElNUFJFU0lPTkVTIEtFTUFOSUEgREVMIE5PUkVTVEUgU0EgREUgQ1YxOTA3BgNVBAoTMExPTkFTIEUgSU1QUkVTSU9ORVMgS0VNQU5JQSBERUwgTk9SRVNURSBTQSBERSBDVjElMCMGA1UELRMcTElLMTEwNzI1M0gyIC8gUFVNQTg4MDMwNE1MMTEeMBwGA1UEBRMVIC8gUFVNQTg4MDMwNEhOTE5OTjA5MQ8wDQYDVQQLEwZNQVRSSVowgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJZhwgv5QsYtpCxj05wEs+uSj8gChzLBaqWbosmPpx2dcj/ZUx+Ewe2fNBipK1ISKkUFkQrJQG3mIFjtXORAgVAY20pc7cHotQkq/UGUYH1QuKJrbaLAdTIHzGTcq2hjMKIXloggL9863lV8EVJW8SOyF0rWfuSqd9jO+td4faOFAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQDQy+/ty7p+ojMTVZsJePTLXMM4y6ruSrO7c7RSWNmB0ELlM7FheYRWChe4/043YxH4G0NuUBz6uMQ8RqBAYieHdLiZrOeUfLHqJBPkDxnTrki2fAqy4ph7LynS2K95Ziz+4hsFty6wNMhEV3PGccYH2j+naXvijgbg+S8yuFKve/p16cW91gsONrwGs4/6sXH7AD0NaI2S+9gyGfIexl9/O9H7wOY5Fl2OIiQuUg3/mpXK9NApaArQMPiY0c/p5ezma6Y4rtPIn8IeKGSGhE7mvUdAxZ2BHAQPqQz7sZ8ZniauQHXEpdEFYn78bDeVKXR45kBUCX1b6810ajny3sOh" total="958.16" subTotal="826.00" Moneda="MXN" formaDePago="PAGO EN UNA SOLA EXHIBICION" condicionesDePago="CREDITO" metodoDePago="03">
+	<cfdi:Emisor rfc="LIK1107253H2" nombre="LONAS E IMPRESIONES KEMANIA DEL NORESTE S.A. DE C.V.">
+		<cfdi:DomicilioFiscal calle="MORONES PRIETO" noExterior="1618" colonia="NUEVAS COLONIAS" municipio="MONTERREY" estado="NUEVO LEON" pais="MEXICO" codigoPostal="64710"/>
+		<cfdi:RegimenFiscal Regimen="PERSONA MORAL REGIMEN GENERAL"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:Domicilio calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="MONTERREY" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.00" unidad="M2" noIdentificacion="MICRO" descripcion="VINIL MICROPERFORADO" valorUnitario="526.00" importe="526.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.00" unidad="PZA" noIdentificacion="INST" descripcion="INSTALACION INCLUYE IMSS" valorUnitario="300.00" importe="300.00">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="132.16">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="132.16"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloCFD="eqlFVzyJ1rCUbpiTkRbqtgnLwGSmjRwvko65DuaaWAo0/HA8KlXd1ZiUn3kBAawoqWec+a53s1S9Y522IcG5NMyLvFNkTOK2ZzM5+5E0S6Ic9i8mg82gSEkrc7EfeXVV/WDqUElNrEkz9UXMGpsG8oG8Ix+Hfb2Z1Pq2QK7OZcU=" FechaTimbrado="2016-11-15T11:43:14" UUID="59D2E32E-7581-499B-98FB-D1C3EE493940" noCertificadoSAT="00001000000202864530" version="1.0" selloSAT="NaV+WHpOZnCxbUiZmGu/yiFG2Cz9lIuY3x0ZvBsOW79joZekvlE3NhwR/n+HIW7qL1JiVqhWY+LAgKsrjSZ4mD6mYg+zGsYT/4CJdJq5eIDGeLEblcp7kAmWgYqRkk+IDpIBCLKs0Ez2+csokSamxvTxfREqyvZFQk5xFIdZmfk="/></cfdi:Complemento>
+</cfdi:Comprobante>

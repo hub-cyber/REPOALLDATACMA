@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="1188" fecha="2016-10-01T03:06:17" sello="dFtf/CaOJIFMaWl054ywS8lRImjSoirt85OyVlP2/dtMrd5HNrH+Y4jfBbA48U8CNSFEOYlXV4Zxfkf77TlDbeQTCc/n+q9KFB2aU9L3eWDgY/rKCnl16Hy0uXX9VG1DWGODGyuEsoFbKDZIS2NATtCnnXoD7fjCjQP31SIEs+w=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="1293.19" TipoCambio="1.00" Moneda="MXN" total="1500.10" metodoDePago="99 - Otros" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Régimen personas físicas actividad empresarial y profesional"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="XXX010101000" nombre="LAURA MARCELA MORALES MARTINEZ">
+		<cfdi:Domicilio calle="PERICOS" noExterior="1021" colonia="VALLE DE SANTO DOMINGO" municipio="SAN NICOLAS DE LOS GARZA" estado="NUEVO LEON" pais="MEXICO" codigoPostal="66437"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001601" descripcion="SENZARE TINTE 1 NEGRO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001602" descripcion="SENZARE TINTE 3 CASTAÑO OBSCURO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001603" descripcion="SENZARE TINTE 4 CASTAÑO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001604" descripcion="SENZARE TINTE 5 CASTAÑO CLARO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001606" descripcion="SENZARE TINTE 7 RUBIO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001607" descripcion="SENZARE TINTE 8 RUBIO CLARO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001608" descripcion="SENZARE TINTE 10 RUBIO EXTRA CLARO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001609" descripcion="SENZARE TINTE 7.1 RUBIO CENIZO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001610" descripcion="SENZARE TINTE 10.1 RUBIO EXTRA CLARO CENIZO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001612" descripcion="SENZARE TINTE 10.31 RUBIO EXTRA CLARP DORADO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001615" descripcion="SENZARE TINTE 6.45 RUBIO OBSCURO COBRIZO CAOBA" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001616" descripcion="SENZARE TINTE 5.13 CASTAÑO CLARO CENIZO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001618" descripcion="SENZARE TINTE 7.13 RUBIO CENIZO DORADO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001624" descripcion="SENZARE TINTE 8.1 RUBIO CLARO CENIZO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001625" descripcion="SENZARE TINTE 6.3 RUBIO OSCURO DORADO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001621" descripcion="SENZARE TINTE 8.6 RUBIO CLARO ROJIZO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001613" descripcion="SENZARE TINTE 9.22 RUBIO CLARO CLARO NACARADO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1" unidad="PIEZA" noIdentificacion="001629" descripcion="SENZARE TINTE 11.11 RUBIO ACLARANTE CENIZO INTENSO" valorUnitario="64.6552" importe="64.66">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2" unidad="PIEZA" noIdentificacion="001605" descripcion="SENZARE TINTE 6 RUBIO OBSCURO" valorUnitario="64.6552" importe="129.31">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="20" unidad="PIEZA" noIdentificacion="001313" descripcion="SENZARE PEROXIDO 20 VOL 135 ML" valorUnitario="0.00" importe="0.00">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="206.91">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="206.91"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="Usr1oGP7JqEGJXUnW0RPBdmTwT/6dkTxgMsTuX/TM5kxzYBcbsKbcRvtWcWaBfn3xWtkSxoV/MxrktBgzdas2g0sIZxojdyFTjs5ChgbwCRn+PbNpfTTh71ql72wpOPQXNkjRBTlKFz0X7nfoKgJ8taKTXJiTyxuM2yhwmuJ9PfWoE01qsiO+0oNoSOu2ehGoQjtaaZ3q4OoAgK0KVsIaZxhVMtAfYxqJkviE/UuNW/Rp9XYqnKxSfYWJSkT28w6eQUcOex+/L+7iXIF/dXg/A6Vi3KtWIQHqdUu4RDQ/ZIG42aoi0N0vqOZj6JAb3ZYm0vlprTvkSyHaJTywFVUTA==" noCertificadoSAT="00001000000401041203" selloCFD="dFtf/CaOJIFMaWl054ywS8lRImjSoirt85OyVlP2/dtMrd5HNrH+Y4jfBbA48U8CNSFEOYlXV4Zxfkf77TlDbeQTCc/n+q9KFB2aU9L3eWDgY/rKCnl16Hy0uXX9VG1DWGODGyuEsoFbKDZIS2NATtCnnXoD7fjCjQP31SIEs+w=" FechaTimbrado="2016-10-01T03:26:34" UUID="687E2D5F-A195-8540-B57D-2BBC8F57093F" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>

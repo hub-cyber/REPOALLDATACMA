@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="A" folio="2449" fecha="2017-08-21T12:49:20" sello="YxYQRYpNYHWSTfkiq7J7GUEX8i6Sl5B7sAE8azrLgZhDD/4teUhvBLfwSZT/LI1SdMwyhWVNbXLzCSiJFk4TmNp1wbf9xPzcTVDmfJhwcpktfVBWr79DnixcdW06c2jq4jAAk3KZgjO1lViR53R1Q+GnTI1+NEPIuzsfxYzCGVU=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000306426618" certificado="MIIEiTCCA3GgAwIBAgIUMDAwMDEwMDAwMDAzMDY0MjY2MTgwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMTcxODMxNTNaFw0xOTAzMTcxODMxNTNaMIHVMSYwJAYDVQQDEx1KT1NFIEFSTk9MRE8gTUVESU5BIEhFUk5BTkRFWjEmMCQGA1UEKRMdSk9TRSBBUk5PTERPIE1FRElOQSBIRVJOQU5ERVoxJjAkBgNVBAoTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMRYwFAYDVQQtEw1NRUhBODUwMjA2Tkk3MRswGQYDVQQFExJNRUhBODUwMjA2SE5MRFJSMDcxJjAkBgNVBAsTHUpPU0UgQVJOT0xETyBNRURJTkEgSEVSTkFOREVaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+X+kpPMh55TGASElM9R51cHeLvdfcrwtoJovGlAlHXCyvstWU2YI7sXnTxpsImtompmM92e7HmJiNtJwFRqzYCvlopghY9cOoXmKR4+LQZLihcc5uI3QHFVATJvi17BROmafPLzOj37VLiPEONGiHTm/+N0lL3QktZOOQyFYJmQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAhoxwJL1iy71hZBAhDGmr1L7aYCoYJERStmj4Z7RXlmv/OyCi7xK1rnDmR4lPA5F6aVLbBdev50F7Jlmjks0fE7Xc+HMx+1jQKA+XhCnYDyXVB4qowadiiF3WDMpGJ4Hg0V+rQc5Fpy3x/dBybkqB6anJfnYJGyXwdE/LulW+GK/rwX9NKRy+WoWiuPqy5RaRkq6gfdXMhBEnYu/dRu6L+aUmmibRwVsfeEaC8HLisSxpD7Zg3uVmJ3S9GWL++gpPMVsMM4IbF2rBjCXEAmiXC5QuYutOUWqkyuxkdEmP+qitkybYvhOwujJcJ4+V5CL8S6LxkqqBoGHHF9BGumFwWg==" condicionesDePago="CREDITO 28 DIAS" subTotal="236334.37" TipoCambio="1.00" Moneda="MXN" total="274147.87" metodoDePago="03" LugarExpedicion="GUADALUPE, NUEVO LEON" tipoDeComprobante="ingreso">
+	<cfdi:Emisor rfc="MEHA850206NI7" nombre="JOSE ARNOLDO MEDINA HERNANDEZ">
+		<cfdi:DomicilioFiscal calle="MAPLE" noExterior="2215" colonia="BOSQUES DEL CONTRY" municipio="GUADALUPE" estado="NUEVO LEON" pais="MEXICO" codigoPostal="67176"/>
+		<cfdi:RegimenFiscal Regimen="Personas Físicas con Actividades Empresariales y Profesionales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="PLO020913PN0" nombre="PRINT A LOGO SA DE CV">
+		<cfdi:Domicilio calle="AVE. LAZARO CARDENAS PONIENTE " noExterior="2400" colonia="RESIDENCIAL SAN AGUSTIN " referencia="EDIFICIO LOSOLES PISO 1 DESPACHO PA-4" municipio="SAN PEDRO GARZA GARCIA" estado="NUEVO LEON" pais="MEXICO" codigoPostal="66269"/>
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="92" unidad="PIEZA" noIdentificacion="CE285A" descripcion="CARTUCHO HP CE285A" valorUnitario="1099.00" importe="101108.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="26" unidad="PIEZA" noIdentificacion="CB435A" descripcion="CARTUCHO HP CB435A" valorUnitario="1189.00" importe="30914.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="98" unidad="PIEZA" noIdentificacion="MLT-D111S" descripcion="CARTUCHO SAMSUNG MLT-D111S" valorUnitario="890.514" importe="87270.37">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10" unidad="PIEZA" noIdentificacion="CZ103A" descripcion="CARTUCHO HP662 CZ103A" valorUnitario="169.00" importe="1690.00">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="16" unidad="PIEZA" noIdentificacion="MLT-101S" descripcion="CARTUCHO SAMSUNG MLT-101S" valorUnitario="959.50" importe="15352.00">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="37813.50">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="37813.50"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="UJzY5AbSGaEpVuhCjIlvMiQ6y5Ovrimloz5ceTEDy+UsNNJJOZ0EsiC+UZFXxmiEZrgmvtg+7NzANQiI+c9eC3N8m/91qdiCxHk0uzFhRBBAKeaV0bjNZFUvBOVkp71ShvDodZ34RQcUwQ+BPvoqd5AOqoKOMd7M4yH9hJpPs7ZxJVPh7z3U5j1zcCxFNGq7IddJA86Qsl3qnggpX7dUP59LBXTV+Gx/ZGG5Jpba+US7AF6Lp0R7w2dsOJQAM83tWgqoLhbr35ZzAPbBaRqSH2wqZMY9b3PphOkAXvZ6lTFZ+pVsaSBC7FAx5ORenyv1DmaE8JjR1YMZDFJBQwokWQ==" noCertificadoSAT="00001000000401041203" selloCFD="YxYQRYpNYHWSTfkiq7J7GUEX8i6Sl5B7sAE8azrLgZhDD/4teUhvBLfwSZT/LI1SdMwyhWVNbXLzCSiJFk4TmNp1wbf9xPzcTVDmfJhwcpktfVBWr79DnixcdW06c2jq4jAAk3KZgjO1lViR53R1Q+GnTI1+NEPIuzsfxYzCGVU=" FechaTimbrado="2017-08-21T12:52:59" UUID="2235D0B6-F660-7245-96B2-99B836B5D58E" version="1.0"/></cfdi:Complemento></cfdi:Comprobante>
